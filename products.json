@@ -63,8 +63,6 @@
 			"pinned": true,
 			"hasNew": false
 		},
-
-
 		{
 			"name": "CABLE USB EUROACS EU-Z008 LED C",
 			"price": "3.50",
@@ -101,7 +99,7 @@
 			"pinned": true,
 			"hasNew": false
 		},
-		{	
+		{
 			"name": "CABLE USB EUROACS EU-Y11 L WH",
 			"price": "1.30",
 			"imageSrc": "/img/y11-l.png",
@@ -415,6 +413,15 @@
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
-		}																							
+		},
+		{
+			"name": "HF BIG BT EUROACS EU-HS30 BLACK",
+			"price": "25.50",
+			"imageSrc": "/img/hs830.jpg",
+			"category": "HF BIG BT",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		}																						
 	]
 }

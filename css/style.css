@@ -357,6 +357,10 @@ button {
     z-index: 1000;
 }
 
+.cart-list-modal.active .cart-bottom-control {
+    display: block;
+}
+
 .cart-list {
     overflow: auto;
     height: calc(100% - 80px);
@@ -498,6 +502,7 @@ button {
     position: sticky;
     bottom: -1px;
     width: 100%;
+    display: none;
 }
 
 .send-cart {

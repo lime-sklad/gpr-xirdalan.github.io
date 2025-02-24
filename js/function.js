@@ -145,7 +145,16 @@ $(document).ready(function() {
             </div>
           `);
       });
+    });
 
+    $(document).on('click', '.delete-product-at-card', function() {
+       let id = $(this).closest('.cart-list-info').find('.cart-list-item-id').val();
+
+       delete card[id];
+
+       $(this).closest('.cart-list-item').remove();
+
+       sumCardTotal();
     });
 
 
@@ -163,7 +172,6 @@ $(document).ready(function() {
         let url = `https://wa.me/994504213635?text=${encodedStrs}`;
 
         window.location.href = url; // Перенаправление
-        console.log(url);
     });
 
 
