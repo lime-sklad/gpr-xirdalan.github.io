@@ -149,6 +149,24 @@ $(document).ready(function() {
     });
 
 
+    $(document).on('click', '.send-cart', function() {
+      let strs = '';
+
+      Object.keys(card).map(function(objectKey, index) {
+          var row = card[objectKey];
+
+          strs = strs + `${row.productName} - ${row.count} ədəd \n \n`;
+      });      
+
+
+        let encodedStrs = encodeURIComponent(strs); 
+        let url = `https://wa.me/994504213635?text=${encodedStrs}`;
+
+        window.location.href = url; // Перенаправление
+        console.log(url);
+    });
+
+
     function closeCartModal() {
       $('.add-to-card-modal').removeClass('display-flex');
     } 
@@ -287,6 +305,8 @@ function sumCardTotal() {
 
   $('.sum-card').text(sumCard.reduce((partialSum, a) => partialSum + a, 0).toFixed(2)); 
 }
+
+
 
 
 });

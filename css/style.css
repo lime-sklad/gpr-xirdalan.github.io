@@ -359,7 +359,7 @@ button {
 
 .cart-list {
     overflow: auto;
-    height: 100%;
+    height: calc(100% - 80px);
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -490,4 +490,22 @@ button {
     padding: 0px 3px;
     font-weight: 600;
     top: 4px;
+}
+
+
+.cart-bottom-control {
+    height: 50px;
+    position: sticky;
+    bottom: -1px;
+    width: 100%;
+}
+
+.send-cart {
+    padding: 15px 12px;
+    width: 100%;
+    background: #193eff;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    border: 0;
 }

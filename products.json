@@ -4,7 +4,7 @@
 			"name": "YADDAS USB 2GB EUROACS",
 			"price": "4.80",
 			"imageSrc": "/img/yaddas-usb-2gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -13,7 +13,7 @@
 			"name": "YADDAS USB 4GB EUROACS",
 			"price": "5.20",
 			"imageSrc": "/img/yaddas-usb-4gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -22,7 +22,7 @@
 			"name": "YADDAS USB 8GB EUROACS",
 			"price": "6.20",
 			"imageSrc": "/img/yaddas-usb-8gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -31,7 +31,7 @@
 			"name": "YADDAS USB 16GB EUROACS",
 			"price": "7.50",
 			"imageSrc": "/img/yaddas-usb-16gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -40,7 +40,7 @@
 			"name": "YADDAS USB 32GB EUROACS",
 			"price": "8.50",
 			"imageSrc": "/img/yaddas-usb-32gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -49,7 +49,7 @@
 			"name": "YADDAS USB 64GB EUROACS",
 			"price": "10",
 			"imageSrc": "/img/yaddas-usb-64gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -58,7 +58,7 @@
 			"name": "YADDAS USB 128GB EUROACS",
 			"price": "19",
 			"imageSrc": "/img/yaddas-usb-128gb.png",
-			"category": "YADDS",
+			"category": "YADDAS",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
