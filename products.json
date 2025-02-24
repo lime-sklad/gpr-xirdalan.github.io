@@ -1,0 +1,420 @@
+{
+	"products": [
+		{
+			"name": "YADDAS USB 2GB EUROACS",
+			"price": "4.80",
+			"imageSrc": "/img/yaddas-usb-2gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS USB 4GB EUROACS",
+			"price": "5.20",
+			"imageSrc": "/img/yaddas-usb-4gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS USB 8GB EUROACS",
+			"price": "6.20",
+			"imageSrc": "/img/yaddas-usb-8gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS USB 16GB EUROACS",
+			"price": "7.50",
+			"imageSrc": "/img/yaddas-usb-16gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS USB 32GB EUROACS",
+			"price": "8.50",
+			"imageSrc": "/img/yaddas-usb-32gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},		
+		{
+			"name": "YADDAS USB 64GB EUROACS",
+			"price": "10",
+			"imageSrc": "/img/yaddas-usb-64gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS USB 128GB EUROACS",
+			"price": "19",
+			"imageSrc": "/img/yaddas-usb-128gb.png",
+			"category": "YADDS",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+
+
+		{
+			"name": "CABLE USB EUROACS EU-Z008 LED C",
+			"price": "3.50",
+			"imageSrc": "/img/z008-t.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z008 LED L",
+			"price": "3.50",
+			"imageSrc": "/img/z008-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},		
+		{	
+			"name": "CABLE USB EUROACS EU-Z008 LED M",
+			"price": "3.50",
+			"imageSrc": "/img/z008-m.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Y11 C WH",
+			"price": "1.30",
+			"imageSrc": "/img/y11-t.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Y11 L WH",
+			"price": "1.30",
+			"imageSrc": "/img/y11-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Y11 M WH",
+			"price": "1",
+			"imageSrc": "/img/y11-usb-to-mikro.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Y11 20W L",
+			"price": "2",
+			"imageSrc": "/img/y11-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Y11 60W C",
+			"price": "1.80",
+			"imageSrc": "/img/y11-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z014 20W L",
+			"price": "3.50",
+			"imageSrc": "/img/z014-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z014 60W L",
+			"price": "2.50",
+			"imageSrc": "/img/z014-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z087 C",
+			"price": "1.80",
+			"imageSrc": "/img/z087-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z087 M",
+			"price": "1.80",
+			"imageSrc": "/img/z087-m.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z087 L",
+			"price": "1.60",
+			"imageSrc": "/img/z087-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z087C C",
+			"price": "2",
+			"imageSrc": "/img/z087-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z087C L",
+			"price": "2.50",
+			"imageSrc": "/img/z087-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z112A C",
+			"price": "3.50",
+			"imageSrc": "/img/z112-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z112A C",
+			"price": "3.50",
+			"imageSrc": "/img/z112-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z112A L",
+			"price": "3.50",
+			"imageSrc": "/img/z112-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z112C 100W C",
+			"price": "3",
+			"imageSrc": "/img/z112-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z115 C BLK",
+			"price": "2.20",
+			"imageSrc": "/img/z115-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z115 L BLK",
+			"price": "2.20",
+			"imageSrc": "/img/z115-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z115 M BLK",
+			"price": "2",
+			"imageSrc": "/img/z115-m.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE PD EUROACS EU-Z125 100W C",
+			"price": "4",
+			"imageSrc": "/img/z125-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z125 27W L",
+			"price": "4.50",
+			"imageSrc": "/img/z125-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z146 6A C",
+			"price": "2.50",
+			"imageSrc": "/img/z146-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z146 6A L",
+			"price": "2.50",
+			"imageSrc": "/img/z146-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z146 6A M",
+			"price": "2",
+			"imageSrc": "/img/z146-m.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z154C 80W C",
+			"price": "2.80",
+			"imageSrc": "/img/z154-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z154C 27W L",
+			"price": "3.30",
+			"imageSrc": "/img/z154-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},					
+		{	
+			"name": "CABLE USB EUROACS EU-Z154A 5A L",
+			"price": "2.50",
+			"imageSrc": "/img/z154-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},		
+		{	
+			"name": "CABLE USB EUROACS EU-Z154A 5A C",
+			"price": "2.50",
+			"imageSrc": "/img/z154-t.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},		
+		{	
+			"name": "CABLE USB EUROACS EU-Z154A 5A M",
+			"price": "2.20",
+			"imageSrc": "/img/z154-m.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE PD EUROACS EU-Z160 BRAID 35W C",
+			"price": "3",
+			"imageSrc": "/img/z160-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE PD EUROACS EU-Z176 SILICONE C",
+			"price": "2.20",
+			"imageSrc": "/img/z176-c-to-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z176 SILICONE C",
+			"price": "2.50",
+			"imageSrc": "/img/z176-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{	
+			"name": "CABLE USB EUROACS EU-Z190 METAL C",
+			"price": "4",
+			"imageSrc": "/img/z190-c.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z190 METAL L",
+			"price": "4",
+			"imageSrc": "/img/z190-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE USB EUROACS EU-Z190 METAL M",
+			"price": "3.60",
+			"imageSrc": "/img/z190-m.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{	
+			"name": "CABLE PD EUROACS EU-Z192 L",
+			"price": "2",
+			"imageSrc": "/img/z192-c-to-l.png",
+			"category": "CABLE",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		}																							
+	]
+}
