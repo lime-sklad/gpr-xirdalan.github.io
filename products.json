@@ -4,7 +4,7 @@
 			"name": "YADDAS USB 2GB EUROACS",
 			"price": "4.80",
 			"imageSrc": "/img/yaddas-usb-2gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -13,7 +13,7 @@
 			"name": "YADDAS USB 4GB EUROACS",
 			"price": "5.20",
 			"imageSrc": "/img/yaddas-usb-4gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -22,7 +22,7 @@
 			"name": "YADDAS USB 8GB EUROACS",
 			"price": "6.20",
 			"imageSrc": "/img/yaddas-usb-8gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -31,7 +31,7 @@
 			"name": "YADDAS USB 16GB EUROACS",
 			"price": "7.50",
 			"imageSrc": "/img/yaddas-usb-16gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -40,7 +40,7 @@
 			"name": "YADDAS USB 32GB EUROACS",
 			"price": "8.50",
 			"imageSrc": "/img/yaddas-usb-32gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -49,7 +49,7 @@
 			"name": "YADDAS USB 64GB EUROACS",
 			"price": "10",
 			"imageSrc": "/img/yaddas-usb-64gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
@@ -58,11 +58,83 @@
 			"name": "YADDAS USB 128GB EUROACS",
 			"price": "19",
 			"imageSrc": "/img/yaddas-usb-128gb.png",
-			"category": "YADDAS",
+			"category": "Flash drive",
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
 		},
+		{
+			"name": "YADDAS MIKRO 4GB EUROACS",
+			"price": "4.20",
+			"imageSrc": "/img/yaddas-mikro-4gb.jpg",
+			"category": "SD Card",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS MIKRO 8GB EUROACS",
+			"price": "5.20",
+			"imageSrc": "/img/yaddas-mikro-8gb.jpg",
+			"category": "SD Card",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS MIKRO 16GB EUROACS",
+			"price": "6.50",
+			"imageSrc": "/img/yaddas-mikro-16gb.jpg",
+			"category": "SD Card",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS MIKRO 32GB EUROACS",
+			"price": "7.50",
+			"imageSrc": "/img/yaddas-mikro-32gb.jpg",
+			"category": "SD Card",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "YADDAS MIKRO 64GB EUROACS",
+			"price": "10.50",
+			"imageSrc": "/img/yaddas-mikro-64gb.jpg",
+			"category": "SD Card",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "YADDAS MIKRO 128GB EUROACS",
+			"price": "19.50",
+			"imageSrc": "/img/yaddas-mikro-128gb.jpg",
+			"category": "SD Card",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CABLE USB JOKADE JA043 M",
+			"price": "0.60",
+			"imageSrc": "/img/ja043-m.png",
+			"category": "CABLE",
+			"brand": "Jokade",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CABLE USB JOKADE JA043 C",
+			"price": "0.70",
+			"imageSrc": "/img/ja043-c.png",
+			"category": "CABLE",
+			"brand": "Jokade",
+			"pinned": true,
+			"hasNew": false
+		},															
 		{
 			"name": "CABLE USB EUROACS EU-Z008 LED C",
 			"price": "3.50",
@@ -415,6 +487,177 @@
 			"hasNew": false
 		},
 		{
+			"name": "CHARGER USB JOKADE JB048 M",
+			"price": "2.20",
+			"imageSrc": "/img/jb048-m.png",
+			"category": "Adapterlər",
+			"brand": "Jokade",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "CHARGER USB JOKADE JB048 C",
+			"price": "2.50",
+			"imageSrc": "/img/jb048-c.png",
+			"category": "Adapterlər",
+			"brand": "Jokade",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "BASLIQ USB 3A JOKADE JB047/JB021",
+			"price": "2.50",
+			"imageSrc": "/img/jb047.png",
+			"category": "Basliq",
+			"brand": "Jokade",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "BASLIQ PD 20W EUROACS EU-MA320 WH",
+			"price": "6",
+			"imageSrc": "/img/ma320.png",
+			"category": "Basliq",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "CHARGER PD 20W EUROACS EU-MA320 C",
+			"price": "8",
+			"imageSrc": "/img/ma320-c.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},		
+		{
+			"name": "CHARGER PD 20W EUROACS EU-MA320 L",
+			"price": "8",
+			"imageSrc": "/img/ma320-l.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "BASLIQ USB 20W EUROACS EU-MA325",
+			"price": "5",
+			"imageSrc": "/img/ma325-b.png",
+			"category": "Basliq",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER USB 20W EUROACS EU-MA325 C",
+			"price": "6.50",
+			"imageSrc": "/img/ma325-c.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "CHARGER PD 20W EUROACS EU-MG357 C",
+			"price": "6.50",
+			"imageSrc": "/img/mg357-c.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},												
+		{
+			"name": "CHARGER PD 20W EUROACS EU-MG357 L",
+			"price": "7.50",
+			"imageSrc": "/img/mg357-l.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+			"price": "6",
+			"imageSrc": "/img/mg544-c.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER PD 25W EUROACS EU-MG618 C",
+			"price": "7",
+			"imageSrc": "/img/mg618.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER PD 30W EUROACS EU-MG656 SF C",
+			"price": "11",
+			"imageSrc": "/img/mg656.png",
+			"category": "Adapterlər",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER USB QC FONI FN014 C",
+			"price": "5.50",
+			"imageSrc": "/img/fn014-c.png",
+			"category": "Adapterlər",
+			"brand": "Foni",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER USB QC FONI FN014 M",
+			"price": "5",
+			"imageSrc": "/img/fn014-m.png",
+			"category": "Adapterlər",
+			"brand": "Foni",
+			"pinned": true,
+			"hasNew": false
+		},		
+		{
+			"name": "CHARGER USB QC FONI FN12 C",
+			"price": "5",
+			"imageSrc": "/img/fn12-c.png",
+			"category": "Adapterlər",
+			"brand": "Foni",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER USB QC FONI FN12 M",
+			"price": "4.90",
+			"imageSrc": "/img/fn12-m.png",
+			"category": "Adapterlər",
+			"brand": "Foni",
+			"pinned": true,
+			"hasNew": false
+		},
+		{
+			"name": "CHARGER USB QC SAMSUNG A15 C",
+			"price": "6",
+			"imageSrc": "/img/samsung-a15-c.png",
+			"category": "Adapterlər",
+			"brand": "Samsung",
+			"pinned": true,
+			"hasNew": false
+		},	
+		{
+			"name": "CHARGER USB QC SAMSUNG A15 M",
+			"price": "5.50",
+			"imageSrc": "/img/samsung-a15-m.png",
+			"category": "Adapterlər",
+			"brand": "Samsung",
+			"pinned": true,
+			"hasNew": false
+		},																		
+		{
 			"name": "HF BIG BT EUROACS EU-HS30 BLACK",
 			"price": "25.50",
 			"imageSrc": "/img/hs830.jpg",
@@ -422,6 +665,1365 @@
 			"brand": "Euroacs",
 			"pinned": true,
 			"hasNew": false
-		}																						
+		},
+ 		{
+        "name": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "Ekran qoruyucular",
+        "hasNew": "Euroacs"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "Ekran qoruyucular",
+        "hasNew": "Euroacs"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 11/XR",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "Ekran qoruyucular",
+        "hasNew": "Euroacs"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 12 MINI",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 12 PRO MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 12/12 PRO",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 13 MINI",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 13 PRO MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 14  ",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 14 PLUS",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 14 PRO MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 15  ",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 15 PRO MAX",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 16",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 16 PLUS",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS AD IPH 16 PRO MAX",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR 200 LITE",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X5B",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X5B PLUS",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X6B",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X7",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X7A",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X7B",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X7C",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X8",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X8A",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X8B",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS HONOR X9",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 11 PRO MAX/XS MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 12 MINI",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 12 PRO MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 12/12 PRO",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 13 MINI",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 13 PRO MAX",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 6G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 6G+/7G+/8G+",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH 7/8G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS IPH X/11 PRO",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS MI 11 LITE",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS OPPO A38",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS OPPO A58",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO C40",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO F6/F6 PRO",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO M5",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO X3",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO X4 PRO",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO X5",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO X5 PRO",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS POCO X6/X6 PRO",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 10",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 10A",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 10C",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 12",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 12C",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 13",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 13C",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 14C",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 14T",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 14T PRO",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 8A",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 9",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 9A",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 9C",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI 9T 2021",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI A1 PLUS",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI A3",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI A4",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 10",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 11 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 11 PRO 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 11 PRO PLUS",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 11S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 12",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 13",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 13 PRO",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 14",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 7",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 8",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 9",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 9 4G / 9T",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS REDMI NOTE 9S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A01 CORE",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A02",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A02S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A03",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A03 CORE",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A03S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A04",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A04S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A05",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A05S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A06",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A10",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A11",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A12",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A13 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A14 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A15",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A16",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A20/30/50",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A20S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A21S",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A22 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A22 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A23 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A24 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A25",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A26",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A31",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A32 4G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A33 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A34 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A35 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A36",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A40",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A41",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A51",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A52",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A53 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A54 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A55 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A56",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A6",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A71",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A72",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM A73 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM J2 PRIME",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM J250",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM J330",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S21",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S21 PLUS",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S22",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S22 PLUS",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S23",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S23 PLUS",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S23FE",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S24",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S24 FP",
+        "price": "2.5",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S24 PLUS",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S24 ULTRA",
+        "price": "1.7",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S24 ULTRA FP",
+        "price": "2.5",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S24FE",
+        "price": "2",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S25 FP",
+        "price": "3",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S25 PLUS FP",
+        "price": "3",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS SAM S25 ULTRA FP",
+        "price": "3",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS XIAOMI 13T 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    },
+    {
+        "name": "GLASS BIO HD EUROACS XIAOMI 13T PRO 5G",
+        "price": "1.6",
+        "imageSrc": "/img/bio-hd.png",
+        "category": "Ekran qoruyucular",
+        "brand": "Euroacs",
+        "pinned": "false",
+        "hasNew": "false"
+    }																				
 	]
 }

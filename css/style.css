@@ -141,14 +141,15 @@ body {
     font-size: 15px;
     font-weight: 600;
     line-height: 1.4rem;
+    height: 45px;
 }
 
 .products-price {
-    font-size: 20px;
+    font-size: 19px;
     display: block;
-    color: #262626;
+    color: #ff0037;
     margin: 9px 0;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .button {
@@ -260,6 +261,10 @@ button {
 @media screen and (max-width: 992px) {
     .products-card {
         flex-basis: 100%;
+    }
+
+    .products-name {
+        height: auto;
     }
 }
 
@@ -495,7 +500,6 @@ button {
     font-weight: 600;
     top: 4px;
 }
-
 
 .cart-bottom-control {
     height: 50px;
