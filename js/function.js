@@ -3,14 +3,15 @@ $(document).ready(function() {
     let card = [];
     let products = [];
     let category = [];
-    let selectedCategory = false;
+    let selectedCategory = '';
     let batchSize = 20;
     let currentIndex = 0;
     let isLoading = false;
 
-    $.getJSON("products.json", function(data) {
+    $.getJSON("products.json?v=100", function(data) {
       products = data.products;
       getCategoryList();
+
       loadProducts();
     });
 
@@ -95,8 +96,6 @@ $(document).ready(function() {
 
         sumCardTotal();
     });
-
-
 
 
     $(document).on('click', '.close-add-card-modal', function() {
@@ -267,16 +266,27 @@ $(document).ready(function() {
 
 
   function getCategoryList() {
+    let selected = '';
+
     $.each(products, function(key, val) {
       if(!category.includes(val.category)) {
         category.push(val.category);
       }  
     });
 
-    $.each(category, function(key, val) {
+    selectedRandomCategory();
+
+    $.each(category, function(key, val) { 
+      if(selectedCategory && val === selectedCategory) {
+        selected = 'selected';
+      }
+
+
       $('.select-category').append(`
-        <option class="select-category-option" value="${val}">${val}</option>
+        <option class="select-category-option" ${selected} value="${val}">${val}</option>
       `);
+
+      selected = '';
     });
   }
 
@@ -315,6 +325,9 @@ function sumCardTotal() {
 }
 
 
+function selectedRandomCategory() {
+  selectedCategory = category[Math.floor(Math.random() * category.length)];
+}
 
 
 });
