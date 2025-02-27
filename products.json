@@ -666,6 +666,68 @@
 			"pinned": true,
 			"hasNew": false
 		},
+		{
+			"name": "ELCEK PUBG",
+			"price": "0.60",
+			"imageSrc": "/img/elcek-pubg.jpg",
+			"category": "Qarışıq məhsullar",
+			"brand": "Ümumi",
+			"pinned": true,
+			"hasNew": false
+		},
+				{
+			"name": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+			"price": "0.50",
+			"imageSrc": "/img/fx01-magnit-demir.jpg",
+			"category": "Qarışıq məhsullar",
+			"brand": "Foni",
+			"pinned": true,
+			"hasNew": false
+		},
+						{
+			"name": "MOUSE WIRED MIKUSO MOS-015U",
+			"price": "2.20",
+			"imageSrc": "/img/mos-015u.jpg",
+			"category": "Mouse",
+			"brand": "Mikuso",
+			"pinned": true,
+			"hasNew": false
+		},						{
+			"name": "MOUSE WIRELESS MIKUSO MOS-W018",
+			"price": "5.50",
+			"imageSrc": "/img/mos-w018.jpg",
+			"category": "Mouse",
+			"brand": "Mikuso",
+			"pinned": true,
+			"hasNew": false
+		},
+								{
+			"name": "MOUSE OYUN WIRED MIKUSO MOS-379",
+			"price": "5.50",
+			"imageSrc": "/img/mos-379.jpg",
+			"category": "Mouse",
+			"brand": "Mikuso",
+			"pinned": true,
+			"hasNew": false
+		},
+										{
+			"name": "MOUSE WIRED EUROACS EU-M17 SILENT",
+			"price": "5",
+			"imageSrc": "/img/eu-m17.jpg",
+			"category": "Mouse",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
+												{
+			"name": "MOUSE WIRELESS EUROACS EU-M5 SILENT",
+			"price": "7",
+			"imageSrc": "/img/eu-m5.jpg",
+			"category": "Mouse",
+			"brand": "Euroacs",
+			"pinned": true,
+			"hasNew": false
+		},
  		{
         "name": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
         "price": "1.7",
