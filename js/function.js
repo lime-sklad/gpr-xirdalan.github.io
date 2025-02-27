@@ -8,7 +8,7 @@ $(document).ready(function() {
     let currentIndex = 0;
     let isLoading = false;
 
-    $.getJSON("products.json?v=100", function(data) {
+    $.getJSON("products.json?v=101", function(data) {
       products = data.products;
       getCategoryList();
 
