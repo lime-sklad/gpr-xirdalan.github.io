@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    
     let card = [];
     let products = [];
     let category = [];
@@ -8,7 +7,7 @@ $(document).ready(function() {
     let currentIndex = 0;
     let isLoading = false;
 
-    $.getJSON("products.json?v=103", function(data) {
+    $.getJSON("products.json?v=104", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -16,7 +15,14 @@ $(document).ready(function() {
     });
 
 
+
     $(window).on("scroll", function () {
+      if($(window).scrollTop() > 100) {
+        $('.search-container').addClass('search-container-scrolled');
+      } else { 
+        $('.search-container').removeClass('search-container-scrolled');
+      }
+
       if (!isLoading && $(window).scrollTop() + $(window).height() >= $(document).height() - 400) {
         if (currentIndex < products.length) {
           isLoading = true;
@@ -28,10 +34,42 @@ $(document).ready(function() {
     });
 
 
+    $(document).on('input', '.search-json', function() {
+       let $delay = 450;
+       let vals = $(this).val().toLowerCase().trim();
+
+
+       if(vals.length > 3) {
+         clearTimeout($(this).data('timer'));
+
+         $(this).data('timer', setTimeout(function() {
+            let jsonSearchArr = [];
+
+            jsonSearchArr = products.filter(
+                record => record.name.toLowerCase().includes(vals) 
+            );
+
+             if(jsonSearchArr.length > 0) {
+              console.log(jsonSearchArr);
+               selectedCategory = false;
+
+               $(".products-list").html('');
+               currentIndex = 0;
+               loadProducts(jsonSearchArr);
+             }
+
+         }, $delay));
+
+       }
+    });
+
+
     $(document).on('change', '.select-category', function() {
       let val = $(this).val();
 
       selectCategory(val);
+
+      scrollTop();
     });
 
 
@@ -130,7 +168,7 @@ $(document).ready(function() {
                   <span class="cart-list-item-productPrice">${row.productPrice}</span>
 
                   <div class="cart-list-info-count-group">
-                    <span class="label">Say:</span>
+                    <span class="cart-label">Say:</span>
                     <input type="text" class="input cart-list-item-count" value="${row.count}">
 
                     <p class="sum">
@@ -204,12 +242,12 @@ $(document).ready(function() {
   }
 
 
-  function loadProducts() {
+  function loadProducts(customData = []) {
+    let filtredData = [];
+
     if (currentIndex >= products.length) return;
 
     let endIndex = Math.min(currentIndex + batchSize, products.length);
-
-    let filtredData = [];
 
     if(selectedCategory) {
       filtredData = products.filter(item => item.category == selectedCategory);
@@ -217,6 +255,9 @@ $(document).ready(function() {
       filtredData = products;
     }
 
+    if(customData.length > 0) {
+       filtredData = customData;
+    }
 
     let batch = filtredData.slice(currentIndex, endIndex);
 
@@ -327,6 +368,13 @@ function sumCardTotal() {
 
 function selectedRandomCategory() {
   selectedCategory = category[Math.floor(Math.random() * category.length)];
+}
+
+
+function scrollTop() {
+  var $body = $("html, body, .container, .content");
+   $body.stop().animate({scrollTop:0}, 500, 'swing', function(evt) {
+   });
 }
 
 

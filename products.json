@@ -658,6 +658,87 @@
       "hasNew": false
     },
     {
+      "name": "TWS EUROACS EA-R4 ANC ",
+      "price": "26",
+      "imageSrc": "/img/ea-r4anc.jpg",
+      "category": "Airpods",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "TWS EUROACS RODS FLIP 3",
+      "price": "15",
+      "imageSrc": "/img/rods-flip-3.jpg",
+      "category": "Airpods",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "TWS EUROACS RODS FLIP 4",
+      "price": "24",
+      "imageSrc": "/img/rods-flip-4.jpg",
+      "category": "Airpods",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "TWS NORD BUDS BLACK",
+      "price": "12",
+      "imageSrc": "/img/nord-buds.jpg",
+      "category": "Airpods",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "TWS NORD BUDS BLUE",
+      "price": "12",
+      "imageSrc": "/img/nord-buds.jpg",
+      "category": "Airpods",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },  
+    {
+      "name": "TWS NORD BUDS GREEN",
+      "price": "12",
+      "imageSrc": "/img/nord-buds.jpg",
+      "category": "Airpods",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },         
+    {
+      "name": "TWS NORD BUDS WHITE",
+      "price": "12",
+      "imageSrc": "/img/nord-buds.jpg",
+      "category": "Airpods",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "TWS BUDS-X BLACK",
+      "price": "11",
+      "imageSrc": "/img/buds-x.jpg",
+      "category": "Airpods",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "TWS BUDS-X SILVER",
+      "price": "11",
+      "imageSrc": "/img/buds-x.jpg",
+      "category": "Airpods",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },                           
+    {
       "name": "HF BIG P47 BLACK",
       "price": "4",
       "imageSrc": "/img/p47.jpg",
@@ -701,7 +782,34 @@
       "brand": "Ümumi",
       "pinned": true,
       "hasNew": false
-    },    
+    }, 
+    {
+      "name": "HF BIG BT B39 BLACK",
+      "price": "8",
+      "imageSrc": "/img/b39.jpg",
+      "category": "HF BIG BT",  
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "HF BIG BT B39 WHITE",
+      "price": "8",
+      "imageSrc": "/img/b39.jpg",
+      "category": "HF BIG BT",  
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "HF BIG BT B39 RED",
+      "price": "8",
+      "imageSrc": "/img/b39.jpg",
+      "category": "HF BIG BT",  
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },               
     {
       "name": "HF BIG BT P9 BLACK",
       "price": "6.80",
@@ -775,6 +883,15 @@
       "hasNew": false
     },      
     {
+      "name": "HF BIG BT EUROACS EU-HS32 BLACK",
+      "price": "22",
+      "imageSrc": "/img/hs32.jpg",
+      "category": "HF BIG BT",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    },    
+    {
       "name": "HF BIG BT EUROACS EU-HS30 BLACK",
       "price": "25.50",
       "imageSrc": "/img/hs830.jpg",
@@ -800,7 +917,25 @@
       "brand": "JBL",
       "pinned": true,
       "hasNew": false
-    }, 
+    },
+    {
+      "name": "HF BIG BT JBL TUNE 510",
+      "price": "12",
+      "imageSrc": "/img/tune-510.jpg",
+      "category": "HF BIG BT",
+      "brand": "JBL",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "HF BIG BT JBL SN660",
+      "price": "15",
+      "imageSrc": "/img/sn660.jpg",
+      "category": "HF BIG BT",
+      "brand": "JBL",
+      "pinned": true,
+      "hasNew": false
+    },          
     {
       "name": "HF BIG BT MARSHALL MAJOR 4",
       "price": "15",
@@ -818,7 +953,52 @@
       "brand": "Marshall",
       "pinned": true,
       "hasNew": false
-    },                
+    }, 
+    {
+      "name": "HF BIG BT AIRPODS MAX-HIGH QUALITY",
+      "price": "33",
+      "imageSrc": "/img/airmax-hq.jpg",
+      "category": "HF BIG BT",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "HF BIG BT AIRMAX-2 BLACK",
+      "price": "12",
+      "imageSrc": "/img/airmax-2.jpg",
+      "category": "HF BIG BT",  
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "HF BIG BT AIRMAX-2 WHITE",
+      "price": "12",
+      "imageSrc": "/img/airmax-2-white.jpg",
+      "category": "HF BIG BT",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },             
+    {
+      "name": "POWERBANK MW 10000 EUROACS EU-PB144 22.5W",
+      "price": "34.50",
+      "imageSrc": "/img/pb144.jpg",
+      "category": "Powerbank",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "POWERBANK 20 000 JOKADE JG028",
+      "price": "15.50",
+      "imageSrc": "/img/JG028.jpg",
+      "category": "Powerbank",
+      "brand": "Jokade",
+      "pinned": true,
+      "hasNew": false
+    },                        
     {
       "name": "ELCEK PUBG",
       "price": "0.60",
@@ -837,6 +1017,24 @@
       "pinned": true,
       "hasNew": false
     },
+    {
+      "name": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
+      "price": "6.50",
+      "imageSrc": "/img/eu-pn03.jpg",
+      "category": "Qarışıq məhsullar",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "STYLUS PEN EUROACS EU-PN07 IOS",
+      "price": "14.50",
+      "imageSrc": "/img/eu-pn07.jpg",
+      "category": "Qarışıq məhsullar",
+      "brand": "Euroacs",
+      "pinned": true,
+      "hasNew": false
+    },        
     {
       "name": "RECIVER BT KOMPUTER 5.0",
       "price": "3",
@@ -939,7 +1137,7 @@
     {
       "name": "OTURUCU C TO OTG EUROACS EU-P066",
       "price": "2",
-      "imageSrc": "/img/eU-P066.jpg",
+      "imageSrc": "/img/eu-p66.jpg",
       "category": "Oturucu (OTG, AUX)",
       "brand": "Euroacs",
       "pinned": true,
