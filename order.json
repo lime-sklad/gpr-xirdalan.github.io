@@ -1927,5 +1927,24 @@
         "getId": "FZR9659"
       }
     ]
+  },
+  {
+    "id": 1740955344221,
+    "card": [
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "FEK5713"
+      },
+      {
+        "imageSrc": "/img/bio-hd.png",
+        "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
+        "productPrice": "1.7 AZN",
+        "count": 1,
+        "getId": "BGY6274"
+      }
+    ]
   }
 ]
