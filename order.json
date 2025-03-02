@@ -1296,5 +1296,234 @@
         "getId": "YBA6640"
       }
     ]
+  },
+  {
+    "id": 1740954626214,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-4gb.jpg",
+        "productName": "YADDAS MIKRO 4GB EUROACS",
+        "productPrice": "4.20 AZN",
+        "count": "1",
+        "getId": "AEI7852"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": 1,
+        "getId": "UAI2698"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "GJI8657"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-32gb.jpg",
+        "productName": "YADDAS MIKRO 32GB EUROACS",
+        "productPrice": "7.50 AZN",
+        "count": 1,
+        "getId": "LKY9726"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-64gb.jpg",
+        "productName": "YADDAS MIKRO 64GB EUROACS",
+        "productPrice": "10.50 AZN",
+        "count": 1,
+        "getId": "DIP4885"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-128gb.jpg",
+        "productName": "YADDAS MIKRO 128GB EUROACS",
+        "productPrice": "19.50 AZN",
+        "count": 1,
+        "getId": "RXQ0666"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": 1,
+        "getId": "VWR2378"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": 1,
+        "getId": "GRU4989"
+      },
+      {
+        "imageSrc": "/img/z008-t.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED C",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "UUG5499"
+      },
+      {
+        "imageSrc": "/img/z008-l.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED L",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "YDC3281"
+      },
+      {
+        "imageSrc": "/img/z008-m.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED M",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "QOR7048"
+      },
+      {
+        "imageSrc": "/img/y11-t.png",
+        "productName": "CABLE USB EUROACS EU-Y11 C WH",
+        "productPrice": "1.30 AZN",
+        "count": 1,
+        "getId": "GLN0517"
+      },
+      {
+        "imageSrc": "/img/y11-l.png",
+        "productName": "CABLE USB EUROACS EU-Y11 L WH",
+        "productPrice": "1.30 AZN",
+        "count": 1,
+        "getId": "RVX9365"
+      },
+      {
+        "imageSrc": "/img/y11-usb-to-mikro.png",
+        "productName": "CABLE USB EUROACS EU-Y11 M WH",
+        "productPrice": "1 AZN",
+        "count": 1,
+        "getId": "OWA6697"
+      },
+      {
+        "imageSrc": "/img/y11-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Y11 20W L",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "ARR0946"
+      },
+      {
+        "imageSrc": "/img/y11-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Y11 60W C",
+        "productPrice": "1.80 AZN",
+        "count": 1,
+        "getId": "UUK7346"
+      },
+      {
+        "imageSrc": "/img/z014-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z014 20W L",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "PEW3398"
+      },
+      {
+        "imageSrc": "/img/z014-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z014 60W L",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "VJB5445"
+      },
+      {
+        "imageSrc": "/img/z087-c.png",
+        "productName": "CABLE USB EUROACS EU-Z087 C",
+        "productPrice": "1.80 AZN",
+        "count": 1,
+        "getId": "OTE8949"
+      },
+      {
+        "imageSrc": "/img/z087-m.png",
+        "productName": "CABLE USB EUROACS EU-Z087 M",
+        "productPrice": "1.80 AZN",
+        "count": 1,
+        "getId": "FOQ7766"
+      },
+      {
+        "imageSrc": "/img/z087-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z087C C",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "IPN2961"
+      },
+      {
+        "imageSrc": "/img/z112-c.png",
+        "productName": "CABLE USB EUROACS EU-Z112A C",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "CXW1706"
+      },
+      {
+        "imageSrc": "/img/z112-c.png",
+        "productName": "CABLE USB EUROACS EU-Z112A C",
+        "productPrice": "3.50 AZN",
+        "count": 1,
+        "getId": "HIG8436"
+      },
+      {
+        "imageSrc": "/img/z112-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z112C 100W C",
+        "productPrice": "3 AZN",
+        "count": 1,
+        "getId": "TZI0239"
+      },
+      {
+        "imageSrc": "/img/z115-c.png",
+        "productName": "CABLE USB EUROACS EU-Z115 C BLK",
+        "productPrice": "2.20 AZN",
+        "count": 1,
+        "getId": "WXP9481"
+      },
+      {
+        "imageSrc": "/img/z115-l.png",
+        "productName": "CABLE USB EUROACS EU-Z115 L BLK",
+        "productPrice": "2.20 AZN",
+        "count": 1,
+        "getId": "OAD1819"
+      },
+      {
+        "imageSrc": "/img/z115-m.png",
+        "productName": "CABLE USB EUROACS EU-Z115 M BLK",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "ENO5785"
+      },
+      {
+        "imageSrc": "/img/z125-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z125 100W C",
+        "productPrice": "4 AZN",
+        "count": 1,
+        "getId": "YBO5916"
+      },
+      {
+        "imageSrc": "/img/z125-c-to-l.png",
+        "productName": "CABLE PD EUROACS EU-Z125 27W L",
+        "productPrice": "4.50 AZN",
+        "count": 1,
+        "getId": "POT5500"
+      },
+      {
+        "imageSrc": "/img/z146-l.png",
+        "productName": "CABLE USB EUROACS EU-Z146 6A L",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "FEA6751"
+      },
+      {
+        "imageSrc": "/img/z146-m.png",
+        "productName": "CABLE USB EUROACS EU-Z146 6A M",
+        "productPrice": "2 AZN",
+        "count": 1,
+        "getId": "CBB8248"
+      },
+      {
+        "imageSrc": "/img/z154-c-to-c.png",
+        "productName": "CABLE PD EUROACS EU-Z154C 80W C",
+        "productPrice": "2.80 AZN",
+        "count": 1,
+        "getId": "UBJ7512"
+      }
+    ]
   }
 ]
