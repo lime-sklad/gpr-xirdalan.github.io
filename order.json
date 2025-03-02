@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1740914625899,
+    "items": [
+      {
+        "product": "Samsung A25",
+        "quantity": 2,
+        "price": 500
+      },
+      {
+        "product": "iPhone 13",
+        "quantity": 1,
+        "price": 1200
+      }
+    ]
+  }
+]
