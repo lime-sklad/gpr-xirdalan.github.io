@@ -53,6 +53,10 @@ body {
     background: #fff;
 }
 
+.hide {
+    display: none!important;
+}
+
 .menu {
     position: fixed;
     right: 5px;
@@ -527,6 +531,24 @@ button {
         position: relative;
 }
 
+.preloader {
+    backdrop-filter: blur(3px);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #7f7f7f8f;
+}
+
+.preloader > img {
+    width: 50px;
+    height:auto;
+}
+
 
 @media screen and (max-width: 992px) {
     .products-card {
@@ -576,3 +598,4 @@ button {
 
 
 }
+

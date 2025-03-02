@@ -217,29 +217,27 @@ $(document).ready(function() {
           order.card.push(row);
       });      
 
-
         strs = strs + `https://gpr-xirdalan.github.io/orderView.html?orderId=${orderId}`;
 
-        sendOrders(order);
+        $.ajax({
+          url: 'https://gpr-xirdalan-github-io.vercel.app/api/saveOrder',
+          type: 'POST',
+          headers: { "Content-Type": "application/json" },
+          data: JSON.stringify(order),
+          beforeSend: () => {
+            $('.preloader').removeClass('hide');
+          },
+          success: () => {
+            $('.preloader').addClass('hide');
 
-        let encodedStrs = encodeURIComponent(strs); 
+            let encodedStrs = encodeURIComponent(strs); 
 
-        let url = `https://wa.me/994504213635?text=${encodedStrs}`;
+            let url = `https://wa.me/994504213635?text=${encodedStrs}`;
 
-        window.location.href = url;
-    });
-
-
-    async function sendOrders(order) {
-        let response = await fetch("https://gpr-xirdalan-github-io.vercel.app/api/saveOrder", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(order)
+            window.location.href = url;            
+          }
         });
-
-        let result = await response.json();
-        console.log(result);      
-    }
+    });
 
 
     function closeCartModal() {
