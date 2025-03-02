@@ -14,7 +14,7 @@
 	function(data) {
 
 		filtredList = data.filter(item => item.id == orderId);
-
+ 
 	    $.each(filtredList, function(key, val) {
 	      val.card.map(function(key) {
 	      	appendOrderView(key);
