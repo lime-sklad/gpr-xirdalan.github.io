@@ -219,15 +219,8 @@ $(document).ready(function() {
 
 
         strs = strs + `https://gpr-xirdalan.github.io/orderView.html?orderId=${orderId}`;
-        
-        let response = await fetch("https://gpr-xirdalan-github-io.vercel.app/api/saveOrder", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(order)
-        });
 
-        let result = await response.json();
-        console.log(result);    
+        sendOrders(order);
 
         let encodedStrs = encodeURIComponent(strs); 
 
@@ -235,6 +228,18 @@ $(document).ready(function() {
 
         window.location.href = url;
     });
+
+
+    async function sendOrders(order) {
+        let response = await fetch("https://gpr-xirdalan-github-io.vercel.app/api/saveOrder", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(order)
+        });
+
+        let result = await response.json();
+        console.log(result);      
+    }
 
 
     function closeCartModal() {
