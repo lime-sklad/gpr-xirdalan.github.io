@@ -301,5 +301,73 @@
         "getId": "OKN3512"
       }
     ]
+  },
+  {
+    "id": 1740951028817,
+    "card": [
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "5",
+        "getId": "OKN3512"
+      },
+      {
+        "imageSrc": "/img/mos-w018.jpg",
+        "productName": "MOUSE WIRELESS MIKUSO MOS-W018",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "VCO1680"
+      },
+      {
+        "imageSrc": "/img/mos-379.jpg",
+        "productName": "MOUSE OYUN WIRED MIKUSO MOS-379",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "BVE1455"
+      },
+      {
+        "imageSrc": "/img/eu-m5.jpg",
+        "productName": "MOUSE WIRELESS EUROACS EU-M5 SILENT",
+        "productPrice": "7 AZN",
+        "count": 1,
+        "getId": "RGC0773"
+      },
+      {
+        "imageSrc": "/img/gm820.jpg",
+        "productName": "MOUSE OYUN WIRED JEDEL GM820",
+        "productPrice": "9.50 AZN",
+        "count": 1,
+        "getId": "SEQ6563"
+      },
+      {
+        "imageSrc": "/img/gm830.jpg",
+        "productName": "MOUSE OYUN WIRED JEDEL GM830",
+        "productPrice": "11 AZN",
+        "count": 1,
+        "getId": "TXE5249"
+      },
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": 1,
+        "getId": "OCX9046"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": 1,
+        "getId": "YVL9606"
+      },
+      {
+        "imageSrc": "/img/z008-l.png",
+        "productName": "CABLE USB EUROACS EU-Z008 LED L",
+        "productPrice": "3.50 AZN",
+        "count": "20",
+        "getId": "RUR6123"
+      }
+    ]
   }
 ]
