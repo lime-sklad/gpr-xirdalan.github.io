@@ -10,5 +10,24 @@
         "getId": "HDY3101"
       }
     ]
+  },
+  {
+    "id": 1740950303717,
+    "card": [
+      {
+        "imageSrc": "/img/ja043-m.png",
+        "productName": "CABLE USB JOKADE JA043 M",
+        "productPrice": "0.60 AZN",
+        "count": "6",
+        "getId": "PAS7638"
+      },
+      {
+        "imageSrc": "/img/ja043-c.png",
+        "productName": "CABLE USB JOKADE JA043 C",
+        "productPrice": "0.70 AZN",
+        "count": "30",
+        "getId": "GBJ1162"
+      }
+    ]
   }
 ]
