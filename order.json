@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "order-1740912549880",
+    "name": "Samsung A25",
+    "price": 500,
+    "items": [
+      {
+        "product": "Samsung A25",
+        "quantity": 2,
+        "price": 500
+      },
+      {
+        "product": "iPhone 13",
+        "quantity": 1,
+        "price": 1200
+      }
+    ]
+  }
+]
