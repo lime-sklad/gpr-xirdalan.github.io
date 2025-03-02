@@ -1525,5 +1525,206 @@
         "getId": "UBJ7512"
       }
     ]
+  },
+  {
+    "id": 1740955094671,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-4gb.jpg",
+        "productName": "YADDAS MIKRO 4GB EUROACS",
+        "productPrice": "4.20 AZN",
+        "count": "4",
+        "getId": "WNI1505"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": 1,
+        "getId": "RXU3232"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "LSO0815"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-32gb.jpg",
+        "productName": "YADDAS MIKRO 32GB EUROACS",
+        "productPrice": "7.50 AZN",
+        "count": 1,
+        "getId": "MBE9844"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-128gb.jpg",
+        "productName": "YADDAS MIKRO 128GB EUROACS",
+        "productPrice": "19.50 AZN",
+        "count": 1,
+        "getId": "RZK0109"
+      },
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": 1,
+        "getId": "UCS2323"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "LLC2244"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": 1,
+        "getId": "QRM2113"
+      },
+      {
+        "imageSrc": "/img/a11.jpg",
+        "productName": "TWS A11 WITH DISPLAY ",
+        "productPrice": "21 AZN",
+        "count": 1,
+        "getId": "OSH6979"
+      },
+      {
+        "imageSrc": "/img/rods-pro.jpg",
+        "productName": "TWS EUROACS RODS PRO ANC",
+        "productPrice": "30 AZN",
+        "count": 1,
+        "getId": "BGU8843"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLACK",
+        "productPrice": "10.50 AZN",
+        "count": 1,
+        "getId": "ZNI9381"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLUE",
+        "productPrice": "10.50 AZN",
+        "count": 1,
+        "getId": "ZXS1750"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS PINK",
+        "productPrice": "10.50 AZN",
+        "count": 1,
+        "getId": "XZW8243"
+      },
+      {
+        "imageSrc": "/img/m90-pro.jpg",
+        "productName": "TWS M90 PRO",
+        "productPrice": "9 AZN",
+        "count": 1,
+        "getId": "WOS1187"
+      },
+      {
+        "imageSrc": "/img/beam-3.jpg",
+        "productName": "TWS BEAM 3 WITH DISPLAY BLACK",
+        "productPrice": "29 AZN",
+        "count": 1,
+        "getId": "LYD0495"
+      },
+      {
+        "imageSrc": "/img/beam-3.jpg",
+        "productName": "TWS BEAM 3 WITH DISPLAY PURPLE",
+        "productPrice": "29 AZN",
+        "count": 1,
+        "getId": "BUA4899"
+      },
+      {
+        "imageSrc": "/img/y113.jpg",
+        "productName": "TWS Y113 BLACK",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "WZY7241"
+      },
+      {
+        "imageSrc": "/img/y113.jpg",
+        "productName": "TWS Y113 BLUE",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "DNC8508"
+      },
+      {
+        "imageSrc": "/img/ji009-black.jpg",
+        "productName": "TWS JOKADE JI009 BLACK",
+        "productPrice": "14 AZN",
+        "count": 1,
+        "getId": "GRV0138"
+      },
+      {
+        "imageSrc": "/img/ji009-white.jpg",
+        "productName": "TWS JOKADE JI009 WHITE",
+        "productPrice": "14 AZN",
+        "count": 1,
+        "getId": "FSL3608"
+      },
+      {
+        "imageSrc": "/img/ji009-green.jpg",
+        "productName": "TWS JOKADE JI009 GREEN",
+        "productPrice": "14 AZN",
+        "count": 1,
+        "getId": "APR8967"
+      },
+      {
+        "imageSrc": "/img/ji005.jpg",
+        "productName": "TWS JOKADE JI005",
+        "productPrice": "15 AZN",
+        "count": 1,
+        "getId": "KWC3152"
+      },
+      {
+        "imageSrc": "/img/ea-r4anc.jpg",
+        "productName": "TWS EUROACS EA-R4 ANC ",
+        "productPrice": "26 AZN",
+        "count": 1,
+        "getId": "FGZ5412"
+      },
+      {
+        "imageSrc": "/img/rods-flip-4.jpg",
+        "productName": "TWS EUROACS RODS FLIP 4",
+        "productPrice": "24 AZN",
+        "count": 1,
+        "getId": "FLA5610"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS BLACK",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "EOA2567"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS GREEN",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "ODH7382"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS WHITE",
+        "productPrice": "12 AZN",
+        "count": 1,
+        "getId": "JNJ7914"
+      },
+      {
+        "imageSrc": "/img/buds-x.jpg",
+        "productName": "TWS BUDS-X BLACK",
+        "productPrice": "11 AZN",
+        "count": 1,
+        "getId": "FZR9659"
+      }
+    ]
   }
 ]
