@@ -381,5 +381,108 @@
         "getId": "MGL3942"
       }
     ]
+  },
+  {
+    "id": 1740951265395,
+    "card": [
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "10",
+        "getId": "XND9977"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "10",
+        "getId": "NXT9288"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": "10",
+        "getId": "HYB4772"
+      },
+      {
+        "imageSrc": "/img/ma320-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 L",
+        "productPrice": "8 AZN",
+        "count": "10",
+        "getId": "AUX3397"
+      },
+      {
+        "imageSrc": "/img/mg357-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MG357 C",
+        "productPrice": "6.50 AZN",
+        "count": "6",
+        "getId": "ZCZ2856"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": "8",
+        "getId": "WZS5979"
+      },
+      {
+        "imageSrc": "/img/mg618.png",
+        "productName": "CHARGER PD 25W EUROACS EU-MG618 C",
+        "productPrice": "7 AZN",
+        "count": "9",
+        "getId": "GGH8527"
+      },
+      {
+        "imageSrc": "/img/fn014-c.png",
+        "productName": "CHARGER USB QC FONI FN014 C",
+        "productPrice": "5.50 AZN",
+        "count": "6",
+        "getId": "BKU8380"
+      },
+      {
+        "imageSrc": "/img/fn014-m.png",
+        "productName": "CHARGER USB QC FONI FN014 M",
+        "productPrice": "5 AZN",
+        "count": "4",
+        "getId": "DFG0478"
+      },
+      {
+        "imageSrc": "/img/fn12-m.png",
+        "productName": "CHARGER USB QC FONI FN12 M",
+        "productPrice": "4.90 AZN",
+        "count": "3",
+        "getId": "XTT6920"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-c.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 C",
+        "productPrice": "6 AZN",
+        "count": "4",
+        "getId": "GVH1926"
+      },
+      {
+        "imageSrc": "/img/redmi-14c.jpeg",
+        "productName": "CHARGER USB 33W REDMI 14C C",
+        "productPrice": "6.50 AZN",
+        "count": "3",
+        "getId": "CSD6194"
+      },
+      {
+        "imageSrc": "/img/charger-a26.jpeg",
+        "productName": "CHARGER PD 25W SAMSUNG A26 C",
+        "productPrice": "6.50 AZN",
+        "count": "3",
+        "getId": "KPU1817"
+      },
+      {
+        "imageSrc": "/img/samsung-a14.jpeg",
+        "productName": "CHARGER USB QC SAMSUNG A14 M",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "ZLN0612"
+      }
+    ]
   }
 ]
