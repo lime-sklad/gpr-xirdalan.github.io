@@ -17,5 +17,31 @@
         "getId": "RCM3727"
       }
     ]
+  },
+  {
+    "id": 1740944934525,
+    "card": [
+      {
+        "imageSrc": "/img/m33.jpg",
+        "productName": "BASLIQ USB 67W MI M33 TURBO",
+        "productPrice": "7 AZN",
+        "count": "5",
+        "getId": "CJX3444"
+      },
+      {
+        "imageSrc": "/img/jb047.png",
+        "productName": "BASLIQ USB 3A JOKADE JB047/JB021",
+        "productPrice": "2.50 AZN",
+        "count": "3",
+        "getId": "UFM2848"
+      },
+      {
+        "imageSrc": "/img/ma320.png",
+        "productName": "BASLIQ PD 20W EUROACS EU-MA320 WH",
+        "productPrice": "6 AZN",
+        "count": "2",
+        "getId": "VTP8635"
+      }
+    ]
   }
 ]
