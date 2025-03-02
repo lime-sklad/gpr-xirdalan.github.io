@@ -791,5 +791,150 @@
         "getId": "SSK8347"
       }
     ]
+  },
+  {
+    "id": 1740952599372,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-4gb.jpg",
+        "productName": "YADDAS MIKRO 4GB EUROACS",
+        "productPrice": "4.20 AZN",
+        "count": "5",
+        "getId": "FLD7410"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "3",
+        "getId": "BDV0038"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+        "productName": "YADDAS MIKRO 16GB EUROACS",
+        "productPrice": "6.50 AZN",
+        "count": "3",
+        "getId": "NAS2347"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-32gb.jpg",
+        "productName": "YADDAS MIKRO 32GB EUROACS",
+        "productPrice": "7.50 AZN",
+        "count": "5",
+        "getId": "HQC3400"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-64gb.jpg",
+        "productName": "YADDAS MIKRO 64GB EUROACS",
+        "productPrice": "10.50 AZN",
+        "count": "6",
+        "getId": "CYA0494"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-128gb.jpg",
+        "productName": "YADDAS MIKRO 128GB EUROACS",
+        "productPrice": "19.50 AZN",
+        "count": "7",
+        "getId": "JKF5446"
+      },
+      {
+        "imageSrc": "/img/pb110.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
+        "productPrice": "18.50 AZN",
+        "count": "7",
+        "getId": "FVP3531"
+      },
+      {
+        "imageSrc": "/img/pb10.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB10 22.5W",
+        "productPrice": "22 AZN",
+        "count": "8",
+        "getId": "YNX8254"
+      },
+      {
+        "imageSrc": "/img/ksc-1084.jpg",
+        "productName": "POWERBANK 10000 KAKU KSC-1084",
+        "productPrice": "9.50 AZN",
+        "count": "9",
+        "getId": "TVS5173"
+      },
+      {
+        "imageSrc": "/img/jg005.jpg",
+        "productName": "POWERBANK 10000 JOKADE JG005",
+        "productPrice": "12 AZN",
+        "count": "4",
+        "getId": "QRF3606"
+      },
+      {
+        "imageSrc": "/img/powerbank-a11.jpg",
+        "productName": "POWERBANK 10000 FOREST A11 FAST",
+        "productPrice": "15 AZN",
+        "count": "2",
+        "getId": "GWS0821"
+      },
+      {
+        "imageSrc": "/img/jr-pbf12.jpeg",
+        "productName": "POWERBANK 10 000 JOYROOM JR-PBF12",
+        "productPrice": "15 AZN",
+        "count": "4",
+        "getId": "YLH4790"
+      },
+      {
+        "imageSrc": "/img/pb144.jpg",
+        "productName": "POWERBANK MW 10000 EUROACS EU-PB144 22.5W",
+        "productPrice": "34.50 AZN",
+        "count": "2",
+        "getId": "NVV7244"
+      },
+      {
+        "imageSrc": "/img/jg028.jpg",
+        "productName": "POWERBANK 20 000 JOKADE JG028",
+        "productPrice": "15.50 AZN",
+        "count": "4",
+        "getId": "RRB5654"
+      },
+      {
+        "imageSrc": "/img/mos-015u.jpg",
+        "productName": "MOUSE WIRED MIKUSO MOS-015U",
+        "productPrice": "2.20 AZN",
+        "count": "3",
+        "getId": "LKF6543"
+      },
+      {
+        "imageSrc": "/img/mos-w018.jpg",
+        "productName": "MOUSE WIRELESS MIKUSO MOS-W018",
+        "productPrice": "5.50 AZN",
+        "count": "2",
+        "getId": "AAE9217"
+      },
+      {
+        "imageSrc": "/img/mos-379.jpg",
+        "productName": "MOUSE OYUN WIRED MIKUSO MOS-379",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "WHE5403"
+      },
+      {
+        "imageSrc": "/img/eu-m17.jpg",
+        "productName": "MOUSE WIRED EUROACS EU-M17 SILENT",
+        "productPrice": "5 AZN",
+        "count": "4",
+        "getId": "SHO1342"
+      },
+      {
+        "imageSrc": "/img/eu-m5.jpg",
+        "productName": "MOUSE WIRELESS EUROACS EU-M5 SILENT",
+        "productPrice": "7 AZN",
+        "count": "8",
+        "getId": "VQU1081"
+      },
+      {
+        "imageSrc": "/img/gm830.jpg",
+        "productName": "MOUSE OYUN WIRED JEDEL GM830",
+        "productPrice": "11 AZN",
+        "count": "9",
+        "getId": "OYQ3783"
+      }
+    ]
   }
 ]
