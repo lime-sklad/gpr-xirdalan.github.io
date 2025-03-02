@@ -1,14 +1,13 @@
-const GITHUB_TOKEN = ""; 
-const REPO_OWNER = "gpr-xirdalan";
-const REPO_NAME = "gpr-xirdalan.github.io";
-const FILE_PATH = "order.json";
-let order = [];
+export default async function handler(req, res) {
+    if (req.method !== "POST") {
+        return res.status(405).json({ error: "Метод не поддерживается" });
+    }
 
-function encodeBase64(str) {
-    return btoa(unescape(encodeURIComponent(str)));
-}
+    const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Храним в переменных среды
+    const REPO_OWNER = "gpr-xirdalan";
+    const REPO_NAME = "gpr-xirdalan.github.io";
+    const FILE_PATH = "order.json";
 
-async function saveOrder(order) {
     try {
         // **1. Получаем order.json**
         let response = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`, {
@@ -18,13 +17,14 @@ async function saveOrder(order) {
         if (!response.ok) throw new Error("Ошибка при получении order.json");
 
         let data = await response.json();
-        let existingOrders = JSON.parse(atob(data.content)); // Декодируем base64
+        let existingOrders = JSON.parse(Buffer.from(data.content, "base64").toString("utf-8"));
 
         // **2. Добавляем новый заказ**
-        existingOrders.push(order);
+        const newOrder = req.body;
+        existingOrders.push(newOrder);
 
         // **3. Кодируем JSON в base64**
-        let updatedContent = encodeBase64(JSON.stringify(existingOrders, null, 2));
+        let updatedContent = Buffer.from(JSON.stringify(existingOrders, null, 2)).toString("base64");
 
         // **4. Обновляем order.json через GitHub API**
         response = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`, {
@@ -42,12 +42,8 @@ async function saveOrder(order) {
 
         if (!response.ok) throw new Error("Ошибка при обновлении order.json");
 
-        console.log("Заказ сохранён!");
+        return res.status(200).json({ message: "Заказ сохранён!" });
     } catch (error) {
-        console.error("Ошибка:", error);
+        return res.status(500).json({ error: error.message });
     }
 }
-
-
-
-

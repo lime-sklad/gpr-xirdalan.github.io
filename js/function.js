@@ -219,8 +219,15 @@ $(document).ready(function() {
 
 
         strs = strs + `https://gpr-xirdalan.github.io/orderView.html?orderId=${orderId}`;
+        
+        let response = await fetch("https://gpr-xirdalan-github-io.vercel.app/api/saveOrder", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(order)
+        });
 
-        saveOrder(order);     
+        let result = await response.json();
+        console.log(result);    
 
         let encodedStrs = encodeURIComponent(strs); 
 
