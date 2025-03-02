@@ -5,9 +5,56 @@
       {
         "imageSrc": "/img/bio-hd.png",
         "productName": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
-        "productPrice": "1.7₼",
+        "productPrice": "1.7â¼",
         "count": "5",
         "getId": "YUP1494"
+      }
+    ]
+  },
+  {
+    "id": 1740915900879,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-usb-2gb.png",
+        "productName": "YADDAS USB 2GB EUROACS",
+        "productPrice": "4.80₼",
+        "count": "3",
+        "getId": "ZQL3759"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-4gb.png",
+        "productName": "YADDAS USB 4GB EUROACS",
+        "productPrice": "5.20₼",
+        "count": "6",
+        "getId": "PEZ0621"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-8gb.png",
+        "productName": "YADDAS USB 8GB EUROACS",
+        "productPrice": "6.20₼",
+        "count": "8",
+        "getId": "SDV2271"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-32gb.png",
+        "productName": "YADDAS USB 32GB EUROACS",
+        "productPrice": "8.50₼",
+        "count": "9",
+        "getId": "YNL6638"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-64gb.png",
+        "productName": "YADDAS USB 64GB EUROACS",
+        "productPrice": "10₼",
+        "count": "10",
+        "getId": "OIW4711"
+      },
+      {
+        "imageSrc": "/img/yaddas-usb-128gb.png",
+        "productName": "YADDAS USB 128GB EUROACS",
+        "productPrice": "19₼",
+        "count": "7",
+        "getId": "UNN6614"
       }
     ]
   }
