@@ -779,5 +779,17 @@
         "getId": "IPU2299"
       }
     ]
+  },
+  {
+    "id": 1740952375819,
+    "card": [
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "SSK8347"
+      }
+    ]
   }
 ]
