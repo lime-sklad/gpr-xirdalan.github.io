@@ -613,5 +613,171 @@
         "getId": "HGK9691"
       }
     ]
+  },
+  {
+    "id": 1740951958284,
+    "card": [
+      {
+        "imageSrc": "/img/m33.jpg",
+        "productName": "BASLIQ USB 67W MI M33 TURBO",
+        "productPrice": "7 AZN",
+        "count": "1",
+        "getId": "IGK7331"
+      },
+      {
+        "imageSrc": "/img/jb047.png",
+        "productName": "BASLIQ USB 3A JOKADE JB047/JB021",
+        "productPrice": "2.50 AZN",
+        "count": "6",
+        "getId": "MCI0126"
+      },
+      {
+        "imageSrc": "/img/ma320.png",
+        "productName": "BASLIQ PD 20W EUROACS EU-MA320 WH",
+        "productPrice": "6 AZN",
+        "count": "5",
+        "getId": "QFP4101"
+      },
+      {
+        "imageSrc": "/img/fn20.jpeg",
+        "productName": "BASLIQ PD 20W FONI FN20 WH",
+        "productPrice": "4 AZN",
+        "count": "4",
+        "getId": "EUP2516"
+      },
+      {
+        "imageSrc": "/img/ma325-b.png",
+        "productName": "BASLIQ USB 20W EUROACS EU-MA325",
+        "productPrice": "5 AZN",
+        "count": "3",
+        "getId": "GAB1474"
+      },
+      {
+        "imageSrc": "/img/basliq-sam-a16.jpeg",
+        "productName": "BASLIQ USB 25W SAMSUNG A16",
+        "productPrice": "4.80 AZN",
+        "count": "4",
+        "getId": "UKV2747"
+      },
+      {
+        "imageSrc": "/img/basliq-pd-a26.jpeg",
+        "productName": "BASLIQ PD 25W SAMSUNG A26",
+        "productPrice": "5 AZN",
+        "count": "4",
+        "getId": "VPX3239"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLACK",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "IKN8997"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 BLUE",
+        "productPrice": "4 AZN",
+        "count": "5",
+        "getId": "TWA3152"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 RED",
+        "productPrice": "4 AZN",
+        "count": "4",
+        "getId": "KZQ8226"
+      },
+      {
+        "imageSrc": "/img/p47.jpg",
+        "productName": "HF BIG P47 GREEN",
+        "productPrice": "4 AZN",
+        "count": "4",
+        "getId": "FVG0263"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 BLACK",
+        "productPrice": "8 AZN",
+        "count": "3",
+        "getId": "BYJ7077"
+      },
+      {
+        "imageSrc": "/img/b39.jpg",
+        "productName": "HF BIG BT B39 WHITE",
+        "productPrice": "8 AZN",
+        "count": "2",
+        "getId": "HAV1468"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLACK",
+        "productPrice": "6.80 AZN",
+        "count": "4",
+        "getId": "PRU8815"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 SILVER",
+        "productPrice": "6.80 AZN",
+        "count": "7",
+        "getId": "PRO6886"
+      },
+      {
+        "imageSrc": "/img/p9lite-white.jpg",
+        "productName": "HF BIG BT P9 BLUE",
+        "productPrice": "6.80 AZN",
+        "count": "8",
+        "getId": "EZS1939"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX BLUE",
+        "productPrice": "14.50 AZN",
+        "count": "4",
+        "getId": "NIA7255"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX WHITE",
+        "productPrice": "14.50 AZN",
+        "count": "3",
+        "getId": "ZVF4686"
+      },
+      {
+        "imageSrc": "/img/kr-max.jpg",
+        "productName": "HF BIG BT KRMAX RED",
+        "productPrice": "14.50 AZN",
+        "count": "2",
+        "getId": "GLQ9524"
+      },
+      {
+        "imageSrc": "/img/hs32.jpg",
+        "productName": "HF BIG BT EUROACS EU-HS32 BLACK",
+        "productPrice": "22 AZN",
+        "count": "4",
+        "getId": "MIR3000"
+      },
+      {
+        "imageSrc": "/img/wh1000xm5.jpg",
+        "productName": "HF BIG BT SONY WH1000XM5",
+        "productPrice": "15 AZN",
+        "count": "7",
+        "getId": "SHE1646"
+      },
+      {
+        "imageSrc": "/img/msl-710.jpg",
+        "productName": "HF BIG BT JBL MSL-710",
+        "productPrice": "12 AZN",
+        "count": "3",
+        "getId": "ZMQ0018"
+      },
+      {
+        "imageSrc": "/img/major-4.jpg",
+        "productName": "HF BIG BT MARSHALL MAJOR 4",
+        "productPrice": "15 AZN",
+        "count": "2",
+        "getId": "IPU2299"
+      }
+    ]
   }
 ]
