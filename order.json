@@ -55,5 +55,87 @@
         "getId": "EEA6745"
       }
     ]
+  },
+  {
+    "id": 1740950831359,
+    "card": [
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "10",
+        "getId": "SAZ0901"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": "10",
+        "getId": "JBJ9622"
+      },
+      {
+        "imageSrc": "/img/ma320-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 L",
+        "productPrice": "8 AZN",
+        "count": "10",
+        "getId": "EEA6745"
+      },
+      {
+        "imageSrc": "/img/fn12-c.png",
+        "productName": "CHARGER USB QC FONI FN12 C",
+        "productPrice": "5 AZN",
+        "count": "6",
+        "getId": "TNM0361"
+      },
+      {
+        "imageSrc": "/img/fn12-m.png",
+        "productName": "CHARGER USB QC FONI FN12 M",
+        "productPrice": "4.90 AZN",
+        "count": "5",
+        "getId": "NOD3889"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-c.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 C",
+        "productPrice": "6 AZN",
+        "count": "4",
+        "getId": "PPV9003"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-m.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 M",
+        "productPrice": "5.50 AZN",
+        "count": "4",
+        "getId": "TBZ4843"
+      },
+      {
+        "imageSrc": "/img/redmi-14c.jpeg",
+        "productName": "CHARGER USB 33W REDMI 14C C",
+        "productPrice": "6.50 AZN",
+        "count": "8",
+        "getId": "HKC0957"
+      },
+      {
+        "imageSrc": "/img/charger-a16.jpeg",
+        "productName": "CHARGER USB 25W SAMSUNG A16 C",
+        "productPrice": "6 AZN",
+        "count": "3",
+        "getId": "UQK3988"
+      },
+      {
+        "imageSrc": "/img/charger-a26.jpeg",
+        "productName": "CHARGER PD 25W SAMSUNG A26 C",
+        "productPrice": "6.50 AZN",
+        "count": "2",
+        "getId": "ANH3248"
+      },
+      {
+        "imageSrc": "/img/samsung-a14.jpeg",
+        "productName": "CHARGER USB QC SAMSUNG A14 C",
+        "productPrice": "6 AZN",
+        "count": "4",
+        "getId": "KQH9816"
+      }
+    ]
   }
 ]
