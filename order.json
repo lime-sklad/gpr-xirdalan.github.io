@@ -369,5 +369,17 @@
         "getId": "RUR6123"
       }
     ]
+  },
+  {
+    "id": 1740951193089,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-64gb.jpg",
+        "productName": "YADDAS MIKRO 64GB EUROACS",
+        "productPrice": "10.50 AZN",
+        "count": "4",
+        "getId": "MGL3942"
+      }
+    ]
   }
 ]
