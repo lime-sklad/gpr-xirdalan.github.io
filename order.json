@@ -137,5 +137,157 @@
         "getId": "KQH9816"
       }
     ]
+  },
+  {
+    "id": 1740950936629,
+    "card": [
+      {
+        "imageSrc": "/img/pro-a20.jpg",
+        "productName": "TWS PRO A20 ",
+        "productPrice": "8.50 AZN",
+        "count": "5",
+        "getId": "OOW0323"
+      },
+      {
+        "imageSrc": "/img/a1938.jpeg",
+        "productName": "TWS AIRPODS-2 A1938 ",
+        "productPrice": "12 AZN",
+        "count": "4",
+        "getId": "OKL1777"
+      },
+      {
+        "imageSrc": "/img/a2-pro.jpeg",
+        "productName": "TWS A2 PRO WITH DISPLAY ",
+        "productPrice": "20 AZN",
+        "count": "6",
+        "getId": "IIX8081"
+      },
+      {
+        "imageSrc": "/img/anc+enc.jpg",
+        "productName": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+        "productPrice": "22 AZN",
+        "count": "8",
+        "getId": "JPK0500"
+      },
+      {
+        "imageSrc": "/img/a11.jpg",
+        "productName": "TWS A11 WITH DISPLAY ",
+        "productPrice": "21 AZN",
+        "count": "9",
+        "getId": "IWS3426"
+      },
+      {
+        "imageSrc": "/img/airpods-4.jpg",
+        "productName": "TWS AIRPODS-4",
+        "productPrice": "28 AZN",
+        "count": "3",
+        "getId": "AOH8576"
+      },
+      {
+        "imageSrc": "/img/rods-pro.jpg",
+        "productName": "TWS EUROACS RODS PRO ANC",
+        "productPrice": "30 AZN",
+        "count": "3",
+        "getId": "TDJ3218"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLACK",
+        "productPrice": "10.50 AZN",
+        "count": "2",
+        "getId": "WMA9551"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS BLUE",
+        "productPrice": "10.50 AZN",
+        "count": "3",
+        "getId": "CNS6844"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS PINK",
+        "productPrice": "10.50 AZN",
+        "count": "2",
+        "getId": "PPZ2922"
+      },
+      {
+        "imageSrc": "/img/ultrapods.jpg",
+        "productName": "TWS ULTRAPODS WHITE",
+        "productPrice": "10.50 AZN",
+        "count": "6",
+        "getId": "KEL7590"
+      },
+      {
+        "imageSrc": "/img/m90-pro.jpg",
+        "productName": "TWS M90 PRO",
+        "productPrice": "9 AZN",
+        "count": "8",
+        "getId": "EPJ2823"
+      },
+      {
+        "imageSrc": "/img/beam-3.jpg",
+        "productName": "TWS BEAM 3 WITH DISPLAY BLACK",
+        "productPrice": "29 AZN",
+        "count": "9",
+        "getId": "JXJ0855"
+      },
+      {
+        "imageSrc": "/img/beam-3.jpg",
+        "productName": "TWS BEAM 3 WITH DISPLAY PURPLE",
+        "productPrice": "29 AZN",
+        "count": "10",
+        "getId": "RNC7417"
+      },
+      {
+        "imageSrc": "/img/y113.jpg",
+        "productName": "TWS Y113 BLUE",
+        "productPrice": "12 AZN",
+        "count": "3",
+        "getId": "ZXF5330"
+      },
+      {
+        "imageSrc": "/img/y113.jpg",
+        "productName": "TWS Y113 PINK",
+        "productPrice": "12 AZN",
+        "count": "2",
+        "getId": "ECC1383"
+      },
+      {
+        "imageSrc": "/img/ji009-black.jpg",
+        "productName": "TWS JOKADE JI009 BLACK",
+        "productPrice": "14 AZN",
+        "count": "3",
+        "getId": "SZU6972"
+      },
+      {
+        "imageSrc": "/img/ji009-green.jpg",
+        "productName": "TWS JOKADE JI009 GREEN",
+        "productPrice": "14 AZN",
+        "count": "2",
+        "getId": "LYI0014"
+      },
+      {
+        "imageSrc": "/img/ea-r4anc.jpg",
+        "productName": "TWS EUROACS EA-R4 ANC ",
+        "productPrice": "26 AZN",
+        "count": "5",
+        "getId": "WYF1373"
+      },
+      {
+        "imageSrc": "/img/rods-flip-3.jpg",
+        "productName": "TWS EUROACS RODS FLIP 3",
+        "productPrice": "15 AZN",
+        "count": "8",
+        "getId": "MEG4886"
+      },
+      {
+        "imageSrc": "/img/nord-buds.jpg",
+        "productName": "TWS NORD BUDS BLACK",
+        "productPrice": "12 AZN",
+        "count": "9",
+        "getId": "MAY0768"
+      }
+    ]
   }
 ]
