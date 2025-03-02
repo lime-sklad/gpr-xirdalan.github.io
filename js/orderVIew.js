@@ -10,7 +10,7 @@
 	const urlParams = new URLSearchParams(window.location.search);
     const orderId = urlParams.get('orderId');
 
-	$.getJSON(`https://raw.githubusercontent.com/gpr-xirdalan/gpr-xirdalan.github.io/refs/heads/main/order.json?v=${Date.now()}`, 
+	$.getJSON(`order.json?v=${Date.now()}`, 
 	function(data) {
 
 		filtredList = data.filter(item => item.id == orderId);
