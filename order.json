@@ -484,5 +484,122 @@
         "getId": "ZLN0612"
       }
     ]
+  },
+  {
+    "id": 1740951389179,
+    "card": [
+      {
+        "imageSrc": "/img/jb048-m.png",
+        "productName": "CHARGER USB JOKADE JB048 M",
+        "productPrice": "2.20 AZN",
+        "count": "4",
+        "getId": "UKP6000"
+      },
+      {
+        "imageSrc": "/img/jb048-c.png",
+        "productName": "CHARGER USB JOKADE JB048 C",
+        "productPrice": "2.50 AZN",
+        "count": "2",
+        "getId": "NFQ8340"
+      },
+      {
+        "imageSrc": "/img/ma320-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 C",
+        "productPrice": "8 AZN",
+        "count": "3",
+        "getId": "AAR3590"
+      },
+      {
+        "imageSrc": "/img/ma320-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MA320 L",
+        "productPrice": "8 AZN",
+        "count": "4",
+        "getId": "NBQ8974"
+      },
+      {
+        "imageSrc": "/img/ma325-c.png",
+        "productName": "CHARGER USB 20W EUROACS EU-MA325 C",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "LJZ4551"
+      },
+      {
+        "imageSrc": "/img/mg357-c.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MG357 C",
+        "productPrice": "6.50 AZN",
+        "count": 1,
+        "getId": "OJS2963"
+      },
+      {
+        "imageSrc": "/img/mg357-l.png",
+        "productName": "CHARGER PD 20W EUROACS EU-MG357 L",
+        "productPrice": "7.50 AZN",
+        "count": 1,
+        "getId": "GAA6414"
+      },
+      {
+        "imageSrc": "/img/mg544-c.png",
+        "productName": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "VQZ1117"
+      },
+      {
+        "imageSrc": "/img/mg618.png",
+        "productName": "CHARGER PD 25W EUROACS EU-MG618 C",
+        "productPrice": "7 AZN",
+        "count": 1,
+        "getId": "TVJ1630"
+      },
+      {
+        "imageSrc": "/img/mg656.png",
+        "productName": "CHARGER PD 30W EUROACS EU-MG656 SF C",
+        "productPrice": "11 AZN",
+        "count": 1,
+        "getId": "VQL6394"
+      },
+      {
+        "imageSrc": "/img/fn014-c.png",
+        "productName": "CHARGER USB QC FONI FN014 C",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "BBB8553"
+      },
+      {
+        "imageSrc": "/img/fn014-m.png",
+        "productName": "CHARGER USB QC FONI FN014 M",
+        "productPrice": "5 AZN",
+        "count": 1,
+        "getId": "WFC6228"
+      },
+      {
+        "imageSrc": "/img/fn12-c.png",
+        "productName": "CHARGER USB QC FONI FN12 C",
+        "productPrice": "5 AZN",
+        "count": 1,
+        "getId": "ECU0300"
+      },
+      {
+        "imageSrc": "/img/fn12-m.png",
+        "productName": "CHARGER USB QC FONI FN12 M",
+        "productPrice": "4.90 AZN",
+        "count": 1,
+        "getId": "WTA2538"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-c.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 C",
+        "productPrice": "6 AZN",
+        "count": 1,
+        "getId": "QFB8335"
+      },
+      {
+        "imageSrc": "/img/samsung-a15-m.png",
+        "productName": "CHARGER USB QC SAMSUNG A15 M",
+        "productPrice": "5.50 AZN",
+        "count": 1,
+        "getId": "XAV2321"
+      }
+    ]
   }
 ]
