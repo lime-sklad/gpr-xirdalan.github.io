@@ -1,4 +1,4 @@
-const GITHUB_TOKEN = "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"; 
+const GITHUB_TOKEN = "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"; 
 const REPO_OWNER = "gpr-xirdalan";
 const REPO_NAME = "gpr-xirdalan.github.io";
 const FILE_PATH = "order.json";

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /> 
+    <meta http-equiv="cache-control" content="max-age=0" /> 
+    <meta http-equiv="Pragma" content="no-cache" /> 
+    <meta http-equiv="Expires" content="0" /> 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/font.css?v=1740341642648">
+	<script type="text/javascript" src="/js/jquery-3.7.1.min.js"></script>
+	<title>GIPERAKS - XIRDALAN</title>
+</head>
+<body>
+	
+
+		<div class="cart-list-modal display-flex active">
+			<div class="cart-list-container">
+				<div class="card-list-control">
+					<sapn class="card-list-title">Order</sapn>	
+
+				</div>
+
+				<div class="cart-list">
+					
+				</div>			
+			</div>
+		</div>
+
+</body>
+<script type="text/javascript" defer>
+		let head = document.getElementsByTagName("head");
+
+	    let link = document.createElement("link");
+	    link.rel = "stylesheet";
+	    link.href = "/css/style.css?v=" + new Date().getTime(); // Добавляем уникальный параметр
+
+	    document.head.appendChild(link);
+
+	    let script = document.createElement("script")
+	    script.type = "text/javascript";
+	    script.src = "/js/function.js?v=" + new Date().getTime();
+	    document.head.appendChild(script);
+</script>
+<script type="text/javascript" defer>
+  function sumItemTotal(count, price) {
+    price = price.replace('AZN', '');
+    return (count * price).toFixed(2);
+  }
+
+
+	let orderList = [];
+	let filterdList = [];
+
+	const urlParams = new URLSearchParams(window.location.search);
+    const orderId = urlParams.get('orderId');
+
+	$.getJSON("https://raw.githubusercontent.com/gpr-xirdalan/gpr-xirdalan.github.io/refs/heads/main/order.json", 
+	function(data) {
+
+		filtredList = data.filter(item => item.id == orderId);
+
+	    $.each(filtredList, function(key, val) {
+	      val.card.map(function(key) {
+	      	appendOrderView(key);
+	      });
+	    });
+
+    });
+
+
+    function appendOrderView(row) {
+	      $('.cart-list').append(`
+            <div class="cart-list-item">
+               <div class="cart-list-image" style="width: 170px; height: 170px;">
+                <img src="${row.imageSrc}">
+               </div>
+
+               <div class="cart-list-info">
+                  <span class="cart-list-item-name">${row.productName}</span>
+                  <span class="cart-list-item-productPrice">${row.productPrice}</span>
+
+                  <div class="cart-list-info-count-group">
+                    <span class="cart-label">Say:</span>
+                    <span class="orderViewCount">${row.count} ədəd</span>
+                    
+                    <p class="sum">
+                         <span class="sum-title">Toplam: </span> 
+                        <span class="cart-list-item-total">${sumItemTotal(row.count, row.productPrice)}₼</span> 
+                      </p>
+                  </div>
+
+                  <input type="hidden" class="cart-list-item-id" value="${row.getId}">
+               </div>
+            </div>
+          `);    	
+    }
+</script>
+
+<style>
+	.orderViewCount {
+		font-size: 19px;
+	}
+</style>
+</html>

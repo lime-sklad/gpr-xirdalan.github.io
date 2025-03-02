@@ -333,6 +333,7 @@ button {
     align-items: flex-end;
     justify-content: center;
     gap: 7px;
+    position: relative;
 }
 
 .product-brand {
@@ -480,6 +481,7 @@ button {
     align-items: center;
     justify-content: center;
     transition: .5s;
+    z-index: 105;
 }
 
 .notice {

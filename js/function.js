@@ -7,7 +7,7 @@ $(document).ready(function() {
     let currentIndex = 0;
     let isLoading = false;
 
-    $.getJSON("products.json?v=105", function(data) {
+    $.getJSON("products.json?v=106", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -212,15 +212,21 @@ $(document).ready(function() {
 
           strs = strs + `${row.productName} - ${row.count} ədəd \n \n`;
 
+          row.productPrice = row.productPrice.replace('₼', ' AZN')
+
           order.card.push(row);
       });      
 
+
+        strs = strs + `https://gpr-xirdalan.github.io/orderView.html?orderId=${orderId}`;
+
+        saveOrder(order);     
+
         let encodedStrs = encodeURIComponent(strs); 
+
         let url = `https://wa.me/994504213635?text=${encodedStrs}`;
 
-        window.location.href = url; // Перенаправление
-
-        // saveOrder(order);        
+        window.location.href = url;
     });
 
 
