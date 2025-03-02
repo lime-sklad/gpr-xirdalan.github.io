@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": 1740944113679,
+    "card": [
+      {
+        "imageSrc": "/img/yaddas-mikro-4gb.jpg",
+        "productName": "YADDAS MIKRO 4GB EUROACS",
+        "productPrice": "4.20 AZN",
+        "count": "2",
+        "getId": "QUM1300"
+      },
+      {
+        "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+        "productName": "YADDAS MIKRO 8GB EUROACS",
+        "productPrice": "5.20 AZN",
+        "count": "3",
+        "getId": "RCM3727"
+      }
+    ]
+  }
+]
