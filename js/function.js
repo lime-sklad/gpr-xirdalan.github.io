@@ -197,18 +197,30 @@ $(document).ready(function() {
 
     $(document).on('click', '.send-cart', function() {
       let strs = '';
+    let orderId = Date.now();
+
+
+        // **Тестируем**
+      order = {
+          id: orderId,
+          card: []
+      };
+
 
       Object.keys(card).map(function(objectKey, index) {
           var row = card[objectKey];
 
           strs = strs + `${row.productName} - ${row.count} ədəd \n \n`;
-      });      
 
+          order.card.push(row);
+      });      
 
         let encodedStrs = encodeURIComponent(strs); 
         let url = `https://wa.me/994504213635?text=${encodedStrs}`;
 
         window.location.href = url; // Перенаправление
+
+        // saveOrder(order);        
     });
 
 
