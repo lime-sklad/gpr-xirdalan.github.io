@@ -1,4 +1,6 @@
-  function sumItemTotal(count, price) {
+$(document).ready(function() {
+
+  function sumItemTotals(count, price) {
     price = price.replace('AZN', '');
     return (count * price).toFixed(2);
   }
@@ -11,6 +13,7 @@
         success: function(data) {
             let orderList = [];
             let filterdList = [];
+            let sumCard = [];
 
             const urlParams = new URLSearchParams(window.location.search);
             const orderId = urlParams.get('orderId');            
@@ -24,10 +27,14 @@
 
                 if(row.id == orderId) {
                     $.each(row.card, function(key, val) {
+                        sumCard.push(parseFloat(val.productPrice) * val.count);
+
                         appendOrderView(val);
                     });
                 }
             });
+
+          $('.sum-card').text(sumCard.reduce((partialSum, a) => partialSum + a, 0).toFixed(2)); 
 
 
         },
@@ -38,7 +45,7 @@
 
 
 
-    function appendOrderView(row) {
+    function appendOrderView(row, total) {        
           $('.cart-list').append(`
             <div class="cart-list-item">
                <div class="cart-list-image" style="width: 170px; height: 170px;">
@@ -55,12 +62,14 @@
                     
                     <p class="sum">
                          <span class="sum-title">Toplam: </span> 
-                        <span class="cart-list-item-total">${sumItemTotal(row.count, row.productPrice)}₼</span> 
+                        <span class="cart-list-item-total">${sumItemTotals(row.count, row.productPrice)}₼</span> 
                       </p>
                   </div>
-
                   <input type="hidden" class="cart-list-item-id" value="${row.getId}">
                </div>
             </div>
           `);       
     }
+
+    
+});

@@ -550,6 +550,15 @@ button {
 }
 
 
+.order-total {
+    display: flex;
+    justify-content: right;
+    padding: 5px 19px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
 @media screen and (max-width: 992px) {
     .products-card {
         flex-basis: 100%;
