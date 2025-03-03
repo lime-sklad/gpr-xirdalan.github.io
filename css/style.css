@@ -558,6 +558,11 @@ button {
     font-weight: 600;
 }
 
+.order-total-title {
+    display: inline-block;
+    margin-right: 5px;
+}
+
 
 @media screen and (max-width: 992px) {
     .products-card {

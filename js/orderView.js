@@ -10,7 +10,12 @@ $(document).ready(function() {
         url: `https://api.github.com/repos/gpr-xirdalan/order/contents/order.json?timestamp=${Date.now()}`,
         method: "GET",
         headers: { "Accept": "application/vnd.github.v3.raw" },
+        beforeSend: () => {
+            $('.preloader').removeClass('hide');
+        },
         success: function(data) {
+            $('.preloader').addClass('hide');
+
             let orderList = [];
             let filterdList = [];
             let sumCard = [];

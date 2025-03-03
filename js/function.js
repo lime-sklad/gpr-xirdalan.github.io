@@ -234,7 +234,7 @@ $(document).ready(function() {
 
             let url = `https://wa.me/994512058808?text=${encodedStrs}`;
 
-            // window.location.href = url;
+            window.location.href = url;
 
             card = [];
 
