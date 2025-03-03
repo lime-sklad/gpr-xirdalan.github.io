@@ -118,6 +118,15 @@
       "hasNew": false
     },
     {
+      "name": "CABLE USB MI TURBO",
+      "price": "3",
+      "imageSrc": "/img/mi-turbo.jpg",
+      "category": "Cable",
+      "brand": "MI",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
       "name": "CABLE USB JOKADE JA043 M",
       "price": "0.60",
       "imageSrc": "/img/ja043-m.png",
@@ -504,6 +513,60 @@
       "pinned": true,
       "hasNew": false
     },
+    {
+      "name": "BASLIQ PD 20W APPLE MH15",
+      "price": "4",
+      "imageSrc": "/img/mh15.jpg",
+      "category": "Basliq",
+      "brand": "Copy",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "BASLIQ PD 25W APPLE MH19",
+      "price": "5.50",
+      "imageSrc": "/img/mh19.jpg",
+      "category": "Basliq",
+      "brand": "Copy",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "BASLIQ PD 35W APPLE MJ30",
+      "price": "9",
+      "imageSrc": "/img/mj30.jpg",
+      "category": "Basliq",
+      "brand": "Copy",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "BASLIQ PD 20W APPLE MH32",
+      "price": "9.50",
+      "imageSrc": "/img/mh32.jpg",
+      "category": "Basliq",
+      "brand": "Copy",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "BASLIQ PD 35W APPLE MJ35",
+      "price": "15",
+      "imageSrc": "/img/mj35.jpg",
+      "category": "Basliq",
+      "brand": "Copy",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "BASLIQ PD 35W APPLE MH35",
+      "price": "22.50",
+      "imageSrc": "/img/mh35.jpg",
+      "category": "Basliq",
+      "brand": "Copy",
+      "pinned": true,
+      "hasNew": false
+    },                
     {
       "name": "BASLIQ USB 67W MI M33 TURBO",
       "price": "7",
@@ -1331,7 +1394,88 @@
       "brand": "Jokade",
       "pinned": true,
       "hasNew": false
-    },                        
+    }, 
+    {
+      "name": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+      "price": "5",
+      "imageSrc": "/img/x1-mini.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "SESGUCLENDIRICI GTS-1839 5W 3'",
+      "price": "11",
+      "imageSrc": "/img/gts-1839.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "SESGUCLENDIRICI GTS-1820 5W MINI",
+      "price": "10",
+      "imageSrc": "/img/gts-1820.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "SESGUCLENDIRICI GTS-2072 5W",
+      "price": "10.50",
+      "imageSrc": "/img/gts-2072.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "SESGUCLENDIRICI FONI FN-S30 BLACK",
+      "price": "8.50",
+      "imageSrc": "/img/fn-s30.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "SESGUCLENDIRICI GTS-1173 5W 3' BLACK",
+      "price": "7.50",
+      "imageSrc": "/img/gts-1173.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+      "price": "6.80",
+      "imageSrc": "/img/zqs1328.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    }, 
+    {
+      "name": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+      "price": "9.50",
+      "imageSrc": "/img/zqs1461.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },
+    {
+      "name": "SESGUCLENDIRICI ZQS1455 8W 4' ",
+      "price": "16",
+      "imageSrc": "/img/zqs1455.jpg",
+      "category": "Sesguclendirici",
+      "brand": "Ümumi",
+      "pinned": true,
+      "hasNew": false
+    },                                                            
     {
       "name": "HOLDER DISPLAY TELEFON BLACK",
       "price": "1",
