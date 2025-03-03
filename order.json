@@ -1946,5 +1946,24 @@
         "getId": "BGY6274"
       }
     ]
+  },
+  {
+    "id": 1740983563445,
+    "card": [
+      {
+        "imageSrc": "/img/pb110.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
+        "productPrice": "18.50 AZN",
+        "count": "5",
+        "getId": "NLP0581"
+      },
+      {
+        "imageSrc": "/img/pb10.jpg",
+        "productName": "POWERBANK 10000 EUROACS EU-PB10 22.5W",
+        "productPrice": "22 AZN",
+        "count": "2",
+        "getId": "LXT1015"
+      }
+    ]
   }
 ]
