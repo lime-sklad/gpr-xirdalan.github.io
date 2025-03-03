@@ -10,18 +10,25 @@
 	const urlParams = new URLSearchParams(window.location.search);
     const orderId = urlParams.get('orderId');
 
-	$.getJSON(`https://raw.githubusercontent.com/gpr-xirdalan/order/refs/heads/main/order.json?v=${Date.now()}`, 
-	function(data) {
-
-		filtredList = data.filter(item => item.id == orderId);
- 
-	    $.each(filtredList, function(key, val) {
-	      val.card.map(function(key) {
-	      	appendOrderView(key);
-	      });
-	    });
-
+    $.ajax({
+        url: `https://api.github.com/repos/gpr-xirdalan/order/contents/order.json?timestamp=${Date.now()}`,
+        method: "GET",
+        cache: false,
+        headers: { "Accept": "application/vnd.github.v3.raw" },
+        success: function(data) {
+            let filtredList = data.filter(item => item.id == orderId);
+            
+            $.each(filtredList, function(key, val) {
+                val.card.map(function(key) {
+                    appendOrderView(key);
+                });
+            });
+        },
+        error: function(err) {
+            console.error("Ошибка при загрузке JSON:", err);
+        }
     });
+
 
 
     function appendOrderView(row) {
