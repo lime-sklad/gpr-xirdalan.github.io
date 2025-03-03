@@ -4,25 +4,32 @@
   }
 
 
-	let orderList = [];
-	let filterdList = [];
-
-	const urlParams = new URLSearchParams(window.location.search);
-    const orderId = urlParams.get('orderId');
-
     $.ajax({
         url: `https://api.github.com/repos/gpr-xirdalan/order/contents/order.json?timestamp=${Date.now()}`,
         method: "GET",
-        cache: false,
         headers: { "Accept": "application/vnd.github.v3.raw" },
         success: function(data) {
-            let filtredList = data.filter(item => item.id == orderId);
-            
-            $.each(filtredList, function(key, val) {
-                val.card.map(function(key) {
-                    appendOrderView(key);
-                });
+            let orderList = [];
+            let filterdList = [];
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const orderId = urlParams.get('orderId');            
+            let datas =  JSON.parse(data);
+
+            // let jsonString = atob(data.content);
+            // let jsonContent = JSON.parse(jsonString); // Преобразуем в объект
+            // let filtredList = datas.find(item => item.id == orderId);
+             Object.keys(datas).map(function(objectKey, index) {
+                let row = datas[objectKey];
+
+                if(row.id == orderId) {
+                    $.each(row.card, function(key, val) {
+                        appendOrderView(val);
+                    });
+                }
             });
+
+
         },
         error: function(err) {
             console.error("Ошибка при загрузке JSON:", err);
@@ -32,7 +39,7 @@
 
 
     function appendOrderView(row) {
-	      $('.cart-list').append(`
+          $('.cart-list').append(`
             <div class="cart-list-item">
                <div class="cart-list-image" style="width: 170px; height: 170px;">
                 <img src="${row.imageSrc}">
@@ -55,5 +62,5 @@
                   <input type="hidden" class="cart-list-item-id" value="${row.getId}">
                </div>
             </div>
-          `);    	
+          `);       
     }
