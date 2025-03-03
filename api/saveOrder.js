@@ -14,7 +14,7 @@ export default async function handler(req, res) {
 
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Храним в переменных среды
     const REPO_OWNER = "gpr-xirdalan";
-    const REPO_NAME = "gpr-xirdalan.github.io";
+    const REPO_NAME = "order";
     const FILE_PATH = "order.json";
 
     try {
