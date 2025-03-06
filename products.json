@@ -1,3118 +1,3343 @@
 {
-  "products": [
-    {
-      "name": "YADDAS USB 2GB EUROACS",
-      "price": "4.80",
-      "imageSrc": "/img/yaddas-usb-2gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS USB 4GB EUROACS",
-      "price": "5.20",
-      "imageSrc": "/img/yaddas-usb-4gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS USB 8GB EUROACS",
-      "price": "6.20",
-      "imageSrc": "/img/yaddas-usb-8gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS USB 16GB EUROACS",
-      "price": "7.50",
-      "imageSrc": "/img/yaddas-usb-16gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS USB 32GB EUROACS",
-      "price": "8.50",
-      "imageSrc": "/img/yaddas-usb-32gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS USB 64GB EUROACS",
-      "price": "10",
-      "imageSrc": "/img/yaddas-usb-64gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS USB 128GB EUROACS",
-      "price": "19",
-      "imageSrc": "/img/yaddas-usb-128gb.png",
-      "category": "Flash drive",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS MIKRO 4GB EUROACS",
-      "price": "4.20",
-      "imageSrc": "/img/yaddas-mikro-4gb.jpg",
-      "category": "SD Card",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS MIKRO 8GB EUROACS",
-      "price": "5.20",
-      "imageSrc": "/img/yaddas-mikro-8gb.jpg",
-      "category": "SD Card",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS MIKRO 16GB EUROACS",
-      "price": "6.50",
-      "imageSrc": "/img/yaddas-mikro-16gb.jpg",
-      "category": "SD Card",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS MIKRO 32GB EUROACS",
-      "price": "7.50",
-      "imageSrc": "/img/yaddas-mikro-32gb.jpg",
-      "category": "SD Card",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS MIKRO 64GB EUROACS",
-      "price": "10.50",
-      "imageSrc": "/img/yaddas-mikro-64gb.jpg",
-      "category": "SD Card",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "YADDAS MIKRO 128GB EUROACS",
-      "price": "19.50",
-      "imageSrc": "/img/yaddas-mikro-128gb.jpg",
-      "category": "SD Card",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB MI TURBO",
-      "price": "3",
-      "imageSrc": "/img/mi-turbo.jpg",
-      "category": "Cable",
-      "brand": "MI",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB JOKADE JA043 M",
-      "price": "0.60",
-      "imageSrc": "/img/ja043-m.png",
-      "category": "Cable",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB JOKADE JA043 C",
-      "price": "0.70",
-      "imageSrc": "/img/ja043-c.png",
-      "category": "Cable",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z008 LED C",
-      "price": "3.50",
-      "imageSrc": "/img/z008-t.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z008 LED L",
-      "price": "3.50",
-      "imageSrc": "/img/z008-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z008 LED M",
-      "price": "3.50",
-      "imageSrc": "/img/z008-m.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Y11 C WH",
-      "price": "1.30",
-      "imageSrc": "/img/y11-t.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Y11 L WH",
-      "price": "1.30",
-      "imageSrc": "/img/y11-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Y11 M WH",
-      "price": "1",
-      "imageSrc": "/img/y11-usb-to-mikro.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Y11 20W L",
-      "price": "2",
-      "imageSrc": "/img/y11-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Y11 60W C",
-      "price": "1.80",
-      "imageSrc": "/img/y11-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z014 20W L",
-      "price": "3.50",
-      "imageSrc": "/img/z014-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z014 60W L",
-      "price": "2.50",
-      "imageSrc": "/img/z014-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z087 C",
-      "price": "1.80",
-      "imageSrc": "/img/z087-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z087 M",
-      "price": "1.80",
-      "imageSrc": "/img/z087-m.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z087 L",
-      "price": "1.60",
-      "imageSrc": "/img/z087-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z087C C",
-      "price": "2",
-      "imageSrc": "/img/z087-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z087C L",
-      "price": "2.50",
-      "imageSrc": "/img/z087-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z112A C",
-      "price": "3.50",
-      "imageSrc": "/img/z112-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z112A C",
-      "price": "3.50",
-      "imageSrc": "/img/z112-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z112A L",
-      "price": "3.50",
-      "imageSrc": "/img/z112-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z112C 100W C",
-      "price": "3",
-      "imageSrc": "/img/z112-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z115 C BLK",
-      "price": "2.20",
-      "imageSrc": "/img/z115-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z115 L BLK",
-      "price": "2.20",
-      "imageSrc": "/img/z115-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z115 M BLK",
-      "price": "2",
-      "imageSrc": "/img/z115-m.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z125 100W C",
-      "price": "4",
-      "imageSrc": "/img/z125-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z125 27W L",
-      "price": "4.50",
-      "imageSrc": "/img/z125-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z146 6A C",
-      "price": "2.50",
-      "imageSrc": "/img/z146-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z146 6A L",
-      "price": "2.50",
-      "imageSrc": "/img/z146-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z146 6A M",
-      "price": "2",
-      "imageSrc": "/img/z146-m.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z154C 80W C",
-      "price": "2.80",
-      "imageSrc": "/img/z154-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z154C 27W L",
-      "price": "3.30",
-      "imageSrc": "/img/z154-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z154A 5A L",
-      "price": "2.50",
-      "imageSrc": "/img/z154-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z154A 5A C",
-      "price": "2.50",
-      "imageSrc": "/img/z154-t.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z154A 5A M",
-      "price": "2.20",
-      "imageSrc": "/img/z154-m.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z160 BRAID 35W C",
-      "price": "3",
-      "imageSrc": "/img/z160-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z176 SILICONE C",
-      "price": "2.20",
-      "imageSrc": "/img/z176-c-to-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z176 SILICONE C",
-      "price": "2.50",
-      "imageSrc": "/img/z176-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z190 METAL C",
-      "price": "4",
-      "imageSrc": "/img/z190-c.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z190 METAL L",
-      "price": "4",
-      "imageSrc": "/img/z190-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE USB EUROACS EU-Z190 METAL M",
-      "price": "3.60",
-      "imageSrc": "/img/z190-m.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CABLE PD EUROACS EU-Z192 L",
-      "price": "2",
-      "imageSrc": "/img/z192-c-to-l.png",
-      "category": "Cable",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB JOKADE JB048 M",
-      "price": "2.20",
-      "imageSrc": "/img/jb048-m.png",
-      "category": "Adapterlər",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB JOKADE JB048 C",
-      "price": "2.50",
-      "imageSrc": "/img/jb048-c.png",
-      "category": "Adapterlər",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ PD 20W APPLE MH15",
-      "price": "4",
-      "imageSrc": "/img/mh15.jpg",
-      "category": "Basliq",
-      "brand": "Copy",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ PD 25W APPLE MH19",
-      "price": "5.50",
-      "imageSrc": "/img/mh19.jpg",
-      "category": "Basliq",
-      "brand": "Copy",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ PD 35W APPLE MJ30",
-      "price": "9",
-      "imageSrc": "/img/mj30.jpg",
-      "category": "Basliq",
-      "brand": "Copy",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "BASLIQ PD 20W APPLE MH32",
-      "price": "9.50",
-      "imageSrc": "/img/mh32.jpg",
-      "category": "Basliq",
-      "brand": "Copy",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "BASLIQ PD 35W APPLE MJ35",
-      "price": "15",
-      "imageSrc": "/img/mj35.jpg",
-      "category": "Basliq",
-      "brand": "Copy",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "BASLIQ PD 35W APPLE MH35",
-      "price": "22.50",
-      "imageSrc": "/img/mh35.jpg",
-      "category": "Basliq",
-      "brand": "Copy",
-      "pinned": true,
-      "hasNew": false
-    },                
-    {
-      "name": "BASLIQ USB 67W MI M33 TURBO",
-      "price": "7",
-      "imageSrc": "/img/m33.jpg",
-      "category": "Basliq",
-      "brand": "MI",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ USB 3A JOKADE JB047/JB021",
-      "price": "2.50",
-      "imageSrc": "/img/jb047.png",
-      "category": "Basliq",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ PD 20W EUROACS EU-MA320 WH",
-      "price": "6",
-      "imageSrc": "/img/ma320.png",
-      "category": "Basliq",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ PD 20W FONI FN20 WH",
-      "price": "4",
-      "imageSrc": "/img/fn20.jpeg",
-      "category": "Basliq",
-      "brand": "Foni",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "CHARGER PD 20W EUROACS EU-MA320 C",
-      "price": "8",
-      "imageSrc": "/img/ma320-c.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER PD 20W EUROACS EU-MA320 L",
-      "price": "8",
-      "imageSrc": "/img/ma320-l.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ USB 20W EUROACS EU-MA325",
-      "price": "5",
-      "imageSrc": "/img/ma325-b.png",
-      "category": "Basliq",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "BASLIQ USB 25W SAMSUNG A16",
-      "price": "4.80",
-      "imageSrc": "/img/basliq-sam-a16.jpeg",
-      "category": "Basliq",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "BASLIQ PD 25W SAMSUNG A26",
-      "price": "5",
-      "imageSrc": "/img/basliq-pd-a26.jpeg",
-      "category": "Basliq",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    },        
-    {
-      "name": "CHARGER USB 20W EUROACS EU-MA325 C",
-      "price": "6.50",
-      "imageSrc": "/img/ma325-c.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER PD 20W EUROACS EU-MG357 C",
-      "price": "6.50",
-      "imageSrc": "/img/mg357-c.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER PD 20W EUROACS EU-MG357 L",
-      "price": "7.50",
-      "imageSrc": "/img/mg357-l.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
-      "price": "6",
-      "imageSrc": "/img/mg544-c.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER PD 25W EUROACS EU-MG618 C",
-      "price": "7",
-      "imageSrc": "/img/mg618.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER PD 30W EUROACS EU-MG656 SF C",
-      "price": "11",
-      "imageSrc": "/img/mg656.png",
-      "category": "Adapterlər",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC FONI FN014 C",
-      "price": "5.50",
-      "imageSrc": "/img/fn014-c.png",
-      "category": "Adapterlər",
-      "brand": "Foni",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC FONI FN014 M",
-      "price": "5",
-      "imageSrc": "/img/fn014-m.png",
-      "category": "Adapterlər",
-      "brand": "Foni",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC FONI FN12 C",
-      "price": "5",
-      "imageSrc": "/img/fn12-c.png",
-      "category": "Adapterlər",
-      "brand": "Foni",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC FONI FN12 M",
-      "price": "4.90",
-      "imageSrc": "/img/fn12-m.png",
-      "category": "Adapterlər",
-      "brand": "Foni",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC SAMSUNG A15 C",
-      "price": "6",
-      "imageSrc": "/img/samsung-a15-c.png",
-      "category": "Adapterlər",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC SAMSUNG A15 M",
-      "price": "5.50",
-      "imageSrc": "/img/samsung-a15-m.png",
-      "category": "Adapterlər",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB 33W REDMI 14C C",
-      "price": "6.50",
-      "imageSrc": "/img/redmi-14c.jpeg",
-      "category": "Adapterlər",
-      "brand": "Redmi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "CHARGER USB 25W SAMSUNG A16 C",
-      "price": "6",
-      "imageSrc": "/img/charger-a16.jpeg",
-      "category": "Adapterlər",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "CHARGER PD 25W SAMSUNG A26 C",
-      "price": "6.50",
-      "imageSrc": "/img/charger-a26.jpeg",
-      "category": "Adapterlər",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CHARGER USB QC SAMSUNG A14 C",
-      "price": "6",
-      "imageSrc": "/img/samsung-a14.jpeg",
-      "category": "Adapterlər",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "CHARGER USB QC SAMSUNG A14 M",
-      "price": "5.50",
-      "imageSrc": "/img/samsung-a14.jpeg",
-      "category": "Adapterlər",
-      "brand": "Samsung",
-      "pinned": true,
-      "hasNew": false
-    },                       
-    {
-      "name": "TWS PRO A20 ",
-      "price": "8.50",
-      "imageSrc": "/img/pro-a20.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS AIRPODS-2 A1938 ",
-      "price": "12",
-      "imageSrc": "/img/a1938.jpeg",
-      "category": "Airpods",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS A2 PRO WITH DISPLAY ",
-      "price": "20",
-      "imageSrc": "/img/a2-pro.jpeg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
-      "price": "22",
-      "imageSrc": "/img/anc+enc.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS A11 WITH DISPLAY ",
-      "price": "21",
-      "imageSrc": "/img/a11.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS AIRPODS-4",
-      "price": "28",
-      "imageSrc": "/img/airpods-4.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS EUROACS RODS PRO ANC",
-      "price": "30",
-      "imageSrc": "/img/rods-pro.jpg",
-      "category": "Airpods",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "TWS ULTRAPODS BLACK",
-      "price": "10.50",
-      "imageSrc": "/img/ultrapods.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS ULTRAPODS BLUE",
-      "price": "10.50",
-      "imageSrc": "/img/ultrapods.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "TWS ULTRAPODS GREEN",
-      "price": "10.50",
-      "imageSrc": "/img/ultrapods.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },            
-    {
-      "name": "TWS ULTRAPODS PINK",
-      "price": "10.50",
-      "imageSrc": "/img/ultrapods.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },      
-    {
-      "name": "TWS ULTRAPODS WHITE",
-      "price": "10.50",
-      "imageSrc": "/img/ultrapods.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS M90 PRO",
-      "price": "9",
-      "imageSrc": "/img/m90-pro.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "TWS BEAM 3 WITH DISPLAY BLACK",
-      "price": "29",
-      "imageSrc": "/img/beam-3.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS BEAM 3 WITH DISPLAY PURPLE",
-      "price": "29",
-      "imageSrc": "/img/beam-3.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS Y113 BLACK",
-      "price": "12",
-      "imageSrc": "/img/y113.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS Y113 BLUE",
-      "price": "12",
-      "imageSrc": "/img/y113.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },             
-    {
-      "name": "TWS Y113 PINK",
-      "price": "12",
-      "imageSrc": "/img/y113.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS JOKADE JI009 BLACK",
-      "price": "14",
-      "imageSrc": "/img/ji009-black.jpg",
-      "category": "Airpods",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "TWS JOKADE JI009 WHITE",
-      "price": "14",
-      "imageSrc": "/img/ji009-white.jpg",
-      "category": "Airpods",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },                          
-    {
-      "name": "TWS JOKADE JI009 GREEN",
-      "price": "14",
-      "imageSrc": "/img/ji009-green.jpg",
-      "category": "Airpods",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS JOKADE JI005",
-      "price": "15",
-      "imageSrc": "/img/ji005.jpg",
-      "category": "Airpods",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },          
-    {
-      "name": "TWS EUROACS EA-R4 ANC ",
-      "price": "26",
-      "imageSrc": "/img/ea-r4anc.jpg",
-      "category": "Airpods",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS EUROACS RODS FLIP 3",
-      "price": "15",
-      "imageSrc": "/img/rods-flip-3.jpg",
-      "category": "Airpods",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS EUROACS RODS FLIP 4",
-      "price": "24",
-      "imageSrc": "/img/rods-flip-4.jpg",
-      "category": "Airpods",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS NORD BUDS BLACK",
-      "price": "12",
-      "imageSrc": "/img/nord-buds.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS NORD BUDS BLUE",
-      "price": "12",
-      "imageSrc": "/img/nord-buds.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "TWS NORD BUDS GREEN",
-      "price": "12",
-      "imageSrc": "/img/nord-buds.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },         
-    {
-      "name": "TWS NORD BUDS WHITE",
-      "price": "12",
-      "imageSrc": "/img/nord-buds.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "TWS BUDS-X BLACK",
-      "price": "11",
-      "imageSrc": "/img/buds-x.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "TWS BUDS-X SILVER",
-      "price": "11",
-      "imageSrc": "/img/buds-x.jpg",
-      "category": "Airpods",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },                           
-    {
-      "name": "HF BIG P47 BLACK",
-      "price": "4",
-      "imageSrc": "/img/p47.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG P47 BLUE",
-      "price": "4",
-      "imageSrc": "/img/p47.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "HF BIG P47 RED",
-      "price": "4",
-      "imageSrc": "/img/p47.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "HF BIG P47 GREEN",
-      "price": "4",
-      "imageSrc": "/img/p47.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "HF BIG P47 WHITE",
-      "price": "4",
-      "imageSrc": "/img/p47.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "HF BIG BT B39 BLACK",
-      "price": "8",
-      "imageSrc": "/img/b39.jpg",
-      "category": "HF BIG BT",  
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT B39 WHITE",
-      "price": "8",
-      "imageSrc": "/img/b39.jpg",
-      "category": "HF BIG BT",  
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT B39 RED",
-      "price": "8",
-      "imageSrc": "/img/b39.jpg",
-      "category": "HF BIG BT",  
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },               
-    {
-      "name": "HF BIG BT P9 BLACK",
-      "price": "6.80",
-      "imageSrc": "/img/p9lite-white.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT P9 SILVER",
-      "price": "6.80",
-      "imageSrc": "/img/p9lite-white.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT P9 BLUE",
-      "price": "6.80",
-      "imageSrc": "/img/p9lite-white.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },        
-    {
-      "name": "HF BIG BT P9 RED",
-      "price": "6.80",
-      "imageSrc": "/img/p9lite-white.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT KRMAX BLUE",
-      "price": "14.50",
-      "imageSrc": "/img/kr-max.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "HF BIG BT KRMAX WHITE",
-      "price": "14.50",
-      "imageSrc": "/img/kr-max.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },              
-    {
-      "name": "HF BIG BT KRMAX GREEN",
-      "price": "14.50",
-      "imageSrc": "/img/kr-max.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },      
-    {
-      "name": "HF BIG BT KRMAX RED",
-      "price": "14.50",
-      "imageSrc": "/img/kr-max.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },      
-    {
-      "name": "HF BIG BT EUROACS EU-HS32 BLACK",
-      "price": "22",
-      "imageSrc": "/img/hs32.jpg",
-      "category": "HF BIG BT",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "HF BIG BT EUROACS EU-HS30 BLACK",
-      "price": "25.50",
-      "imageSrc": "/img/hs830.jpg",
-      "category": "HF BIG BT",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT SONY WH1000XM5",
-      "price": "15",
-      "imageSrc": "/img/wh1000xm5.jpg",
-      "category": "HF BIG BT",
-      "brand": "Sony",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT JBL MSL-710",
-      "price": "12",
-      "imageSrc": "/img/msl-710.jpg",
-      "category": "HF BIG BT",
-      "brand": "JBL",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT JBL TUNE 510",
-      "price": "12",
-      "imageSrc": "/img/tune-510.jpg",
-      "category": "HF BIG BT",
-      "brand": "JBL",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT JBL SN660",
-      "price": "15",
-      "imageSrc": "/img/sn660.jpg",
-      "category": "HF BIG BT",
-      "brand": "JBL",
-      "pinned": true,
-      "hasNew": false
-    },          
-    {
-      "name": "HF BIG BT MARSHALL MAJOR 4",
-      "price": "15",
-      "imageSrc": "/img/major-4.jpg",
-      "category": "HF BIG BT",
-      "brand": "Marshall",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "HF BIG BT RGB RKD-570",
-      "price": "21",
-      "imageSrc": "/img/rkd-570.jpg",
-      "category": "HF BIG BT",
-      "brand": "Marshall",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "HF BIG BT AIRPODS MAX-HIGH QUALITY",
-      "price": "33",
-      "imageSrc": "/img/airmax-hq.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT AIRMAX-2 BLACK",
-      "price": "12",
-      "imageSrc": "/img/airmax-2.jpg",
-      "category": "HF BIG BT",  
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HF BIG BT AIRMAX-2 WHITE",
-      "price": "12",
-      "imageSrc": "/img/airmax-2-white.jpg",
-      "category": "HF BIG BT",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
-      "price": "18.50",
-      "imageSrc": "/img/pb110.jpg",
-      "category": "Powerbank",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "POWERBANK 10000 EUROACS EU-PB10 22.5W",
-      "price": "22",
-      "imageSrc": "/img/pb10.jpg",
-      "category": "Powerbank",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "POWERBANK 10000 KAKU KSC-1084",
-      "price": "9.50",
-      "imageSrc": "/img/ksc-1084.jpg",
-      "category": "Powerbank",
-      "brand": "Kaku",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "POWERBANK 10000 JOKADE JG005",
-      "price": "12",
-      "imageSrc": "/img/jg005.jpg",
-      "category": "Powerbank",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "POWERBANK 10000 FOREST A11 FAST",
-      "price": "15",
-      "imageSrc": "/img/powerbank-a11.jpg",
-      "category": "Powerbank",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },                    
-    {
-      "name": "POWERBANK 10 000 JOYROOM JR-PBF12",
-      "price": "15",
-      "imageSrc": "/img/jr-pbf12.jpeg",
-      "category": "Powerbank",
-      "brand": "Joyroom",
-      "pinned": true,
-      "hasNew": false
-    },                 
-    {
-      "name": "POWERBANK MW 10000 EUROACS EU-PB144 22.5W",
-      "price": "34.50",
-      "imageSrc": "/img/pb144.jpg",
-      "category": "Powerbank",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "POWERBANK 20 000 JOKADE JG028",
-      "price": "15.50",
-      "imageSrc": "/img/jg028.jpg",
-      "category": "Powerbank",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "SESGUCLENDIRICI X1 MINI MIX COLORS",
-      "price": "5",
-      "imageSrc": "/img/x1-mini.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "SESGUCLENDIRICI GTS-1839 5W 3'",
-      "price": "11",
-      "imageSrc": "/img/gts-1839.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "SESGUCLENDIRICI GTS-1820 5W MINI",
-      "price": "10",
-      "imageSrc": "/img/gts-1820.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "SESGUCLENDIRICI GTS-2072 5W",
-      "price": "10.50",
-      "imageSrc": "/img/gts-2072.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "SESGUCLENDIRICI FONI FN-S30 BLACK",
-      "price": "8.50",
-      "imageSrc": "/img/fn-s30.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "SESGUCLENDIRICI GTS-1173 5W 3' BLACK",
-      "price": "7.50",
-      "imageSrc": "/img/gts-1173.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "SESGUCLENDIRICI ZQS1328 5W 3' ",
-      "price": "6.80",
-      "imageSrc": "/img/zqs1328.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
-      "price": "9.50",
-      "imageSrc": "/img/zqs1461.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "SESGUCLENDIRICI ZQS1455 8W 4' ",
-      "price": "16",
-      "imageSrc": "/img/zqs1455.jpg",
-      "category": "Sesguclendirici",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },                                                            
-    {
-      "name": "HOLDER DISPLAY TELEFON BLACK",
-      "price": "1",
-      "imageSrc": "/img/holder-telefon.jpeg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HOLDER DESKTOP BLACK T11",
-      "price": "3.50",
-      "imageSrc": "/img/t11.jpeg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "ELCEK PUBG",
-      "price": "0.60",
-      "imageSrc": "/img/elcek-pubg.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HOLDER CAR FONI FX01 MAGNET DEMIR",
-      "price": "0.50",
-      "imageSrc": "/img/fx01-magnit-demir.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Foni",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "CANTA COMPUTER 15.6'' RED LINE BLACK",
-      "price": "7.90",
-      "imageSrc": "/img/canta-red-line.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "CANTA COMPUTER B005.14'' OKADE LIGHT GRAY",
-      "price": "23",
-      "imageSrc": "/img/canta-b005.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },        
-    {
-      "name": "CANTA COMPUTER B006.14'' OKADE BLUE",
-      "price": "12.50",
-      "imageSrc": "/img/canta-b006.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "CANTA COMPUTER 8899H 15.6'' HP",
-      "price": "12.50",
-      "imageSrc": "/img/canta-8899.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },   
-    {
-      "name": "CANTA COMPUTER 15.6'' M21",
-      "price": "12",
-      "imageSrc": "/img/canta-m21.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },                    
-    {
-      "name": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
-      "price": "6.50",
-      "imageSrc": "/img/eu-pn03.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "STYLUS PEN EUROACS EU-PN07 IOS",
-      "price": "14.50",
-      "imageSrc": "/img/eu-pn07.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },        
-    {
-      "name": "RECIVER BT KOMPUTER 5.0",
-      "price": "3",
-      "imageSrc": "/img/bt-komp.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "RECIVER BT CAR 1090",
-      "price": "3.50",
-      "imageSrc": "/img/bt-1090.jpg",
-      "category": "Qarışıq məhsullar",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },            
-    {
-      "name": "MOUSE WIRED MIKUSO MOS-015U",
-      "price": "2.20",
-      "imageSrc": "/img/mos-015u.jpg",
-      "category": "Mouse",
-      "brand": "Mikuso",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "MOUSE WIRELESS MIKUSO MOS-W018",
-      "price": "5.50",
-      "imageSrc": "/img/mos-w018.jpg",
-      "category": "Mouse",
-      "brand": "Mikuso",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "MOUSE OYUN WIRED MIKUSO MOS-379",
-      "price": "5.50",
-      "imageSrc": "/img/mos-379.jpg",
-      "category": "Mouse",
-      "brand": "Mikuso",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "MOUSE WIRED EUROACS EU-M17 SILENT",
-      "price": "5",
-      "imageSrc": "/img/eu-m17.jpg",
-      "category": "Mouse",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "MOUSE WIRELESS EUROACS EU-M5 SILENT",
-      "price": "7",
-      "imageSrc": "/img/eu-m5.jpg",
-      "category": "Mouse",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "MOUSE OYUN WIRED JEDEL GM820",
-      "price": "9.50",
-      "imageSrc": "/img/gm820.jpg",
-      "category": "Mouse",
-      "brand": "JEDEL",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "MOUSE OYUN WIRED JEDEL GM830",
-      "price": "11",
-      "imageSrc": "/img/gm830.jpg",
-      "category": "Mouse",
-      "brand": "JEDEL",
-      "pinned": true,
-      "hasNew": false
-    },        
-    {
-      "name": "OTURUCU L TO AUX-IN GL032",
-      "price": "3",
-      "imageSrc": "/img/gl032.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "OTURUCU L TO AUX-IN+L-IN KY178",
-      "price": "4",
-      "imageSrc": "/img/ky-178.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },    
-    {
-      "name": "OTURUCU C TO OTG EUROACS EU-P066",
-      "price": "2",
-      "imageSrc": "/img/eu-p66.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "OTURUCU USB TO M-IN EUROACS EU-P314",
-      "price": "1",
-      "imageSrc": "/img/eu-p314.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Euroacs",
-      "pinned": true,
-      "hasNew": false
-    },     
-    {
-      "name": "OTURUCU С TO OTG JOKADE JC004",
-      "price": "1.60",
-      "imageSrc": "/img/jc-004.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "OTURUCU M TO OTG JOKADE JC003",
-      "price": "1.40",
-      "imageSrc": "/img/jc-003.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Jokade",
-      "pinned": true,
-      "hasNew": false
-    },         
-    {
-      "name": "OTURUCU M TO OTG KY168",
-      "price": "1.50",
-      "imageSrc": "/img/ky-168.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },   
-    {
-      "name": "OTURUCU C TO OTG KY167",
-      "price": "1.50",
-      "imageSrc": "/img/ky-167.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },
-    {
-      "name": "HUB USB JH-113 4USB",
-      "price": "4.50",
-      "imageSrc": "/img/jh-113.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },  
-    {
-      "name": "HUB C JH-112 4USB",
-      "price": "3",
-      "imageSrc": "/img/jh-112.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    }, 
-    {
-      "name": "HUB L JH-114 4USB",
-      "price": "5",
-      "imageSrc": "/img/jh-114.jpg",
-      "category": "Oturucu (OTG, AUX)",
-      "brand": "Ümumi",
-      "pinned": true,
-      "hasNew": false
-    },                        
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 11/XR",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "Ekran qoruyucular",
-      "hasNew": "Euroacs"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 12 MINI",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 12 PRO MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 12/12 PRO",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 13 MINI",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 13 PRO MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 14  ",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 14 PLUS",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 14 PRO MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 15  ",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 15 PRO MAX",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 16",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 16 PLUS",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 16 PRO",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS AD IPH 16 PRO MAX",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR 200 LITE",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X5B",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X5B PLUS",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X6B",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X7",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X7A",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X7B",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X7C",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X8",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X8A",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X8B",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS HONOR X9",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 11 PRO MAX/XS MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 12 MINI",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 12 PRO MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 12/12 PRO",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 13 MINI",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 13 PRO MAX",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 6G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 6G+/7G+/8G+",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH 7/8G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS IPH X/11 PRO",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS MI 11 LITE",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS OPPO A38",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS OPPO A58",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO C40",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO F6/F6 PRO",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO M5",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO X3",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO X4 PRO",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO X5",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO X5 PRO",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS POCO X6/X6 PRO",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 10",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 10A",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 10C",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 12",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 12C",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 13",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 13C",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 14C",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 14T",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 14T PRO",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 8A",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 9",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 9A",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 9C",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI 9T 2021",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI A1 PLUS",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI A3",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI A4",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 10",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 11 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 11 PRO 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 11 PRO PLUS",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 11S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 12",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 13",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 13 PRO",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 14",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 7",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 8",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 9",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 9 4G / 9T",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS REDMI NOTE 9S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A01 CORE",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A02",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A02S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A03",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A03 CORE",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A03S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A04",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A04S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A05",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A05S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A06",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A10",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A11",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A12",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A13 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A14 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A15",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A16",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A20/30/50",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A20S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A21S",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A22 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A22 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A23 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A24 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A25",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A26",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A31",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A32 4G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A33 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A34 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A35 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A36",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A40",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A41",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A51",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A52",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A53 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A54 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A55 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A56",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A6",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A71",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A72",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM A73 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM J2 PRIME",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM J250",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM J330",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S21",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S21 PLUS",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S22",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S22 PLUS",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S23",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S23 PLUS",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S23FE",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S24",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S24 FP",
-      "price": "2.5",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S24 PLUS",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S24 ULTRA",
-      "price": "1.7",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S24 ULTRA FP",
-      "price": "2.5",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S24FE",
-      "price": "2",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S25 FP",
-      "price": "3",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S25 PLUS FP",
-      "price": "3",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS SAM S25 ULTRA FP",
-      "price": "3",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS XIAOMI 13T 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    },
-    {
-      "name": "GLASS BIO HD EUROACS XIAOMI 13T PRO 5G",
-      "price": "1.6",
-      "imageSrc": "/img/bio-hd.png",
-      "category": "Ekran qoruyucular",
-      "brand": "Euroacs",
-      "pinned": "false",
-      "hasNew": "false"
-    }
-  ]
+    "products": [
+        {
+            "name": "FM CAR BT X8 3174",
+            "price": "4.50",
+            "imageSrc": "/img/car-x8.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT M32",
+            "price": "6",
+            "imageSrc": "/img/car-m32.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM BT FONI FN-M25 REMOTE",
+            "price": "6.50",
+            "imageSrc": "/img/fn-m25.jpg",
+            "category": "FM modulyator",
+            "brand": "Foni",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM BT FONI FN-M20 BLACK",
+            "price": "6",
+            "imageSrc": "/img/fn-m20.jpg",
+            "category": "FM modulyator",
+            "brand": "Foni",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT Q15 ",
+            "price": "9",
+            "imageSrc": "/img/car-q15.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR T8S PD ",
+            "price": "8.50",
+            "imageSrc": "/img/car-t8s.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM BT JOKADE JH007 BLK",
+            "price": "11",
+            "imageSrc": "/img/car-jh007.jpg",
+            "category": "FM modulyator",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT EUROACS EU-F138 PD+QC",
+            "price": "7",
+            "imageSrc": "/img/car-p13.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT M25 PD",
+            "price": "11",
+            "imageSrc": "/img/car-m25.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C25",
+            "price": "11",
+            "imageSrc": "/img/car-c25.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C24S ",
+            "price": "11",
+            "imageSrc": "/img/car-c24s.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C21 ",
+            "price": "6.50",
+            "imageSrc": "/img/car-c21.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT M26",
+            "price": "6",
+            "imageSrc": "/img/car-m26.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT M40 ",
+            "price": "5",
+            "imageSrc": "/img/car-m40.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT P3 PD",
+            "price": "9.50",
+            "imageSrc": "/img/bt-c27.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C36",
+            "price": "6",
+            "imageSrc": "/img/bt-c27.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C27",
+            "price": "9.50",
+            "imageSrc": "/img/bt-c27.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT M34",
+            "price": "6",
+            "imageSrc": "/img/bt-m34.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM BT JOKADE JH015 PD+QC BLK ",
+            "price": "9",
+            "imageSrc": "/img/jh015.jpg",
+            "category": "FM modulyator",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER BT CAR W3 2IN1 BT+FM ",
+            "price": "6",
+            "imageSrc": "/img/car-w3.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER BT CAR 780",
+            "price": "6.50",
+            "imageSrc": "/img/car-780.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER CAR EUROACS EU-CR18 2IN1 ",
+            "price": "7",
+            "imageSrc": "/img/eu-cr18.jpg",
+            "category": "FM modulyator",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER BT CAR 1089",
+            "price": "3",
+            "imageSrc": "/img/car-1089.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER BT CAR 850",
+            "price": "5",
+            "imageSrc": "/img/car850.jpg",
+            "category": "FM modulyator",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER BT CAR JOKADE JH030 ",
+            "price": "5",
+            "imageSrc": "/img/jh030.jpg",
+            "category": "FM modulyator",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },        
+        {
+            "name": "YADDAS USB 2GB EUROACS",
+            "price": "4.80",
+            "imageSrc": "/img/yaddas-usb-2gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 4GB EUROACS",
+            "price": "5.20",
+            "imageSrc": "/img/yaddas-usb-4gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 8GB EUROACS",
+            "price": "6.20",
+            "imageSrc": "/img/yaddas-usb-8gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 16GB EUROACS",
+            "price": "7.50",
+            "imageSrc": "/img/yaddas-usb-16gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 32GB EUROACS",
+            "price": "8.50",
+            "imageSrc": "/img/yaddas-usb-32gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 64GB EUROACS",
+            "price": "10",
+            "imageSrc": "/img/yaddas-usb-64gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 128GB EUROACS",
+            "price": "19",
+            "imageSrc": "/img/yaddas-usb-128gb.png",
+            "category": "Flash drive",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS MIKRO 4GB EUROACS",
+            "price": "4.20",
+            "imageSrc": "/img/yaddas-mikro-4gb.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS MIKRO 8GB EUROACS",
+            "price": "5.20",
+            "imageSrc": "/img/yaddas-mikro-8gb.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS MIKRO 16GB EUROACS",
+            "price": "6.50",
+            "imageSrc": "/img/yaddas-mikro-16gb.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS MIKRO 32GB EUROACS",
+            "price": "7.50",
+            "imageSrc": "/img/yaddas-mikro-32gb.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS MIKRO 64GB EUROACS",
+            "price": "10.50",
+            "imageSrc": "/img/yaddas-mikro-64gb.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS MIKRO 128GB EUROACS",
+            "price": "19.50",
+            "imageSrc": "/img/yaddas-mikro-128gb.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB MI TURBO",
+            "price": "3",
+            "imageSrc": "/img/mi-turbo.jpg",
+            "category": "Cable",
+            "brand": "MI",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB JOKADE JA043 M",
+            "price": "0.60",
+            "imageSrc": "/img/ja043-m.png",
+            "category": "Cable",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB JOKADE JA043 C",
+            "price": "0.70",
+            "imageSrc": "/img/ja043-c.png",
+            "category": "Cable",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z008 LED C",
+            "price": "3.50",
+            "imageSrc": "/img/z008-t.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z008 LED L",
+            "price": "3.50",
+            "imageSrc": "/img/z008-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z008 LED M",
+            "price": "3.50",
+            "imageSrc": "/img/z008-m.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Y11 C WH",
+            "price": "1.30",
+            "imageSrc": "/img/y11-t.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Y11 L WH",
+            "price": "1.30",
+            "imageSrc": "/img/y11-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Y11 M WH",
+            "price": "1",
+            "imageSrc": "/img/y11-usb-to-mikro.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Y11 20W L",
+            "price": "2",
+            "imageSrc": "/img/y11-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Y11 60W C",
+            "price": "1.80",
+            "imageSrc": "/img/y11-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z014 20W L",
+            "price": "3.50",
+            "imageSrc": "/img/z014-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z014 60W L",
+            "price": "2.50",
+            "imageSrc": "/img/z014-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z087 C",
+            "price": "1.80",
+            "imageSrc": "/img/z087-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z087 M",
+            "price": "1.80",
+            "imageSrc": "/img/z087-m.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z087 L",
+            "price": "1.60",
+            "imageSrc": "/img/z087-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z087C C",
+            "price": "2",
+            "imageSrc": "/img/z087-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z087C L",
+            "price": "2.50",
+            "imageSrc": "/img/z087-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z112A C",
+            "price": "3.50",
+            "imageSrc": "/img/z112-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z112A C",
+            "price": "3.50",
+            "imageSrc": "/img/z112-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z112A L",
+            "price": "3.50",
+            "imageSrc": "/img/z112-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z112C 100W C",
+            "price": "3",
+            "imageSrc": "/img/z112-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z115 C BLK",
+            "price": "2.20",
+            "imageSrc": "/img/z115-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z115 L BLK",
+            "price": "2.20",
+            "imageSrc": "/img/z115-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z115 M BLK",
+            "price": "2",
+            "imageSrc": "/img/z115-m.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z125 100W C",
+            "price": "4",
+            "imageSrc": "/img/z125-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z125 27W L",
+            "price": "4.50",
+            "imageSrc": "/img/z125-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z146 6A C",
+            "price": "2.50",
+            "imageSrc": "/img/z146-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z146 6A L",
+            "price": "2.50",
+            "imageSrc": "/img/z146-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z146 6A M",
+            "price": "2",
+            "imageSrc": "/img/z146-m.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z154C 80W C",
+            "price": "2.80",
+            "imageSrc": "/img/z154-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z154C 27W L",
+            "price": "3.30",
+            "imageSrc": "/img/z154-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z154A 5A L",
+            "price": "2.50",
+            "imageSrc": "/img/z154-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z154A 5A C",
+            "price": "2.50",
+            "imageSrc": "/img/z154-t.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z154A 5A M",
+            "price": "2.20",
+            "imageSrc": "/img/z154-m.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z160 BRAID 35W C",
+            "price": "3",
+            "imageSrc": "/img/z160-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z176 SILICONE C",
+            "price": "2.20",
+            "imageSrc": "/img/z176-c-to-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z176 SILICONE C",
+            "price": "2.50",
+            "imageSrc": "/img/z176-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z190 METAL C",
+            "price": "4",
+            "imageSrc": "/img/z190-c.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z190 METAL L",
+            "price": "4",
+            "imageSrc": "/img/z190-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z190 METAL M",
+            "price": "3.60",
+            "imageSrc": "/img/z190-m.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z192 L",
+            "price": "2",
+            "imageSrc": "/img/z192-c-to-l.png",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB JOKADE JB048 M",
+            "price": "2.20",
+            "imageSrc": "/img/jb048-m.png",
+            "category": "Adapterlər",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB JOKADE JB048 C",
+            "price": "2.50",
+            "imageSrc": "/img/jb048-c.png",
+            "category": "Adapterlər",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W APPLE MH15",
+            "price": "4",
+            "imageSrc": "/img/mh15.jpg",
+            "category": "Basliq",
+            "brand": "Copy",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W APPLE MH19",
+            "price": "5.50",
+            "imageSrc": "/img/mh19.jpg",
+            "category": "Basliq",
+            "brand": "Copy",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W APPLE MJ30",
+            "price": "9",
+            "imageSrc": "/img/mj30.jpg",
+            "category": "Basliq",
+            "brand": "Copy",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W APPLE MH32",
+            "price": "9.50",
+            "imageSrc": "/img/mh32.jpg",
+            "category": "Basliq",
+            "brand": "Copy",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W APPLE MJ35",
+            "price": "15",
+            "imageSrc": "/img/mj35.jpg",
+            "category": "Basliq",
+            "brand": "Copy",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W APPLE MH35",
+            "price": "22.50",
+            "imageSrc": "/img/mh35.jpg",
+            "category": "Basliq",
+            "brand": "Copy",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 67W MI M33 TURBO",
+            "price": "7",
+            "imageSrc": "/img/m33.jpg",
+            "category": "Basliq",
+            "brand": "MI",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 3A JOKADE JB047/JB021",
+            "price": "2.50",
+            "imageSrc": "/img/jb047.png",
+            "category": "Basliq",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W EUROACS EU-MA320 WH",
+            "price": "6",
+            "imageSrc": "/img/ma320.png",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W FONI FN20 WH",
+            "price": "4",
+            "imageSrc": "/img/fn20.jpeg",
+            "category": "Basliq",
+            "brand": "Foni",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 20W EUROACS EU-MA320 C",
+            "price": "8",
+            "imageSrc": "/img/ma320-c.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 20W EUROACS EU-MA320 L",
+            "price": "8",
+            "imageSrc": "/img/ma320-l.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 20W EUROACS EU-MA325",
+            "price": "5",
+            "imageSrc": "/img/ma325-b.png",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 25W SAMSUNG A16",
+            "price": "4.80",
+            "imageSrc": "/img/basliq-sam-a16.jpeg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG A26",
+            "price": "5",
+            "imageSrc": "/img/basliq-pd-a26.jpeg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB 20W EUROACS EU-MA325 C",
+            "price": "6.50",
+            "imageSrc": "/img/ma325-c.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 20W EUROACS EU-MG357 C",
+            "price": "6.50",
+            "imageSrc": "/img/mg357-c.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 20W EUROACS EU-MG357 L",
+            "price": "7.50",
+            "imageSrc": "/img/mg357-l.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC4.0 EUROACS EU-MG644 TF C",
+            "price": "6",
+            "imageSrc": "/img/mg544-c.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 25W EUROACS EU-MG618 C",
+            "price": "7",
+            "imageSrc": "/img/mg618.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 30W EUROACS EU-MG656 SF C",
+            "price": "11",
+            "imageSrc": "/img/mg656.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC FONI FN014 C",
+            "price": "5.50",
+            "imageSrc": "/img/fn014-c.png",
+            "category": "Adapterlər",
+            "brand": "Foni",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC FONI FN014 M",
+            "price": "5",
+            "imageSrc": "/img/fn014-m.png",
+            "category": "Adapterlər",
+            "brand": "Foni",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC FONI FN12 C",
+            "price": "5",
+            "imageSrc": "/img/fn12-c.png",
+            "category": "Adapterlər",
+            "brand": "Foni",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC FONI FN12 M",
+            "price": "4.90",
+            "imageSrc": "/img/fn12-m.png",
+            "category": "Adapterlər",
+            "brand": "Foni",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC SAMSUNG A15 C",
+            "price": "6",
+            "imageSrc": "/img/samsung-a15-c.png",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC SAMSUNG A15 M",
+            "price": "5.50",
+            "imageSrc": "/img/samsung-a15-m.png",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB 33W REDMI 14C C",
+            "price": "6.50",
+            "imageSrc": "/img/redmi-14c.jpeg",
+            "category": "Adapterlər",
+            "brand": "Redmi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB 25W SAMSUNG A16 C",
+            "price": "6",
+            "imageSrc": "/img/charger-a16.jpeg",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 25W SAMSUNG A26 C",
+            "price": "6.50",
+            "imageSrc": "/img/charger-a26.jpeg",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC SAMSUNG A14 C",
+            "price": "6",
+            "imageSrc": "/img/samsung-a14.jpeg",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC SAMSUNG A14 M",
+            "price": "5.50",
+            "imageSrc": "/img/samsung-a14.jpeg",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS PRO A20 ",
+            "price": "8.50",
+            "imageSrc": "/img/pro-a20.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS-2 A1938 ",
+            "price": "12",
+            "imageSrc": "/img/a1938.jpeg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS A2 PRO WITH DISPLAY ",
+            "price": "20",
+            "imageSrc": "/img/a2-pro.jpeg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS ANC+ENC PRO 2 WITH DISPLAY ",
+            "price": "22",
+            "imageSrc": "/img/anc+enc.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS A11 WITH DISPLAY ",
+            "price": "21",
+            "imageSrc": "/img/a11.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS-4",
+            "price": "28",
+            "imageSrc": "/img/airpods-4.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS RODS PRO ANC",
+            "price": "30",
+            "imageSrc": "/img/rods-pro.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS ULTRAPODS BLACK",
+            "price": "10.50",
+            "imageSrc": "/img/ultrapods.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS ULTRAPODS BLUE",
+            "price": "10.50",
+            "imageSrc": "/img/ultrapods.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS ULTRAPODS GREEN",
+            "price": "10.50",
+            "imageSrc": "/img/ultrapods.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS ULTRAPODS PINK",
+            "price": "10.50",
+            "imageSrc": "/img/ultrapods.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS ULTRAPODS WHITE",
+            "price": "10.50",
+            "imageSrc": "/img/ultrapods.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS M90 PRO",
+            "price": "9",
+            "imageSrc": "/img/m90-pro.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS BEAM 3 WITH DISPLAY BLACK",
+            "price": "29",
+            "imageSrc": "/img/beam-3.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS BEAM 3 WITH DISPLAY PURPLE",
+            "price": "29",
+            "imageSrc": "/img/beam-3.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS Y113 BLACK",
+            "price": "12",
+            "imageSrc": "/img/y113.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS Y113 BLUE",
+            "price": "12",
+            "imageSrc": "/img/y113.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS Y113 PINK",
+            "price": "12",
+            "imageSrc": "/img/y113.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOKADE JI009 BLACK",
+            "price": "14",
+            "imageSrc": "/img/ji009-black.jpg",
+            "category": "Airpods",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOKADE JI009 WHITE",
+            "price": "14",
+            "imageSrc": "/img/ji009-white.jpg",
+            "category": "Airpods",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOKADE JI009 GREEN",
+            "price": "14",
+            "imageSrc": "/img/ji009-green.jpg",
+            "category": "Airpods",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOKADE JI005",
+            "price": "15",
+            "imageSrc": "/img/ji005.jpg",
+            "category": "Airpods",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS EA-R4 ANC ",
+            "price": "26",
+            "imageSrc": "/img/ea-r4anc.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS RODS FLIP 3",
+            "price": "15",
+            "imageSrc": "/img/rods-flip-3.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS RODS FLIP 4",
+            "price": "24",
+            "imageSrc": "/img/rods-flip-4.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS NORD BUDS BLACK",
+            "price": "12",
+            "imageSrc": "/img/nord-buds.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS NORD BUDS BLUE",
+            "price": "12",
+            "imageSrc": "/img/nord-buds.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS NORD BUDS GREEN",
+            "price": "12",
+            "imageSrc": "/img/nord-buds.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS NORD BUDS WHITE",
+            "price": "12",
+            "imageSrc": "/img/nord-buds.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS BUDS-X BLACK",
+            "price": "11",
+            "imageSrc": "/img/buds-x.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "TWS BUDS-X SILVER",
+            "price": "11",
+            "imageSrc": "/img/buds-x.jpg",
+            "category": "Airpods",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG P47 BLACK",
+            "price": "4",
+            "imageSrc": "/img/p47.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG P47 BLUE",
+            "price": "4",
+            "imageSrc": "/img/p47.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG P47 RED",
+            "price": "4",
+            "imageSrc": "/img/p47.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG P47 GREEN",
+            "price": "4",
+            "imageSrc": "/img/p47.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG P47 WHITE",
+            "price": "4",
+            "imageSrc": "/img/p47.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT B39 BLACK",
+            "price": "8",
+            "imageSrc": "/img/b39.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT B39 WHITE",
+            "price": "8",
+            "imageSrc": "/img/b39.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT B39 RED",
+            "price": "8",
+            "imageSrc": "/img/b39.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT P9 BLACK",
+            "price": "6.80",
+            "imageSrc": "/img/p9lite-white.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT P9 SILVER",
+            "price": "6.80",
+            "imageSrc": "/img/p9lite-white.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT P9 BLUE",
+            "price": "6.80",
+            "imageSrc": "/img/p9lite-white.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT P9 RED",
+            "price": "6.80",
+            "imageSrc": "/img/p9lite-white.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT KRMAX BLUE",
+            "price": "14.50",
+            "imageSrc": "/img/kr-max.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT KRMAX WHITE",
+            "price": "14.50",
+            "imageSrc": "/img/kr-max.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT KRMAX GREEN",
+            "price": "14.50",
+            "imageSrc": "/img/kr-max.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT KRMAX RED",
+            "price": "14.50",
+            "imageSrc": "/img/kr-max.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT EUROACS EU-HS32 BLACK",
+            "price": "22",
+            "imageSrc": "/img/hs32.jpg",
+            "category": "HF BIG BT",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT EUROACS EU-HS30 BLACK",
+            "price": "25.50",
+            "imageSrc": "/img/hs830.jpg",
+            "category": "HF BIG BT",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT SONY WH1000XM5",
+            "price": "15",
+            "imageSrc": "/img/wh1000xm5.jpg",
+            "category": "HF BIG BT",
+            "brand": "Sony",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT JBL MSL-710",
+            "price": "12",
+            "imageSrc": "/img/msl-710.jpg",
+            "category": "HF BIG BT",
+            "brand": "JBL",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT JBL TUNE 510",
+            "price": "12",
+            "imageSrc": "/img/tune-510.jpg",
+            "category": "HF BIG BT",
+            "brand": "JBL",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT JBL SN660",
+            "price": "15",
+            "imageSrc": "/img/sn660.jpg",
+            "category": "HF BIG BT",
+            "brand": "JBL",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT MARSHALL MAJOR 4",
+            "price": "15",
+            "imageSrc": "/img/major-4.jpg",
+            "category": "HF BIG BT",
+            "brand": "Marshall",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT RGB RKD-570",
+            "price": "21",
+            "imageSrc": "/img/rkd-570.jpg",
+            "category": "HF BIG BT",
+            "brand": "Marshall",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT AIRPODS MAX-HIGH QUALITY",
+            "price": "33",
+            "imageSrc": "/img/airmax-hq.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT AIRMAX-2 BLACK",
+            "price": "12",
+            "imageSrc": "/img/airmax-2.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT AIRMAX-2 WHITE",
+            "price": "12",
+            "imageSrc": "/img/airmax-2-white.jpg",
+            "category": "HF BIG BT",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 EUROACS EU-PB110 22.5 W",
+            "price": "18.50",
+            "imageSrc": "/img/pb110.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 EUROACS EU-PB10 22.5W",
+            "price": "22",
+            "imageSrc": "/img/pb10.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 KAKU KSC-1084",
+            "price": "9.50",
+            "imageSrc": "/img/ksc-1084.jpg",
+            "category": "Powerbank",
+            "brand": "Kaku",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 JOKADE JG005",
+            "price": "12",
+            "imageSrc": "/img/jg005.jpg",
+            "category": "Powerbank",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 FOREST A11 FAST",
+            "price": "15",
+            "imageSrc": "/img/powerbank-a11.jpg",
+            "category": "Powerbank",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10 000 JOYROOM JR-PBF12",
+            "price": "15",
+            "imageSrc": "/img/jr-pbf12.jpeg",
+            "category": "Powerbank",
+            "brand": "Joyroom",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK MW 10000 EUROACS EU-PB144 22.5W",
+            "price": "34.50",
+            "imageSrc": "/img/pb144.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 20 000 JOKADE JG028",
+            "price": "15.50",
+            "imageSrc": "/img/jg028.jpg",
+            "category": "Powerbank",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI X1 MINI MIX COLORS",
+            "price": "5",
+            "imageSrc": "/img/x1-mini.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GTS-1839 5W 3'",
+            "price": "11",
+            "imageSrc": "/img/gts-1839.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GTS-1820 5W MINI",
+            "price": "10",
+            "imageSrc": "/img/gts-1820.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GTS-2072 5W",
+            "price": "10.50",
+            "imageSrc": "/img/gts-2072.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S30 BLACK",
+            "price": "8.50",
+            "imageSrc": "/img/fn-s30.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GTS-1173 5W 3' BLACK",
+            "price": "7.50",
+            "imageSrc": "/img/gts-1173.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI ZQS1328 5W 3' ",
+            "price": "6.80",
+            "imageSrc": "/img/zqs1328.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI ZQS1461 8W 4' BLACK",
+            "price": "9.50",
+            "imageSrc": "/img/zqs1461.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI ZQS1455 8W 4' ",
+            "price": "16",
+            "imageSrc": "/img/zqs1455.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DISPLAY TELEFON BLACK",
+            "price": "1",
+            "imageSrc": "/img/holder-telefon.jpeg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP BLACK T11",
+            "price": "3.50",
+            "imageSrc": "/img/t11.jpeg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "ELCEK PUBG",
+            "price": "0.60",
+            "imageSrc": "/img/elcek-pubg.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR FONI FX01 MAGNET DEMIR",
+            "price": "0.50",
+            "imageSrc": "/img/fx01-magnit-demir.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Foni",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CANTA COMPUTER 15.6'' RED LINE BLACK",
+            "price": "7.90",
+            "imageSrc": "/img/canta-red-line.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CANTA COMPUTER B005.14'' OKADE LIGHT GRAY",
+            "price": "23",
+            "imageSrc": "/img/canta-b005.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CANTA COMPUTER B006.14'' OKADE BLUE",
+            "price": "12.50",
+            "imageSrc": "/img/canta-b006.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CANTA COMPUTER 8899H 15.6'' HP",
+            "price": "12.50",
+            "imageSrc": "/img/canta-8899.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "CANTA COMPUTER 15.6'' M21",
+            "price": "12",
+            "imageSrc": "/img/canta-m21.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "STYLUS PEN EUROACS EU-PN03 UNIVERSAL",
+            "price": "6.50",
+            "imageSrc": "/img/eu-pn03.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "STYLUS PEN EUROACS EU-PN07 IOS",
+            "price": "14.50",
+            "imageSrc": "/img/eu-pn07.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "RECIVER BT KOMPUTER 5.0",
+            "price": "3",
+            "imageSrc": "/img/bt-komp.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "RECIVER BT CAR 1090",
+            "price": "3.50",
+            "imageSrc": "/img/bt-1090.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRED MIKUSO MOS-015U",
+            "price": "2.20",
+            "imageSrc": "/img/mos-015u.jpg",
+            "category": "Mouse",
+            "brand": "Mikuso",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRELESS MIKUSO MOS-W018",
+            "price": "5.50",
+            "imageSrc": "/img/mos-w018.jpg",
+            "category": "Mouse",
+            "brand": "Mikuso",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE OYUN WIRED MIKUSO MOS-379",
+            "price": "5.50",
+            "imageSrc": "/img/mos-379.jpg",
+            "category": "Mouse",
+            "brand": "Mikuso",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRED EUROACS EU-M17 SILENT",
+            "price": "5",
+            "imageSrc": "/img/eu-m17.jpg",
+            "category": "Mouse",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRELESS EUROACS EU-M5 SILENT",
+            "price": "7",
+            "imageSrc": "/img/eu-m5.jpg",
+            "category": "Mouse",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE OYUN WIRED JEDEL GM820",
+            "price": "9.50",
+            "imageSrc": "/img/gm820.jpg",
+            "category": "Mouse",
+            "brand": "JEDEL",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE OYUN WIRED JEDEL GM830",
+            "price": "11",
+            "imageSrc": "/img/gm830.jpg",
+            "category": "Mouse",
+            "brand": "JEDEL",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU L TO AUX-IN GL032",
+            "price": "3",
+            "imageSrc": "/img/gl032.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU L TO AUX-IN+L-IN KY178",
+            "price": "4",
+            "imageSrc": "/img/ky-178.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO OTG EUROACS EU-P066",
+            "price": "2",
+            "imageSrc": "/img/eu-p66.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU USB TO M-IN EUROACS EU-P314",
+            "price": "1",
+            "imageSrc": "/img/eu-p314.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU С TO OTG JOKADE JC004",
+            "price": "1.60",
+            "imageSrc": "/img/jc-004.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU M TO OTG JOKADE JC003",
+            "price": "1.40",
+            "imageSrc": "/img/jc-003.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU M TO OTG KY168",
+            "price": "1.50",
+            "imageSrc": "/img/ky-168.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO OTG KY167",
+            "price": "1.50",
+            "imageSrc": "/img/ky-167.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HUB USB JH-113 4USB",
+            "price": "4.50",
+            "imageSrc": "/img/jh-113.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HUB C JH-112 4USB",
+            "price": "3",
+            "imageSrc": "/img/jh-112.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HUB L JH-114 4USB",
+            "price": "5",
+            "imageSrc": "/img/jh-114.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Ümumi",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 11 PRO/XS",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 11/XR",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "Ekran qoruyucular",
+            "hasNew": "Euroacs"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 12 MINI",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 12 PRO MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 12/12 PRO",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 13 MINI",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 13 PRO MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 13/13 PRO",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 14  ",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 14 PLUS",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 14 PRO  ",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 14 PRO MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 15  ",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 15 PRO  ",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 15 PRO MAX",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 16",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 16 PLUS",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 16 PRO",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS AD IPH 16 PRO MAX",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR 200 LITE",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X5B",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X5B PLUS",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X6B",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X7",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X7A",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X7B",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X7C",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X8",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X8A",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X8B",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS HONOR X9",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 11 PRO MAX/XS MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 12 MINI",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 12 PRO MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 12/12 PRO",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 13 MINI",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 13 PRO MAX",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 6G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 6G+/7G+/8G+",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH 7/8G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS IPH X/11 PRO",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS MI 11 LITE",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS OPPO A38",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS OPPO A58",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO C40",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO F6/F6 PRO",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO M5",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO X3",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO X4 PRO",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO X5",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO X5 PRO",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS POCO X6/X6 PRO",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 10",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 10A",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 10C",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 12",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 12C",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 13",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 13C",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 14C",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 14T",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 14T PRO",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 8A",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 9",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 9A",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 9C",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI 9T 2021",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI A1 PLUS",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI A3",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI A4",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 10",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 11 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 11 PRO 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 11 PRO PLUS",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 11S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 12",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 13",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 13 PRO",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 14",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 7",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 8",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 9",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 9 4G / 9T",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS REDMI NOTE 9S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A01 CORE",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A02",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A02S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A03",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A03 CORE",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A03S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A04",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A04S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A05",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A05S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A06",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A10",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A11",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A12",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A13 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A14 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A15",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A16",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A20/30/50",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A20S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A21S",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A22 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A22 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A23 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A24 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A25",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A26",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A31",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A32 4G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A33 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A34 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A35 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A36",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A40",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A41",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A51",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A52",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A53 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A54 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A55 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A56",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A6",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A71",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A72",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM A73 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM J2 PRIME",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM J250",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM J330",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S21",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S21 PLUS",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S22",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S22 PLUS",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S23",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S23 PLUS",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S23FE",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S24",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S24 FP",
+            "price": "2.5",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S24 PLUS",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S24 ULTRA",
+            "price": "1.7",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S24 ULTRA FP",
+            "price": "2.5",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S24FE",
+            "price": "2",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S25 FP",
+            "price": "3",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S25 PLUS FP",
+            "price": "3",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS SAM S25 ULTRA FP",
+            "price": "3",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS XIAOMI 13T 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS BIO HD EUROACS XIAOMI 13T PRO 5G",
+            "price": "1.6",
+            "imageSrc": "/img/bio-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        }
+    ]
 }
