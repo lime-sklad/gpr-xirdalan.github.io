@@ -1,6 +1,3102 @@
 {
     "products": [
         {
+            "name": "CHARGER USB QC EUROACS ECH-MG545 C",
+            "price": "5.50",
+            "imageSrc": "/img/mg545-c.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CHARGER USB QC EUROACS ECH-MG545 M",
+            "price": "5.50",
+            "imageSrc": "/img/mg545-m.png",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "pinned": "false",
+            "hasNew": "false"
+        },        
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 12 PRO MAX",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 12/12 PRO",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13 PRO",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 13 PRO MAX",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14 PLUS",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14 PRO",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 14 PRO MAX",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PLUS",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO MAX",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO MAX QUTU",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 15 PRO QUTULU",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PLUS",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 16 PRO MAX",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH X/XS",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH XS MAX",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S23",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S23 PLUS",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S23 QUTULU",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S23 ULTRA",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 FE",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 FE QUTULU",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 PLUS",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM S24 ULTRA",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM Z FLIP 4",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM Z FLIP 5",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM Z FLIP 6",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM Z FOLD 4",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM Z FOLD 5",
+            "price": "3",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "CASE PC 1793/A SHEFFAF MAGSAFE SAM Z FOLD 6",
+            "price": "3.5",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25",
+            "price": "4",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25 PLUS",
+            "price": "4",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "KILIF PC 1793/A SHEFFAF MAGSAFE SAM S25 ULTRA",
+            "price": "4",
+            "imageSrc": "/img/magsafe-case.png",
+            "category": "Case (Kabura)",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },      
+        {
+            "name": "GLASS TIGER HD HONOR 10 LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR 200 LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR 8S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR 8X",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X5B",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X5B PLUS",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X6",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X6B",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X7 2022",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X7A",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X7B",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X7C",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X8 2022",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X8A",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X8B",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR X9 2022",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HUAWEI P SMART Z",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD INFINIX NOTE 30",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD INFINIX SMART 8",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 11 PRO MAX",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 11 PRO/X/XS",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 11/IPH XR",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 12 MINI",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 12 PRO MAX",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 12/12 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 13 MINI",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 13 PRO MAX",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 13/13 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 14",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 14 PLUS",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 14 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 14 PRO MAX",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 15",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 15 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 15 PRO MAX",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 15+",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 16",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 16 PLUS",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 16 PRO",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 16 PRO MAX",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 5G WHITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 6G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 6G WHITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 6G+/7G+/8G+",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 6G+/7G+/8G+ WHITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 7G/8G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD IPH 7G/8G WHITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD MI 11LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD MI 6X/A2",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD MI 8LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD MI A2 LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD MI A3",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD OPPO A18",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD OPPO A38",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD OPPO A58",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD OPPO A78",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO C65",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO F6/F6 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO M3",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO M3 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO X3",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO X5",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO X5 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD POCO X6/X6 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REALME 9I",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REALME C11(2021)",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REALME C21Y/C25Y",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 10",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 10A",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 10C",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 12",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 12C",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 13",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 13C",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 14C",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 14T",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 14T PRO",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 6/6A",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 7",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 8A",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 9 2020",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 9A",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 9C",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI 9T",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI A2",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI A2+",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI A3",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI A4",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 10 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 10 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 10S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 11 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 11 PRO 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 12",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 12 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 12 PRO+",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 12S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 13",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 13 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 14",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 6 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 7",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 8",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 8 PRO",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 8T",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 9",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 9S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI NOTE 9T",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD REDMI POCO M3",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A01",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A02",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A02S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A03",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A03 CORE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A03S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A04",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A04S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A05",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A05S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A06",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A10",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A11",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A12",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A13 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A14",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A15",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A16",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A20/A30/A50",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A20S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A21S",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A22 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A22 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A23 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A24",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A25",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A26",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A31",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A32 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A320",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A33 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A34",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A35 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A36",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A40",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A41",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A51 4G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A52",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A520",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A53 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A54",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A55",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A56",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A6",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A6+",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A70",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A71",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A72",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A73 5G",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A750",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A8",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM A9",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J2 PRIME",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J250",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J260/J2 CORE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J330",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J4",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J4+/J6+",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J5 PRIME",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J530",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM J6",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S22",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S22 PLUS",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S23",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S23 PLUS",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S23FE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S24",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S24 PLUS",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S24 ULTRA",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S24FE",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S25",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S25 PLUS",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD SAM S25 ULTRA",
+            "price": "1.5",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD XMI 11T",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD XMI 12 LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD XMI 12T",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR 200 LITE",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X5B",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X5B PLUS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X6B",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X7A",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X7B",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X7C",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X8",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X8A",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY HONOR X8B",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 11 PRO MAX",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 11 PRO/X/XS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 11/IPH XR",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 12 MINI",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 12 PRO MAX",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 12/12 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 13 MINI",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 13 PRO MAX",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 13/13 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 14",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 14 PLUS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 14 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 14 PRO MAX",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 15",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 15 PLUS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 15 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 15 PRO MAX",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 16",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 16 PLUS",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 16 PRO",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 16 PRO MAX",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 6G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 6G WHITE",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 6G+/7G+/8G+",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 6G+/7G+/8G+ WHITE",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 7G/8G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY IPH 7G/8G WHITE",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY POCO F6/F6 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY POCO X6/X6 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REALME 9I",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REALME C11(2021)",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REALME C21Y/C25Y",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 10A",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 10C",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 12",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 12C",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 13",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 13C",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 14C",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 9 2020",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI 9A",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI A1+",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI A3",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI A4",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 10 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 11 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 11 PRO 5G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 12",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 12 PRO 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 12S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 13",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 13 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 14",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 8",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 8 PRO",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 9",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY REDMI NOTE 9S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A02",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A02S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A03",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A04",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A04S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A05",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A05S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A06",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A10",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A11",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A12",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A13 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A14",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A15",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A16",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A20/A30/A50",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A20S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A21S",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A22 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A22 5G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A23 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A24",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A25",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A31",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A32 4G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A33 5G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A34",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A35",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A36",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A41",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A51",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A52",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A53 5G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A54 5G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A55",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM A73 5G",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S22",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S22 PLUS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S23",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S23 PLUS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S23FE",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S24",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S24 PLUS",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S24 ULTRA",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S24FE",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S25",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S25 PLUS",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY SAM S25 ULTRA",
+            "price": "2",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER PRIVACY XMI 11 LITE",
+            "price": "1.4",
+            "imageSrc": "/img/tiger-privacy.png",
+            "category": "Ekran qoruyucular",
+            "brand": "TIGER PRIVACY",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
             "name": "FM CAR BT X8 3174",
             "price": "4.50",
             "imageSrc": "/img/car-x8.jpg",

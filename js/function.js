@@ -6,8 +6,9 @@ $(document).ready(function() {
     let batchSize = 20;
     let currentIndex = 0;
     let isLoading = false;
+    let customData = [];
 
-    $.getJSON("products.json?v=108", function(data) {
+    $.getJSON("products.json?v=109", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -19,7 +20,9 @@ $(document).ready(function() {
     $(window).on("scroll", function () {
       if($(window).scrollTop() > 100) {
         $('.search-container').addClass('search-container-scrolled');
+        $('.scroll-top').addClass('display-flex');
       } else { 
+        $('.scroll-top').removeClass('display-flex');
         $('.search-container').removeClass('search-container-scrolled');
       }
 
@@ -33,33 +36,42 @@ $(document).ready(function() {
       }
     });
 
+    $('.scroll-top').on('click', function() {
+      scrollTop();
+    });
 
     $(document).on('input', '.search-json', function() {
        let $delay = 450;
        let vals = $(this).val().toLowerCase().trim();
 
 
-       if(vals.length > 3) {
+       if(vals.length > 2) {
          clearTimeout($(this).data('timer'));
 
          $(this).data('timer', setTimeout(function() {
-            let jsonSearchArr = [];
+            // let jsonSearchArr = [];
 
-            jsonSearchArr = products.filter(
+            customData = products.filter(
                 record => record.name.toLowerCase().includes(vals) 
             );
 
-             if(jsonSearchArr.length > 0) {
-              console.log(jsonSearchArr);
+             if(customData.length > 0) {
+              console.log(customData);
                selectedCategory = false;
 
                $(".products-list").html('');
                currentIndex = 0;
-               loadProducts(jsonSearchArr);
-             }
-
+               loadProducts(customData);
+             } 
          }, $delay));
+       }
 
+       if(!vals || vals === 'undefined') {
+         $(".products-list").html('');
+         currentIndex = 0;
+         resetSearchResult();
+         selectedRandomCategory();
+         loadProducts();
        }
     });
 
@@ -276,7 +288,7 @@ $(document).ready(function() {
   }
 
 
-  function loadProducts(customData = []) {
+  function loadProducts() {
     let filtredData = [];
 
     if (currentIndex >= products.length) return;
@@ -374,8 +386,14 @@ $(document).ready(function() {
     }
 
     $(".products-list").html('');
+    resetSearchResult();
     currentIndex = 0;
     loadProducts();
+  }
+
+  function resetSearchResult() {
+    $('.search-json').val('');
+    customData = [];
   }
 
 function generateRandomId() {
