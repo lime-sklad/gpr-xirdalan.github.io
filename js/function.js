@@ -169,7 +169,7 @@ $(document).ready(function() {
 
                   <div class="cart-list-info-count-group">
                     <span class="cart-label">Say:</span>
-                    <input type="text" class="input cart-list-item-count" value="${row.count}">
+                    <input type="number" class="input cart-list-item-count" value="${row.count}">
 
                     <p class="sum">
                          <span class="sum-title">Toplam:</span> 
