@@ -1,6 +1,240 @@
 {
     "products": [
         {
+            "name": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+            "price": "3.70",
+            "imageSrc": "/img/ta0771-white.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
+            "price": "3.70",
+            "imageSrc": "/img/ta0771-black.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG TA0772 WHITE",
+            "price": "5",
+            "imageSrc": "/img/ta0772-white.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG TA0772 BLACK",
+            "price": "5",
+            "imageSrc": "/img/ta0772-black.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 45W SAMSUNG TA7789",
+            "price": "14.50",
+            "imageSrc": "/img/ta7789.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 45W SAMSUNG TA7785",
+            "price": "6",
+            "imageSrc": "/img/ta7785.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 15W SAMSUNG TA7131",
+            "price": "7",
+            "imageSrc": "/img/ta7131.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 15W SAMSUNG TA7101 ",
+            "price": "3.50",
+            "imageSrc": "/img/ta7101.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG ORIGINAL NFC  ",
+            "price": "20",
+            "imageSrc": "/img/25w-org-nfc.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG ORG ",
+            "price": "15",
+            "imageSrc": "/img/25w-org.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG NOTE10 A CLASS",
+            "price": "9",
+            "imageSrc": "/img/note-10a.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG TA0079 WHITE",
+            "price": "7.50",
+            "imageSrc": "/img/ta079-white.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W SAMSUNG TA0079 BLACK",
+            "price": "7.50",
+            "imageSrc": "/img/ta079-black.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W SAMSUNG TA7260 WHITE",
+            "price": "9.50",
+            "imageSrc": "/img/ta7260-white.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W SAMSUNG TA7260 BLACK",
+            "price": "9.50",
+            "imageSrc": "/img/ta7260-black.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W SAMSUNG TA7220 WHITE",
+            "price": "7",
+            "imageSrc": "/img/ta7220-white.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 35W SAMSUNG TA7220 BLACK",
+            "price": "7",
+            "imageSrc": "/img/ta7220-black.jpg",
+            "category": "Basliq",
+            "brand": "Samsung",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU L TO L-IN+AUX-IN EUROACS EU-P354",
+            "price": "6",
+            "imageSrc": "/img/eu-p354.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU L TO AUX EUROACS EU-P372",
+            "price": "6.80",
+            "imageSrc": "/img/p372.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO C-IN+AUX-IN EUROACS EU-P357",
+            "price": "6",
+            "imageSrc": "/img/eu-p357.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO AUX-IN EUROACS EU-P363",
+            "price": "5",
+            "imageSrc": "/img/eu-p363.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO AUX EUROACS EU-P369",
+            "price": "5",
+            "imageSrc": "/img/eu-p369.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO 2C-IN EUROACS EU-P360",
+            "price": "7",
+            "imageSrc": "/img/eu-p360.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU AUX TO AUX-IN EUROACS EU-P375",
+            "price": "2",
+            "imageSrc": "/img/eu-p375.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HUB USB+C EUROACS EU-P400 5IN1 4USB PORT",
+            "price": "7",
+            "imageSrc": "/img/eu-p400.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU MULTI OTG YESPLUS YS1415",
+            "price": "10",
+            "imageSrc": "/img/ys1415.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "YesPlus",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "CHARGER USB QC EUROACS ECH-MG545 C",
             "price": "5.50",
             "imageSrc": "/img/mg545-c.png",
@@ -17,7 +251,7 @@
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
-        },        
+        },
         {
             "name": "CASE PC 1793/A SHEFFAF MAGSAFE IPH 11",
             "price": "3",
@@ -377,7 +611,7 @@
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
-        },      
+        },
         {
             "name": "GLASS TIGER HD HONOR 10 LITE",
             "price": "0.9",
@@ -3320,7 +3554,7 @@
             "brand": "Jokade",
             "pinned": false,
             "hasNew": false
-        },        
+        },
         {
             "name": "YADDAS USB 2GB EUROACS",
             "price": "4.80",
