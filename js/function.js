@@ -330,7 +330,7 @@ $(document).ready(function() {
   $(document).on('click', '.share', function() {
     let dataName = $(this).attr('data-name');
 
-    let url = `https://gpr-xirdalan.github.io/product_name=${dataName}`;
+    let url = `https://gpr-xirdalan.github.io/?product_name=${dataName}`;
     let fixedUrl = url.replace(/ /g, '20/'); 
     let whatsappLink = `https://wa.me/994512058808?text=${encodeURIComponent(fixedUrl)}`;
 
