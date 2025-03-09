@@ -604,6 +604,32 @@ button {
     height: 100%;
 }
 
+.share {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin: 6px 7px;
+}
+
+.share > span {
+    color: #020080;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.share svg {
+    width: 25px;
+    height: auto;
+}
+
+.share svg path {
+    fill: #020080;
+}
+
 @media screen and (max-width: 992px) {
     .products-card {
         flex-basis: 100%;
