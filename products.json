@@ -1,6 +1,114 @@
 {
     "products": [
         {
+            "name": "SESGUCLENDIRICI KOMPUTER E1020 ",
+            "price": "5",
+            "imageSrc": "/img/e1020.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KOMPUTER MIKUSO SPK049 ",
+            "price": "7",
+            "imageSrc": "/img/spk049.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "ADAPTER AC KOMPUTER MY-120W 9 CONNECTORS",
+            "price": "14",
+            "imageSrc": "/img/my-120w.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP JOYROOM JR-ZS371 BLACK",
+            "price": "10",
+            "imageSrc": "/img/jz-zs371.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Joyroom",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP EUROACS EU-DH410",
+            "price": "4",
+            "imageSrc": "/img/eu-dh410.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP EUROACS EU-DH407",
+            "price": "5.50",
+            "imageSrc": "/img/eu-dh407.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DISPLAY TELEFON 1523 MINIF1",
+            "price": "1",
+            "imageSrc": "/img/holder-telefon-1523.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DISPLAY TELEFON K325 ",
+            "price": "2",
+            "imageSrc": "/img/holder-telefon-k325.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER SL-16 WITHOUT LCD",
+            "price": "14",
+            "imageSrc": "/img/sl-16.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER G6",
+            "price": "4",
+            "imageSrc": "/img/Изображение WhatsApp 2025-03-09 в 12.51.44_4086d202.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER JOKADE JF006 BLACK",
+            "price": "13.50",
+            "imageSrc": "/img/jf006.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER JOKADE JF036 MAGSAFE BLACK",
+            "price": "12",
+            "imageSrc": "/img/jf036.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
             "price": "3.70",
             "imageSrc": "/img/ta0771-white.jpg",
