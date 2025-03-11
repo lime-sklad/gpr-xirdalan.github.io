@@ -1,6 +1,384 @@
 {
     "products": [
         {
+            "name": "HOLDER CAR DASH Q42 MAGNIT",
+            "price": "4.50",
+            "imageSrc": "/img/h-q42.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH H500 MAGNET",
+            "price": "4",
+            "imageSrc": "/img/h500.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR MAGSAFE Q27",
+            "price": "5.50",
+            "imageSrc": "/img/h-q27.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH P112 MAGNET ",
+            "price": "1.20",
+            "imageSrc": "/img/p112.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH F16 MAGNET",
+            "price": "2.80",
+            "imageSrc": "/img/dash-f16.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR F19 MAGNIT SILVER",
+            "price": "2.50",
+            "imageSrc": "/img/air-f19.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR F3 MAGNET",
+            "price": "1.70",
+            "imageSrc": "/img/air-f3.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH729 ",
+            "price": "7",
+            "imageSrc": "/img/eu-ch729.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH714",
+            "price": "6",
+            "imageSrc": "/img/eu-ch714.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR EUROACS EU-CH696",
+            "price": "5",
+            "imageSrc": "/img/eu-ch696.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH670 LONG",
+            "price": "6",
+            "imageSrc": "/img/eu-ch670.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH705",
+            "price": "7",
+            "imageSrc": "/img/eu-ch705.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH733 LONG",
+            "price": "7.50",
+            "imageSrc": "/img/eu-ch733.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH708 MAGNET ",
+            "price": "6",
+            "imageSrc": "/img/eu-ch708.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH737 LONG MAGNETIC",
+            "price": "7",
+            "imageSrc": "/img/eu-ch737.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR EUROACS EU-CH637 MAGNET",
+            "price": "6",
+            "imageSrc": "/img/eu-ch637.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH761",
+            "price": "8",
+            "imageSrc": "/img/eu-ch761.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH EUROACS EU-CH635 MAGNET",
+            "price": "5.50",
+            "imageSrc": "/img/eu-ch635.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH F12 MAGNET SILVER ",
+            "price": "6.90",
+            "imageSrc": "/img/dash-f12.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH F98 MAGSAFE ",
+            "price": "10.40",
+            "imageSrc": "/img/dash-f98.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH MAGSAFE F32 SILVER",
+            "price": "9.70",
+            "imageSrc": "/img/f32.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH F59 MAGNET SILVER",
+            "price": "4",
+            "imageSrc": "/img/f59.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR XK034 ",
+            "price": "3.40",
+            "imageSrc": "/img/xk034.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM A123",
+            "price": "7.50",
+            "imageSrc": "/img/a123.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH B082 MAGNET",
+            "price": "3",
+            "imageSrc": "/img/b082.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR CA05 MAGNIT",
+            "price": "6.30",
+            "imageSrc": "/img/ca05.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM CZ033-41",
+            "price": "5",
+            "imageSrc": "/img/cz033.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM CZ028-33 ",
+            "price": "3.60",
+            "imageSrc": "/img/cz028.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR JOKADE JE029 BLK",
+            "price": "4.50",
+            "imageSrc": "/img/je029.jpg",
+            "category": "Car Holder",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR JOKADE JE009-A BLK",
+            "price": "3.50",
+            "imageSrc": "/img/je009.jpg",
+            "category": "Car Holder",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR JOKADE JE005-A MAGNET BLK",
+            "price": "4",
+            "imageSrc": "/img/je005.jpg",
+            "category": "Car Holder",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH JOKADE JE024 MAGNET ",
+            "price": "3.40",
+            "imageSrc": "/img/je024.jpg",
+            "category": "Car Holder",
+            "brand": "Jokade",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM CF102 LONG",
+            "price": "2.10",
+            "imageSrc": "/img/cf102.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR CF502 MAGNET ",
+            "price": "2.50",
+            "imageSrc": "/img/cf502.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR CF507 MAGNET",
+            "price": "2.30",
+            "imageSrc": "/img/cf507.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH CF103 MAGNIT",
+            "price": "2.10",
+            "imageSrc": "/img/cf103.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM CF205 ",
+            "price": "3.60",
+            "imageSrc": "/img/cf205.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM CF202 MAGNET LONG",
+            "price": "3.70",
+            "imageSrc": "/img/cf202.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR RT605 MAGNET",
+            "price": "2.50",
+            "imageSrc": "/img/rt605.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR RT601",
+            "price": "2.80",
+            "imageSrc": "/img/rt601.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH Q9 MAGNET",
+            "price": "2.70",
+            "imageSrc": "/img/holder-q9.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH Q7 MAGNET ",
+            "price": "4.90",
+            "imageSrc": "/img/holder-q7.jpg",
+            "category": "Car Holder",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "SESGUCLENDIRICI KOMPUTER E1020 ",
             "price": "5",
             "imageSrc": "/img/e1020.jpg",
