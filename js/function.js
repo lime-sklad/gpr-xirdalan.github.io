@@ -13,7 +13,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=114", function(data) {
+    $.getJSON("products.json?v=115", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -469,15 +469,6 @@ function searchByName(name) {
   customData = products.filter(
       record => record.name.toLowerCase().includes(name) 
   );
-
-
-  $('head').append(`
-    <meta property="og:title" content="${customData[0].name}">
-    <meta property="og:description" content="GIPERAKS XIRDALAN">
-    <meta property="og:image" content="https://gpr-xirdalan.github.io/${customData[0].imageSrc}">
-    <meta property="og:url" content="https://gpr-xirdalan.github.io/">
-    <meta property="og:type" content="website">
-  `);
 
 
    if(customData.length > 0) {
