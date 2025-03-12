@@ -5,6 +5,21 @@ $(document).ready(function() {
     let urlProductName = urlParams.get('product_name');
 
     let card = [];
+
+    if(!card || card.length === 0) {
+       let localOrders = getOrders();
+
+       if(Array.isArray(localOrders)) {
+         localOrders.forEach(item => {
+            card[item.getId] = item;
+         });
+       }
+
+     sumCardTotal();
+    }
+
+    console.log(card);
+
     let products = [];
     let category = [];
     let selectedCategory = '';
@@ -16,8 +31,6 @@ $(document).ready(function() {
     $.getJSON("products.json?v=116", function(data) {
       products = data.products;
       getCategoryList();
-
-      console.log(category)
 
       if(urlProductName) {
         urlProductName = urlProductName.replace(/20\/?/g, ' ');
@@ -133,14 +146,13 @@ $(document).ready(function() {
           card[getId] = [];
         }  
 
-        card[getId] = {
-          "imageSrc": imageSrc,
-          "productName": productName,
-          "productPrice": productPrice,
-          "count": count,
-          "getId": getId
-        };
-
+          card[getId] = {
+            "imageSrc": imageSrc,
+            "productName": productName,
+            "productPrice": productPrice,
+            "count": count,
+            "getId": getId
+          };
 
         $('.count').val('');
 
@@ -149,6 +161,8 @@ $(document).ready(function() {
         setTimeout(function(){
           $('.showNotice').removeClass('active');
        }, 1000);
+
+        updateLocalStorage();
 
         sumCardTotal();
     });
@@ -165,15 +179,17 @@ $(document).ready(function() {
 
 
     $(document).on('click', '.openCart', function() {
-      $('.cart-list').html('');
+      let savedOrder = getOrders();
 
+      $('.cart-list').html('');
       $('.cart-list-modal').addClass(['display-flex', 'active']);
 
-      // {imageSrc: '/img/3.jpg', productName: '3 Qulaqlıq BT Euroacs EU-HS30 Black', productPrice: '0.60₼', count: '23', getId: 'SSW3767'}
-      Object.keys(card).map(function(objectKey, index) {
-          var row = card[objectKey];
 
-          $('.cart-list').append(`
+      // {imageSrc: '/img/3.jpg', productName: '3 Qulaqlıq BT Euroacs EU-HS30 Black', productPrice: '0.60₼', count: '23', getId: 'SSW3767'}
+      Object.keys(savedOrder).map(function(objectKey, index) {
+          var row = savedOrder[objectKey];
+
+          $('.cart-list').prepend(`
             <div class="cart-list-item">
                <div class="cart-list-image">
                 <img src="${row.imageSrc}">
@@ -210,12 +226,13 @@ $(document).ready(function() {
        $(this).closest('.cart-list-item').remove();
 
        sumCardTotal();
+       updateLocalStorage();
     });
 
 
     $(document).on('click', '.send-cart', function() {
       let strs = '';
-    let orderId = Date.now();
+      let orderId = Date.now();
 
 
         // **Тестируем**
@@ -258,7 +275,9 @@ $(document).ready(function() {
 
             $('.cart-list').html('');   
 
-            sumCardTotal();       
+            sumCardTotal();
+
+            updateLocalStorage();
           }
         });
     });
@@ -279,6 +298,7 @@ $(document).ready(function() {
          card[getId].count = newCount;
           sumCardTotal(); 
 
+          updateLocalStorage();
        }, $delay));
 
 
@@ -480,6 +500,14 @@ function searchByName(name) {
    } 
 }
 
+function updateLocalStorage() {
+  localStorage.setItem("orders", JSON.stringify(Object.values(card)));
+}
+
+
+function getOrders() {
+  return savedOrder = JSON.parse(localStorage.getItem("orders"));  
+}
 
 });
 
