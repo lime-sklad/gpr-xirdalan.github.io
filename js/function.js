@@ -81,7 +81,6 @@ $(document).ready(function() {
             // let jsonSearchArr = [];
 
             searchByName(vals);
-
          }, $delay));
        }
 
@@ -123,12 +122,13 @@ $(document).ready(function() {
         $('.cart-id').val(id);
         
         $('.count').focus();
+
+        $('body').addClass('overflow-hidden');
     });
 
 
     $(document).on('click', '.add-to-card', function() {
         closeCartModal();
-
         let $this = $(this).closest('.add-to-card-modal');
 
         let imageSrc = $this.find('.cart-product-image > img').attr('src');
@@ -175,11 +175,16 @@ $(document).ready(function() {
 
     $(document).on('click', '.close-card-list', function() {
       $('.cart-list-modal').removeClass(['display-flex', 'active']);
+      $('body').removeClass('overflow-hidden');
+
     });
 
 
     $(document).on('click', '.openCart', function() {
       let savedOrder = getOrders();
+
+        $('body').addClass('overflow-hidden');
+
 
       $('.cart-list').html('');
       $('.cart-list-modal').addClass(['display-flex', 'active']);
@@ -285,6 +290,7 @@ $(document).ready(function() {
 
     function closeCartModal() {
       $('.add-to-card-modal').removeClass('display-flex');
+      $('body').removeClass('overflow-hidden');
     } 
 
     $(document).on('input', '.cart-list-item-count', function() {
@@ -362,7 +368,7 @@ $(document).ready(function() {
   function prepareProductCardTpl(product) {
     // let urlParse = encodeURIComponent(product.name);
     return `
-        <div class="products-card">
+        <div class="products-card animate__animated animate__fadeIn">
           <a href="javascript:void(0)" class="share" data-name="${product.name}">
             
             <span>Paylaş</span>

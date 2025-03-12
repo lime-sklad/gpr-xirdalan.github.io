@@ -13,6 +13,7 @@
     <meta http-equiv="Expires" content="0" /> 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="/css/font.css?v=1740341642648">
+	<link rel="stylesheet" href="/css/animate.min.css?v=1740341642648">
 	<script type="text/javascript" src="/js/jquery-3.7.1.min.js"></script>
 	<title>GIPERAKS - XIRDALAN</title>
 </head>
@@ -77,7 +78,7 @@
 		</div>
 
 		<div class="add-to-card-modal">
-			<div class="add-to-card-modal-wrp">
+			<div class="add-to-card-modal-wrp animate__animated animate__fadeIn animate__faster">
 				<div class="add-to-card-modal-title">
 					<spam class="add-to-card-title">Səbətə əlavə et</spam>
 					<span class="close-add-card-modal">
@@ -112,7 +113,7 @@
 			</div>
 		</div>
 
-		<div class="cart-controll">
+		<div class="cart-controll animate__animated animate__fadeInUp">
 			<button class="openCart">Səbəti açmaq (<span class="sum-card">0</span>₼)</button>
 		</div>
 
@@ -131,7 +132,14 @@
 				</div>	
 
 				<div class="cart-bottom-control">
-					<button class="send-cart">Sifarisi tamamla</button>
+					<div class="cart-total-container animate__animated animate__fadeInUp animate__fast">
+					  <span class="order-total-title">Toplam: </span>
+	                  
+	                  <span class="sum-card-container">
+		                  <span class="sum-card"> ${total}</span>  AZN							
+					  </span>
+					</div>
+					<button class="send-cart animate__animated animate__fadeInUp">Sifarisi tamamla</button>
 				</div>			
 
 				<div class="preloader hide">
