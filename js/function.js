@@ -470,6 +470,16 @@ function searchByName(name) {
       record => record.name.toLowerCase().includes(name) 
   );
 
+
+  $('head').append(`
+    <meta property="og:title" content="${customData[0].name}">
+    <meta property="og:description" content="GIPERAKS XIRDALAN">
+    <meta property="og:image" content="https://gpr-xirdalan.github.io/${customData[0].imageSrc}">
+    <meta property="og:url" content="https://gpr-xirdalan.github.io/">
+    <meta property="og:type" content="website">
+  `);
+
+
    if(customData.length > 0) {
      selectedCategory = false;
 
