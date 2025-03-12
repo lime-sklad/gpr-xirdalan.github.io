@@ -13,7 +13,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=115", function(data) {
+    $.getJSON("products.json?v=116", function(data) {
       products = data.products;
       getCategoryList();
 
