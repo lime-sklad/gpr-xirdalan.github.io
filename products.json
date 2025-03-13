@@ -1,888 +1,1085 @@
 {
     "products": [
-
-         {
-              "name": "GLASS HD+ G20 10IN1 HONOR 200 LITE",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 HONOR X6B",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 HONOR X7B",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 HONOR X8",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 HONOR X8A",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 HONOR X8B",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 IPH 11 PRO/X/XS",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 IPH 11/XR",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 IPH 12 PRO MAX",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 IPH 12/12 PRO",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 IPH 13 PRO MAX",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 IPH 13/13 PRO",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A02",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A03",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A04",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A04S",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A05",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A05S",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A06",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A10/A10S",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A11",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A12/A70",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A13",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A14",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A15",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A16",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A20/A30/A50",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A20S",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A21S",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A22",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A23",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A24",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A25",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A31",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A32",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A33",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A34",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A35",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A41",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A52",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A53",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A54",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A55",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 SAM A71",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 8",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 9",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 10C",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 12",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 12C",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 13",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 13C",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 9",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 9A",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM 9T",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 10",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 11",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 11 PRO",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 12",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 12S",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 13",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 13 PRO",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS HD+ G20 10IN1 XRM NOTE 7/7PRO",
-              "price": "6",
-              "imageSrc": "/img/g20.jpg",
-              "category": "Şüşə Qutu HD",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 11/IPH XR",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 11 PRO MAX",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 11 PRO/X/XS",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 12/12 PRO",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 12 PRO MAX",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 13/13 PRO",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 13 PRO MAX",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 14",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 14 PRO",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 IPH 14 PRO MAX",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 HONOR X6B",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 HONOR X8B",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A05",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A10",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A12",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A13",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A14",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A15",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A16",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A24",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A25",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A32",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A35",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A51",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A52",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A54",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 SAM A55",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI 12",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI 13",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI 13C",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI NOTE 11",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI NOTE 12",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI NOTE 13",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI NOTE 8",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },
-          {
-              "name": "GLASS PRIVACY P20 REDMI NOTE 9S",
-              "price": "1",
-              "imageSrc": "/img/glass-p20.jpg",
-              "category": "Şüşə Privacy 1 AZN",
-              "brand": "Ümumi",
-              "pinned": "false",
-              "hasNew": "false"
-          },      
-          {
-              "name": "GLASS TIGER HD HONOR 10 LITE",
-              "price": "0.9",
-              "imageSrc": "/img/tiger-hd.png",
-              "category": "Şüşə Tiger HD",
-              "brand": "TIGER HD",
-              "pinned": "false",
-              "hasNew": "false"
-          },
+        {
+            "name": "CHARGER USB QC MI 67W 2IN1 C",
+            "price": "10",
+            "imageSrc": "/img/mi-67w-2in1.jpg",
+            "category": "Adapterlər",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 67W MI M165 USB QC",
+            "price": "9",
+            "imageSrc": "/img/m165.jpg",
+            "category": "Adapterlər",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC MI 33W",
+            "price": "7.50",
+            "imageSrc": "/img/mi-33w.jpg",
+            "category": "Adapterlər",
+            "brand": "MI",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "KAMERA PTZ KAKU KSC-1128 OUTDOOR HD ",
+            "price": "68",
+            "imageSrc": "/img/ksc-1128.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "KAMERA PTZ KAKU KSC-1125 INDOOR HD",
+            "price": "60",
+            "imageSrc": "/img/ksc-1125.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWER STOCKET JOKADE JB058 3CTOCKET 3USB WH ",
+            "price": "24",
+            "imageSrc": "/img/jb058.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR QULAQLI",
+            "price": "4",
+            "imageSrc": "/img/car-qulaqli.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR SATELLITE GOLD",
+            "price": "9.50",
+            "imageSrc": "/img/satellite-parfume.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR CA12",
+            "price": "11",
+            "imageSrc": "/img/ca12.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR CA06 BLACK",
+            "price": "12",
+            "imageSrc": "/img/ca06.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR SHIP HELM",
+            "price": "9.50",
+            "imageSrc": "/img/car-ship-helm.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR HELIKOPTER",
+            "price": "13",
+            "imageSrc": "/img/car-helikopter.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR GOOD LOOK ",
+            "price": "12",
+            "imageSrc": "/img/good-look.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR HELICOPTER CATP",
+            "price": "11",
+            "imageSrc": "/img/helicopter-catp.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR BASKETBALL BLACK ",
+            "price": "13.50",
+            "imageSrc": "/img/car-basketball.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR TEYYARE",
+            "price": "10.50",
+            "imageSrc": "/img/car-teyyare8.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR TEYYARE CA01 BLACK",
+            "price": "15",
+            "imageSrc": "/img/ca01.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR HOME CA16",
+            "price": "10",
+            "imageSrc": "/img/ca16.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR IU",
+            "price": "5.50",
+            "imageSrc": "/img/car-iu.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-T03S PRO JIELI ",
+            "price": "30",
+            "imageSrc": "/img/jr-t03s-jieli-pro.png",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-T03S JIELI ",
+            "price": "26",
+            "imageSrc": "/img/jr-t03s-jieli.jpg",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "WS JOYROOM JR-T03S PLUS JIELI",
+            "price": "28",
+            "imageSrc": "/img/jr-t03s-plus-jieli.jpg",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 HONOR 200 LITE",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 HONOR X6B",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 HONOR X7B",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 HONOR X8",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 HONOR X8A",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 HONOR X8B",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 IPH 11 PRO/X/XS",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 IPH 11/XR",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 IPH 12 PRO MAX",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 IPH 12/12 PRO",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 IPH 13 PRO MAX",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 IPH 13/13 PRO",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A02",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A03",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A04",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A04S",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A05",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A05S",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A06",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A10/A10S",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A11",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A12/A70",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A13",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A14",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A15",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A16",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A20/A30/A50",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A20S",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A21S",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A22",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A23",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A24",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A25",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A31",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A32",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A33",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A34",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A35",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A41",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A52",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A53",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A54",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A55",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 SAM A71",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 8",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 9",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 10C",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 12",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 12C",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 13",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 13C",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 9",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 9A",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM 9T",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 10",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 11",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 11 PRO",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 12",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 12S",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 13",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 13 PRO",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS HD+ G20 10IN1 XRM NOTE 7/7PRO",
+            "price": "6",
+            "imageSrc": "/img/g20.jpg",
+            "category": "Şüşə Qutu HD",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 11/IPH XR",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 11 PRO MAX",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 11 PRO/X/XS",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 12/12 PRO",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 12 PRO MAX",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 13/13 PRO",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 13 PRO MAX",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 14",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 14 PRO",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 IPH 14 PRO MAX",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 HONOR X6B",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 HONOR X8B",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A05",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A10",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A12",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A13",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A14",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A15",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A16",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A24",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A25",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A32",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A35",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A51",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A52",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A54",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 SAM A55",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI 12",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI 13",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI 13C",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI NOTE 11",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI NOTE 12",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI NOTE 13",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI NOTE 8",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS PRIVACY P20 REDMI NOTE 9S",
+            "price": "1",
+            "imageSrc": "/img/glass-p20.jpg",
+            "category": "Şüşə Privacy 1 AZN",
+            "brand": "Ümumi",
+            "pinned": "false",
+            "hasNew": "false"
+        },
+        {
+            "name": "GLASS TIGER HD HONOR 10 LITE",
+            "price": "0.9",
+            "imageSrc": "/img/tiger-hd.png",
+            "category": "Şüşə Tiger HD",
+            "brand": "TIGER HD",
+            "pinned": "false",
+            "hasNew": "false"
+        },
         {
             "name": "GLASS TIGER HD HONOR 200 LITE",
             "price": "0.9",
@@ -2547,7 +2744,7 @@
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
-        },        
+        },
         {
             "name": "GLASS BIO HD EUROACS AD IPH 11 PRO MAX/XS MAX",
             "price": "1.7",
@@ -4950,7 +5147,7 @@
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
-        },        
+        },
         {
             "name": "HOLDER CAR DASH Q42 MAGNIT",
             "price": "4.50",
