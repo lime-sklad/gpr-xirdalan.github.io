@@ -223,6 +223,16 @@ select {
     width: 100%;
     height: 47px;
     padding: 5px;
+    z-index: 101;
+}
+
+.slider-title {
+    display: block;
+    font-weight: 700;
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 9px;
+    margin-left: -9px;
 }
 
 .openCart {
@@ -247,6 +257,13 @@ select {
     font-weight: 600;
     font-size: 15px;
     flex-basis: 100%;
+}
+
+.slider-content {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 button {
@@ -673,6 +690,25 @@ button {
 .overflow-hidden {
     overflow: hidden;
 }
+
+.swiper {/*    margin-bottom: 10px;*/padding: 10px;position: inherit;}
+
+.swiper-button-next, .swiper-button-prev {
+    border-radius: 7px;
+    background: #f6f6f6;
+    padding: 20px;
+    /* width: 40px; */
+    /* height: 56px; */
+    top: 33%;
+    box-shadow: 1px 4px 4px -1px #adadad7a;
+    color: #665ab7;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 26px;
+}
+
+
 
 @media screen and (max-width: 992px) {
     .products-card {

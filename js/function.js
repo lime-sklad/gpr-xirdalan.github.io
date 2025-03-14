@@ -42,7 +42,11 @@ $(document).ready(function() {
       }
 
         loadProducts();
+
+        drawSliderItem();
     });
+
+
 
 
 
@@ -485,8 +489,11 @@ function selectedRandomCategory() {
 
 
 function scrollTop() {
-  var $body = $("html, body, .container, .content");
-   $body.stop().animate({scrollTop:0}, 500, 'swing', function(evt) {
+    var $body = $("html, body, .container, .content");
+
+    let scrollPos = $('.content').position();
+
+   $body.stop().animate({scrollTop: scrollPos.top}, 500, 'swing', function(evt) {
    });
 }
 
@@ -513,6 +520,37 @@ function updateLocalStorage() {
 
 function getOrders() {
   return savedOrder = JSON.parse(localStorage.getItem("orders"));  
+}
+
+function drawSliderItem() {
+let sliderItemList = products.slice(0, 20);
+    
+  let itemHtml = '';
+
+    $.each(sliderItemList, function(key, val) {
+      itemHtml = itemHtml + prepareProductCardTpl(val);
+    });
+
+    $(document).find('.swiper-wrapper').html(itemHtml);
+
+    $(document).find('.swiper-wrapper').find('.products-card').addClass('swiper-slide').removeClass('animate__animated animate__fadeIn');
+
+
+    var swiper = new Swiper(".mySwiper", {
+      // effect: "cards",
+      grabCursor: true,
+      loop: true,
+      autoplay: {
+        delay: 1450,
+        disableOnInteraction: false,
+      },
+      spaceBetween: 30,
+      centeredSlides: true,      
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },      
+    }); 
 }
 
 });
