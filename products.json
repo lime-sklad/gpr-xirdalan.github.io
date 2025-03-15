@@ -17,6 +17,24 @@
             "brand": "Ümumi",
             "pinned": false,
             "hasNew": false
+        },      
+        {
+            "name": "CHARGER USB QC MI 67W 2IN1 C",
+            "price": "10",
+            "imageSrc": "/img/mi-67w-2in1.jpg",
+            "category": "Adapterlər",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 67W MI M165 USB QC",
+            "price": "9",
+            "imageSrc": "/img/m165.jpg",
+            "category": "Adapterlər",
+            "brand": "Ümumi",
+            "pinned": false,
+            "hasNew": false
         },
         {
             "name": "CHARGER USB QC MI 33W",
