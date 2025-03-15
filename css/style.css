@@ -774,3 +774,32 @@ button {
 
 
 
+
+
+.product-discount-price {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.product-price-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-discount-price {
+    font-weight: 500;
+    color: #ff0037;
+    font-size: 17px;
+}
+
+.product-discount-price > .products-price {
+    margin-left: 5px;
+}
+.product-old-price {
+    margin-top: 15px;
+    font-weight: 500;
+    display: inline-block;
+    color: #8419ed;
+    font-size: 17px;
+}

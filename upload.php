@@ -52,6 +52,7 @@ $productName = $_POST['productName'];
 $productPrice = $_POST['productPrice'];
 $productCategory = $_POST['productCategory'];
 $productBrand = $_POST['productBrand'];
+$discount = $_POST['productDsicount'];
 
 
 if(!empty($_POST['productName'])) {
@@ -80,6 +81,7 @@ $newEntry = [
     'imageSrc' => '/img/'.$imageName,
     'category' => $productCategory,
     'brand' => $productBrand,
+    'discount' => $discount,
     'pinned' => false,
     'hasNew' => false
 ];
@@ -129,6 +131,11 @@ file_put_contents($file, $newJsonData);
 
   <label for="productBrand">Brand</label>
   <input type="text" name="productBrand">
+
+
+  <label for="productDsicount">Discount</label>
+  <input type="text" name="productDsicount">
+
   <input type="submit" value="Upload Image" name="submit">
 </form>
 </body>
