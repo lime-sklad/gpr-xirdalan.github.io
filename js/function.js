@@ -49,14 +49,18 @@ $(document).ready(function() {
 
 
 
+    $(document).on('click', '.hide-price', function() {
+      $('.products-price').toggleClass('hide-product-price');
+    });
+
 
 
     $(window).on("scroll", function () {
       if($(window).scrollTop() > 100) {
         $('.search-container').addClass('search-container-scrolled');
-        $('.scroll-top').addClass('display-flex');
+        $('.scroll-nav').addClass('display-flex');
       } else { 
-        $('.scroll-top').removeClass('display-flex');
+        $('.scroll-nav').removeClass('display-flex');
         $('.search-container').removeClass('search-container-scrolled');
       }
 
@@ -432,23 +436,59 @@ $(document).ready(function() {
   function getCategoryList() {
     let selected = '';
 
+    let groupList = {};
+
     $.each(products, function(key, val) {
-      if(!category.includes(val.category)) {
-        category.push(val.category);
-      }  
+      if(val.group) {
+        if (!groupList[val.group]) {
+          groupList[val.group] = [];
+        }
+
+        if(!groupList[val.group].includes(val.category)) {
+          groupList[val.group].push(val.category);
+        }
+      } else if(!category.includes(val.category) && !val.group) {
+          category.push(val.category);
+      }     
     });
 
+
+    category.push(groupList);
+
+
+
+
     selectedRandomCategory();
+        let groupOptionList = '';
+
+
+        console.log(category);
 
     $.each(category, function(key, val) { 
-      if(selectedCategory && val === selectedCategory) {
-        selected = 'selected';
+        if (typeof val === "object" && !Array.isArray(val)) { // Проверяем, что это объект
+            Object.keys(val).forEach(groupKey => {
+                val[groupKey].forEach(groupVal => {
+                    groupOptionList += `<option class="select-category-option" ${selected} value="${groupVal}">${groupVal}</option>`;
+                });
+
+                $('.select-category').prepend(`
+                  <optgroup label="${groupKey}">
+                    ${groupOptionList}
+                  </optgroup>
+              `); 
+
+              groupOptionList = '';  
+            });
+
+        } else {
+          if(selectedCategory && val === selectedCategory) {
+            selected = 'selected';
+          }        
+        $('.select-category').append(`
+          <option class="select-category-option" ${selected} value="${val}">${val}</option>
+        `);       
       }
 
-
-      $('.select-category').append(`
-        <option class="select-category-option" ${selected} value="${val}">${val}</option>
-      `);
 
       selected = '';
     });

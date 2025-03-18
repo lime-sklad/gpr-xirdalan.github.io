@@ -154,6 +154,7 @@ body {
     color: #ff0037;
     margin: 9px 0;
     font-weight: 600;
+    transition: .5s;
 }
 
 .button {
@@ -636,7 +637,7 @@ button {
     height: 33px!important;
 }
 
-.scroll-top {
+.scroll-top, .hide-price  {
     --size-btn: 52px;
     position: fixed;
     right: 4px;
@@ -651,9 +652,19 @@ button {
     justify-content: center;
 }
 
-.scroll-top svg {
+.scroll-nav svg {
     width: 100%;
     height: 100%;
+}
+
+.hide-product-price {
+    opacity: 0;
+}
+
+.hide-price {
+    bottom: 110px;
+    padding: 7px;
+    background: #ff2b2b;
 }
 
 .share {

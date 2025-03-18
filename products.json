@@ -1,6 +1,6 @@
 {
     "products": [
-       {
+        {
             "name": "HF WIRED C SOUNDER HS66 ",
             "price": "2",
             "imageSrc": "/img/HS66.jpg",
@@ -629,7 +629,7 @@
             "discount": "30",
             "pinned": false,
             "hasNew": false
-        },      
+        },
         {
             "name": "CHARGER USB QC MI 67W 2IN1 C",
             "price": "10",
@@ -647,7 +647,7 @@
             "brand": "Ümumi",
             "pinned": false,
             "hasNew": false
-        },      
+        },
         {
             "name": "CHARGER USB QC MI 67W 2IN1 C",
             "price": "10",
@@ -851,6 +851,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -860,6 +861,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -869,6 +871,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -878,6 +881,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -887,6 +891,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -896,6 +901,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -905,6 +911,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -914,6 +921,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -923,6 +931,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -932,6 +941,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -941,6 +951,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -950,6 +961,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -959,6 +971,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -968,6 +981,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -977,6 +991,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -986,6 +1001,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -995,6 +1011,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1004,6 +1021,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1013,6 +1031,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1022,6 +1041,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1031,6 +1051,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1040,6 +1061,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1049,6 +1071,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1058,6 +1081,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1067,6 +1091,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1076,6 +1101,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1085,6 +1111,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1094,6 +1121,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1103,6 +1131,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1112,6 +1141,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1121,6 +1151,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1130,6 +1161,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1139,6 +1171,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1148,6 +1181,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1157,6 +1191,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1166,6 +1201,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1175,6 +1211,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1184,6 +1221,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1193,6 +1231,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1202,6 +1241,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1211,6 +1251,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1220,6 +1261,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1229,6 +1271,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1238,6 +1281,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1247,6 +1291,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1256,6 +1301,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1265,6 +1311,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1274,6 +1321,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1283,6 +1331,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1292,6 +1341,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1301,6 +1351,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1310,6 +1361,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1319,6 +1371,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1328,6 +1381,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1337,6 +1391,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1346,6 +1401,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1355,6 +1411,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1364,6 +1421,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1373,6 +1431,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1382,6 +1441,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1391,6 +1451,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1400,6 +1461,7 @@
             "price": "6",
             "imageSrc": "/img/g20.jpg",
             "category": "Şüşə Qutu HD",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1409,6 +1471,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1418,6 +1481,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1427,6 +1491,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1436,6 +1501,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1445,6 +1511,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1454,6 +1521,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1463,6 +1531,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1472,6 +1541,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1481,6 +1551,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1490,6 +1561,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1499,6 +1571,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1508,6 +1581,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1517,6 +1591,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1526,6 +1601,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1535,6 +1611,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1544,6 +1621,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1553,6 +1631,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1562,6 +1641,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1571,6 +1651,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1580,6 +1661,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1589,6 +1671,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1598,6 +1681,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1607,6 +1691,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1616,6 +1701,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1625,6 +1711,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1634,6 +1721,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1643,6 +1731,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1652,6 +1741,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1661,6 +1751,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1670,6 +1761,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1679,6 +1771,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1688,6 +1781,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1697,6 +1791,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1706,6 +1801,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1715,6 +1811,7 @@
             "price": "1",
             "imageSrc": "/img/glass-p20.jpg",
             "category": "Şüşə Privacy 1 AZN",
+            "group": "Şüşə",
             "brand": "Ümumi",
             "pinned": "false",
             "hasNew": "false"
@@ -1724,6 +1821,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1733,6 +1831,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1742,6 +1841,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1751,6 +1851,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1760,6 +1861,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1769,6 +1871,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1778,6 +1881,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1787,6 +1891,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1796,6 +1901,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1805,6 +1911,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1814,6 +1921,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1823,6 +1931,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1832,6 +1941,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1841,6 +1951,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1850,6 +1961,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1859,6 +1971,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1868,6 +1981,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1877,6 +1991,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1886,6 +2001,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1895,6 +2011,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1904,6 +2021,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1913,6 +2031,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1922,6 +2041,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1931,6 +2051,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1940,6 +2061,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1949,6 +2071,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1958,6 +2081,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1967,6 +2091,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1976,6 +2101,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1985,6 +2111,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -1994,6 +2121,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2003,6 +2131,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2012,6 +2141,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2021,6 +2151,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2030,6 +2161,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2039,6 +2171,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2048,6 +2181,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2057,6 +2191,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2066,6 +2201,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2075,6 +2211,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2084,6 +2221,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2093,6 +2231,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2102,6 +2241,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2111,6 +2251,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2120,6 +2261,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2129,6 +2271,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2138,6 +2281,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2147,6 +2291,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2156,6 +2301,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2165,6 +2311,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2174,6 +2321,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2183,6 +2331,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2192,6 +2341,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2201,6 +2351,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2210,6 +2361,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2219,6 +2371,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2228,6 +2381,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2237,6 +2391,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2246,6 +2401,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2255,6 +2411,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2264,6 +2421,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2273,6 +2431,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2282,6 +2441,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2291,6 +2451,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2300,6 +2461,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2309,6 +2471,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2318,6 +2481,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2327,6 +2491,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2336,6 +2501,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2345,6 +2511,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2354,6 +2521,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2363,6 +2531,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2372,6 +2541,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2381,6 +2551,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2390,6 +2561,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2399,6 +2571,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2408,6 +2581,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2417,6 +2591,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2426,6 +2601,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2435,6 +2611,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2444,6 +2621,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2453,6 +2631,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2462,6 +2641,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2471,6 +2651,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2480,6 +2661,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2489,6 +2671,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2498,6 +2681,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2507,6 +2691,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2516,6 +2701,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2525,6 +2711,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2534,6 +2721,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2543,6 +2731,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2552,6 +2741,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2561,6 +2751,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2570,6 +2761,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2579,6 +2771,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2588,6 +2781,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2597,6 +2791,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2606,6 +2801,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2615,6 +2811,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2624,6 +2821,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2633,6 +2831,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2642,6 +2841,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2651,6 +2851,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2660,6 +2861,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2669,6 +2871,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2678,6 +2881,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2687,6 +2891,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2696,6 +2901,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2705,6 +2911,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2714,6 +2921,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2723,6 +2931,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2732,6 +2941,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2741,6 +2951,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2750,6 +2961,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2759,6 +2971,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2768,6 +2981,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2777,6 +2991,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2786,6 +3001,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2795,6 +3011,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2804,6 +3021,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2813,6 +3031,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2822,6 +3041,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2831,6 +3051,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2840,6 +3061,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2849,6 +3071,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2858,6 +3081,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2867,6 +3091,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2876,6 +3101,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2885,6 +3111,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2894,6 +3121,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2903,6 +3131,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2912,6 +3141,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2921,6 +3151,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2930,6 +3161,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2939,6 +3171,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2948,6 +3181,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2957,6 +3191,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2966,6 +3201,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2975,6 +3211,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2984,6 +3221,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -2993,6 +3231,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3002,6 +3241,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3011,6 +3251,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3020,6 +3261,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3029,6 +3271,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3038,6 +3281,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3047,6 +3291,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3056,6 +3301,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3065,6 +3311,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3074,6 +3321,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3083,6 +3331,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3092,6 +3341,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3101,6 +3351,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3110,6 +3361,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3119,6 +3371,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3128,6 +3381,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3137,6 +3391,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3146,6 +3401,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3155,6 +3411,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3164,6 +3421,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3173,6 +3431,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3182,6 +3441,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3191,6 +3451,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3200,6 +3461,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3209,6 +3471,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3218,6 +3481,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3227,6 +3491,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3236,6 +3501,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3245,6 +3511,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3254,6 +3521,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3263,6 +3531,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3272,6 +3541,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3281,6 +3551,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3290,6 +3561,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3299,6 +3571,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3308,6 +3581,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3317,6 +3591,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3326,6 +3601,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3335,6 +3611,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3344,6 +3621,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3353,6 +3631,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3362,6 +3641,7 @@
             "price": "1.5",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3371,6 +3651,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3380,6 +3661,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3389,6 +3671,7 @@
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
+            "group": "Şüşə",
             "brand": "TIGER HD",
             "pinned": "false",
             "hasNew": "false"
@@ -3398,6 +3681,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3407,6 +3691,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3416,6 +3701,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "BIO HD",
             "hasNew": "Euroacs"
@@ -3425,6 +3711,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3434,6 +3721,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3443,6 +3731,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3452,6 +3741,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3461,6 +3751,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3470,6 +3761,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3479,6 +3771,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3488,6 +3781,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3497,6 +3791,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3506,6 +3801,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3515,6 +3811,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3524,6 +3821,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3533,6 +3831,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3542,6 +3841,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3551,6 +3851,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3560,6 +3861,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3569,6 +3871,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3578,6 +3881,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3587,6 +3891,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3596,6 +3901,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3605,6 +3911,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3614,6 +3921,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3623,6 +3931,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3632,6 +3941,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3641,6 +3951,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3650,6 +3961,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3659,6 +3971,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3668,6 +3981,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3677,6 +3991,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3686,6 +4001,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3695,6 +4011,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3704,6 +4021,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3713,6 +4031,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3722,6 +4041,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3731,6 +4051,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3740,6 +4061,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3749,6 +4071,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3758,6 +4081,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3767,6 +4091,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3776,6 +4101,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3785,6 +4111,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3794,6 +4121,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3803,6 +4131,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3812,6 +4141,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3821,6 +4151,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3830,6 +4161,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3839,6 +4171,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3848,6 +4181,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3857,6 +4191,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3866,6 +4201,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3875,6 +4211,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3884,6 +4221,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3893,6 +4231,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3902,6 +4241,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3911,6 +4251,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3920,6 +4261,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3929,6 +4271,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3938,6 +4281,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3947,6 +4291,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3956,6 +4301,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3965,6 +4311,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3974,6 +4321,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3983,6 +4331,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -3992,6 +4341,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4001,6 +4351,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4010,6 +4361,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4019,6 +4371,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4028,6 +4381,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4037,6 +4391,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4046,6 +4401,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4055,6 +4411,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4064,6 +4421,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4073,6 +4431,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4082,6 +4441,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4091,6 +4451,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4100,6 +4461,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4109,6 +4471,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4118,6 +4481,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4127,6 +4491,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4136,6 +4501,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4145,6 +4511,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4154,6 +4521,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4163,6 +4531,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4172,6 +4541,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4181,6 +4551,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4190,6 +4561,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4199,6 +4571,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4208,6 +4581,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4217,6 +4591,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4226,6 +4601,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4235,6 +4611,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4244,6 +4621,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4253,6 +4631,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4262,6 +4641,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4271,6 +4651,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4280,6 +4661,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4289,6 +4671,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4298,6 +4681,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4307,6 +4691,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4316,6 +4701,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4325,6 +4711,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4334,6 +4721,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4343,6 +4731,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4352,6 +4741,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4361,6 +4751,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4370,6 +4761,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4379,6 +4771,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4388,6 +4781,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4397,6 +4791,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4406,6 +4801,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4415,6 +4811,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4424,6 +4821,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4433,6 +4831,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4442,6 +4841,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4451,6 +4851,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4460,6 +4861,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4469,6 +4871,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4478,6 +4881,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4487,6 +4891,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4496,6 +4901,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4505,6 +4911,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4514,6 +4921,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4523,6 +4931,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4532,6 +4941,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4541,6 +4951,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4550,6 +4961,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4559,6 +4971,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4568,6 +4981,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4577,6 +4991,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4586,6 +5001,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4595,6 +5011,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4604,6 +5021,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4613,6 +5031,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4622,6 +5041,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4631,6 +5051,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4640,6 +5061,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4649,6 +5071,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4658,6 +5081,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4667,6 +5091,7 @@
             "price": "2.5",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4676,6 +5101,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4685,6 +5111,7 @@
             "price": "1.7",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4694,6 +5121,7 @@
             "price": "2.5",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4703,6 +5131,7 @@
             "price": "2",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4712,6 +5141,7 @@
             "price": "3",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4721,6 +5151,7 @@
             "price": "3",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4730,6 +5161,7 @@
             "price": "3",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4739,6 +5171,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4748,6 +5181,7 @@
             "price": "1.6",
             "imageSrc": "/img/bio-hd.png",
             "category": "Şüşə BIO HD",
+            "group": "Şüşə",
             "brand": "Euroacs",
             "pinned": "false",
             "hasNew": "false"
@@ -4757,6 +5191,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4766,6 +5201,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4775,6 +5211,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4784,6 +5221,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4793,6 +5231,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4802,6 +5241,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4811,6 +5251,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4820,6 +5261,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4829,6 +5271,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4838,6 +5281,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4847,6 +5291,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4856,6 +5301,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4865,6 +5311,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4874,6 +5321,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4883,6 +5331,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4892,6 +5341,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4901,6 +5351,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4910,6 +5361,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4919,6 +5371,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4928,6 +5381,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4937,6 +5391,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4946,6 +5401,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4955,6 +5411,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4964,6 +5421,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4973,6 +5431,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4982,6 +5441,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -4991,6 +5451,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5000,6 +5461,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5009,6 +5471,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5018,6 +5481,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5027,6 +5491,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5036,6 +5501,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5045,6 +5511,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5054,6 +5521,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5063,6 +5531,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5072,6 +5541,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5081,6 +5551,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5090,6 +5561,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5099,6 +5571,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5108,6 +5581,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5117,6 +5591,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5126,6 +5601,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5135,6 +5611,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5144,6 +5621,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5153,6 +5631,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5162,6 +5641,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5171,6 +5651,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5180,6 +5661,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5189,6 +5671,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5198,6 +5681,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5207,6 +5691,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5216,6 +5701,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5225,6 +5711,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5234,6 +5721,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5243,6 +5731,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5252,6 +5741,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5261,6 +5751,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5270,6 +5761,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5279,6 +5771,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5288,6 +5781,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5297,6 +5791,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5306,6 +5801,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5315,6 +5811,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5324,6 +5821,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5333,6 +5831,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5342,6 +5841,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5351,6 +5851,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5360,6 +5861,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5369,6 +5871,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5378,6 +5881,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5387,6 +5891,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5396,6 +5901,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5405,6 +5911,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5414,6 +5921,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5423,6 +5931,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5432,6 +5941,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5441,6 +5951,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5450,6 +5961,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5459,6 +5971,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5468,6 +5981,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5477,6 +5991,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5486,6 +6001,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5495,6 +6011,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5504,6 +6021,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5513,6 +6031,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5522,6 +6041,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5531,6 +6051,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5540,6 +6061,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5549,6 +6071,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5558,6 +6081,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5567,6 +6091,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5576,6 +6101,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5585,6 +6111,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5594,6 +6121,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5603,6 +6131,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5612,6 +6141,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5621,6 +6151,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5630,6 +6161,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5639,6 +6171,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5648,6 +6181,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5657,6 +6191,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5666,6 +6201,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5675,6 +6211,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5684,6 +6221,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5693,6 +6231,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5702,6 +6241,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5711,6 +6251,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5720,6 +6261,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5729,6 +6271,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5738,6 +6281,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5747,6 +6291,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5756,6 +6301,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5765,6 +6311,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5774,6 +6321,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5783,6 +6331,7 @@
             "price": "2",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -5792,6 +6341,7 @@
             "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
+            "group": "Şüşə",
             "brand": "TIGER PRIVACY",
             "pinned": "false",
             "hasNew": "false"
@@ -7087,65 +7637,212 @@
             "name": "YADDAS USB 2GB EUROACS",
             "price": "4.80",
             "imageSrc": "/img/yaddas-usb-2gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
+        {
+            "name": "YADDAS USB 2GB SANDISK CZ50",
+            "price": "3.80",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        }, 
+        {
+            "name": "YADDAS USB 2GB SAMSUNG",
+            "price": "4.50",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },                
         {
             "name": "YADDAS USB 4GB EUROACS",
             "price": "5.20",
             "imageSrc": "/img/yaddas-usb-4gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
+        {
+            "name": "YADDAS USB 4GB SANDISK CZ50",
+            "price": "4",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        },          
+        {
+            "name": "YADDAS USB 4GB SAMSUNG",
+            "price": "5",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },         
         {
             "name": "YADDAS USB 8GB EUROACS",
             "price": "6.20",
             "imageSrc": "/img/yaddas-usb-8gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
+        {
+            "name": "YADDAS USB 8GB SANDISK CZ50",
+            "price": "5",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 8GB SAMSUNG",
+            "price": "5.80",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },         
         {
             "name": "YADDAS USB 16GB EUROACS",
             "price": "7.50",
             "imageSrc": "/img/yaddas-usb-16gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
+        {
+            "name": "YADDAS USB 16GB SANDISK CZ50",
+            "price": "5.50",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        },          
+        {
+            "name": "YADDAS USB 16GB SAMSUNG",
+            "price": "7",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },         
         {
             "name": "YADDAS USB 32GB EUROACS",
             "price": "8.50",
             "imageSrc": "/img/yaddas-usb-32gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
+        {
+            "name": "YADDAS USB 32GB SANDISK CZ50",
+            "price": "6.50",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        },          
+        {
+            "name": "YADDAS USB 32GB SAMSUNG",
+            "price": "8",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },         
         {
             "name": "YADDAS USB 64GB EUROACS",
             "price": "10",
             "imageSrc": "/img/yaddas-usb-64gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
         {
+            "name": "YADDAS USB 64GB SANDISK CZ50",
+            "price": "8.50",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        },  
+        {
+            "name": "YADDAS USB 64GB SAMSUNG",
+            "price": "9.50",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },                 
+        {
             "name": "YADDAS USB 128GB EUROACS",
             "price": "19",
             "imageSrc": "/img/yaddas-usb-128gb.png",
-            "category": "Flash drive",
+            "category": "Flash Euroacs",
+            "group": "Fleşkalar",
             "brand": "Euroacs",
             "pinned": true,
             "hasNew": false
         },
+        {
+            "name": "YADDAS USB 128GB SANDISK CZ50",
+            "price": "18",
+            "imageSrc": "/img/flash-cz50.jpg",
+            "category": "Flash Sandisk",
+            "group": "Fleşkalar",
+            "brand": "Sandisk",
+            "pinned": true,
+            "hasNew": false
+        }, 
+        {
+            "name": "YADDAS USB 122GB SAMSUNG",
+            "price": "19",
+            "imageSrc": "/img/fleska-samsung.jpg",
+            "category": "Flash Samsung",
+            "group": "Fleşkalar",
+            "brand": "Samsung",
+            "pinned": true,
+            "hasNew": false
+        },                  
         {
             "name": "YADDAS MIKRO 4GB EUROACS",
             "price": "4.20",
