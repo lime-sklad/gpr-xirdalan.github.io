@@ -1,0 +1,177 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    display: block;
+}
+
+span, p, label {
+    line-height: 1.460;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+input, select, textarea, button {
+    font-family: inherit;
+}
+
+input[type="button"] {
+    cursor: pointer;
+}
+
+body {
+    font-family: 'Montserrat', "Arial", sans-serif;
+    /* background: #f4f4f454; */
+}
+
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    box-shadow: 0px -5px 20px #626262a1;
+    background: #fff;
+}
+
+.hide {
+    display: none!important;
+}
+
+.logo {
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.content {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 25px;
+    padding-bottom: 50px;
+}
+
+.title {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.article-text {
+    font-size: 1.05rem;
+    font-weight: 400;
+    margin: 25px 0;
+}
+
+thead tr, tbody tr {
+    text-align: left;
+}
+
+th {
+    font-size: .9rem;
+}
+
+table, th, td {
+  border: 1px solid #adadad;
+  border-collapse: collapse;
+  padding: 3px;
+}
+
+
+table {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+ul {
+    list-style: inside;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 10px;
+    line-height: 30px;
+    font-size: .99rem;
+    color: #333;    
+}
+
+blockquote {
+    padding: 9px;
+    font-style: italic;
+    color: #333;
+    font-weight: 400;
+    background: #f4f4f4;
+    border-radius: 6px;
+}
+
+article {
+    margin-bottom: 45px;
+    border-bottom: 1px dashed #323232;
+}
+
+.menu-list {
+    background: #000000ed;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    backdrop-filter: blur(3px);
+    display: none;
+}
+
+.menu-content {
+    padding: 44px 20px;
+    overflow: auto;
+    height: 100%;
+}
+
+.menu-controll {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    color: #fff;
+    background: red;
+    border-radius: 5px;
+    padding: 6px 11px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.menu-item {
+    color: #fff;
+    font-size: 1.1rem;
+    margin-bottom: 32px;
+}
+
+.menu {
+    position: fixed;
+    right: 4px;
+    top: 6px;
+    background: #005eff;
+    color: #fff;
+    padding: 4px 6px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
