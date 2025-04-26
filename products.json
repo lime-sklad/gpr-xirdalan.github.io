@@ -1,6 +1,405 @@
 {
     "products": [
         {
+            "name": "COOLER DL-A3 DISPLAY",
+            "price": "17",
+            "imageSrc": "/img/DL-A3.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART T800 ULTRA 2 CKD",
+            "price": "8.60",
+            "imageSrc": "/img/T800.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART T10 ULTRA 2 CKD",
+            "price": "9.60",
+            "imageSrc": "/img/T10ULTRA.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART Y36 ULTRA BLACK STRAP 6IN2 BIG H BLACK",
+            "price": "24",
+            "imageSrc": "/img/SAAT-Y36.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART T SERIES 10 STRAP 2IN1",
+            "price": "12",
+            "imageSrc": "/img/SAAT-SERIES-T10.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART I20 ULTRA MAX 3 SUIT BLACK 10 SET H",
+            "price": "22",
+            "imageSrc": "/img/SAAT I20.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART HK10 ULTRA AMOLED BLACK",
+            "price": "35",
+            "imageSrc": "/img/HK10ULTRA.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART HK10 PRO AMOLED BLACK ",
+            "price": "35",
+            "imageSrc": "/img/HK10PRO.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART WISME X19 ULTRA3 5+2 BLACK",
+            "price": "28",
+            "imageSrc": "/img/wisme-x19.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART WISME X18 MINI 3+2 BLACK",
+            "price": "32",
+            "imageSrc": "/img/wisme-x18.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART WISME 16 MINI 7+1 PINK",
+            "price": "28",
+            "imageSrc": "/img/wisme-16.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRED MIKUSO MOS-372U",
+            "price": "3.40",
+            "imageSrc": "/img/mos-372.jpg",
+            "category": "Mouse",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MIC K9 WIRELESS 2IN1",
+            "price": "18",
+            "imageSrc": "/img/mic-k8.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PEN UNIVERSAL TOUCH ANDROID IOS 2IN1",
+            "price": "3",
+            "imageSrc": "/img/pen-universal.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE OYUN WIRED MIKUSO MOS-379",
+            "price": "3.20",
+            "imageSrc": "/img/mos-379.jpg",
+            "category": "Mouse",
+            "brand": "Mikuso",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "LED 36SM RGB+HOLDER",
+            "price": "19",
+            "imageSrc": "/img/led36.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "LED 30SM RGB+HOLDER",
+            "price": "14",
+            "imageSrc": "/img/led30sm.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KTS-1931 60W 15\" 2MIC+REM",
+            "price": "145",
+            "imageSrc": "/img/KTS-1931.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KBROAD KTS-2086 20W 8\" X2 2MIC",
+            "price": "65",
+            "imageSrc": "/img/KTS-2086.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KBROAD KTS-2057 10W 4\"",
+            "price": "20",
+            "imageSrc": "/img/KTS-2057.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KBROAD KTS-1837 5W 4\" SP+L",
+            "price": "25",
+            "imageSrc": "/img/KTS-1837.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KBROAD BTS-1910 60W 8\" X2 2MIC+REM",
+            "price": "155",
+            "imageSrc": "/img/BTS-1910.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-2152 10W 4\" X2",
+            "price": "14",
+            "imageSrc": "/img/GTS-2152.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GTS-2065 10W 6.5 MIC",
+            "price": "",
+            "imageSrc": "/img/GTS-2065.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1922 8\" X2 WIRED MIC",
+            "price": "48",
+            "imageSrc": "/img/GTS-2059.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1969 5W 10SM SP MIX C",
+            "price": "9",
+            "imageSrc": "/img/GTS-1969.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1941 5W 8SM MIC",
+            "price": "9.80",
+            "imageSrc": "/img/GTS-1941.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1937 35W 38SM 2MIC+R",
+            "price": "100",
+            "imageSrc": "/img/GTS-1937.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1923 5W 8SM MIC",
+            "price": "25",
+            "imageSrc": "/img/GTS-1923.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1883 15W 38SM MIC+REM",
+            "price": "85",
+            "imageSrc": "/img/GTS-1883.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1768 10W 15SM SP+L",
+            "price": "45",
+            "imageSrc": "/img/GTS-1768.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1468 MINI MIX C",
+            "price": "6.80",
+            "imageSrc": "/img/GTS-1468.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI BRODU BTS-2101 30W 20SM MIC+REM",
+            "price": "95",
+            "imageSrc": "/img/BTS-2101.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI BULI ZQS88801 40W  21SM X3 MIC+REM",
+            "price": "105",
+            "imageSrc": "/img/ZQS88801.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI RADIO KBROAD KTF-1490 5W 8SM",
+            "price": "17",
+            "imageSrc": "/img/KTF-1490.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KTX-1998 MIX COLOR",
+            "price": "9.80",
+            "imageSrc": "/img/KTX-1998.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-2159 5W 10SM",
+            "price": "7.80",
+            "imageSrc": "/img/GTS-2159.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-2150 5W",
+            "price": "6.80",
+            "imageSrc": "/img/gts-2050.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-2095 10W 20SM",
+            "price": "29",
+            "imageSrc": "/img/gts-2095.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-1922 5W 10SM",
+            "price": "9.80",
+            "imageSrc": "/img/gts-1922.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "CHARGER PD 25W APPLE MH001 L",
             "price": "6.30",
             "imageSrc": "/img/mh001.jpg",
@@ -12,7 +411,7 @@
         },
         {
             "name": "CHARGER 20W APPLE MH002 L",
-            "price": "7.50",
+            "price": "5.50",
             "imageSrc": "/img/mh002.jpg",
             "category": "Adapterlər",
             "brand": "",
@@ -199,7 +598,7 @@
             "discount": "",
             "pinned": false,
             "hasNew": false
-        },        
+        },
         {
             "name": "CABLE PD 20W APPLE ORIGINAL",
             "price": "15.50",
@@ -9026,15 +9425,6 @@
             "name": "MOUSE WIRELESS MIKUSO MOS-W018",
             "price": "5.50",
             "imageSrc": "/img/mos-w018.jpg",
-            "category": "Mouse",
-            "brand": "Mikuso",
-            "pinned": true,
-            "hasNew": false
-        },
-        {
-            "name": "MOUSE OYUN WIRED MIKUSO MOS-379",
-            "price": "5.50",
-            "imageSrc": "/img/mos-379.jpg",
             "category": "Mouse",
             "brand": "Mikuso",
             "pinned": true,
