@@ -28,7 +28,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=121", function(data) {
+    $.getJSON("products.json?v=120", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -545,6 +545,11 @@ function sumCardTotal() {
 
 function selectedRandomCategory() {
   selectedCategory = category[Math.floor(Math.random() * category.length)];
+
+  if(typeof selectedCategory === 'object') {
+    selectedCategory = false;
+  }
+
 }
 
 

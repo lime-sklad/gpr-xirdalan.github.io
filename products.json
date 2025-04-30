@@ -1,6 +1,226 @@
 {
     "products": [
         {
+            "name": "TWS AIRPODS 4 A3054",
+            "price": "14",
+            "imageSrc": "/img/airpods-4-a3054.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH MAGSAFE H900",
+            "price": "7",
+            "imageSrc": "/img/holder-h900.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB KAKU KSC982 C",
+            "price": "0.70",
+            "imageSrc": "/img/ksc-982-c.jpg",
+            "category": "Cable",
+            "brand": "Kaku",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB KAKU KSC982 M",
+            "price": "0.60",
+            "imageSrc": "/img/ksc-982-m.jpg",
+            "category": "Cable",
+            "brand": "Kaku",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD KAKU KSC982 C WH ",
+            "price": "1",
+            "imageSrc": "/img/ksc982-pd-c.jpg",
+            "category": "Cable",
+            "brand": "Kaku",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD KAKU KSC982 L WH ",
+            "price": "1.30",
+            "imageSrc": "/img/ksc982-pd-l.jpg",
+            "category": "Cable",
+            "brand": "Kaku",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS SAMSUNG BUDS 3 PRO WHITE",
+            "price": "19",
+            "imageSrc": "/img/buds-3pro-w.jpg",
+            "category": "Airpods",
+            "brand": "Samsung",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS SAMSUNG BUDS 3 PRO BLACK",
+            "price": "19",
+            "imageSrc": "/img/buds-3pro-b.jpg",
+            "category": "Airpods",
+            "brand": "Samsung",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS SAMSUNG BUDS 3 BLACK",
+            "price": "18",
+            "imageSrc": "/img/samsung-buds-3b.jpg",
+            "category": "Airpods",
+            "brand": "Samsung",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS SAMSUNG BUDS 3 WHITE",
+            "price": "18",
+            "imageSrc": "/img/samsung-buds-3w.jpg",
+            "category": "Airpods",
+            "brand": "Samsung",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 45W SAMSUNG S24U TA8680",
+            "price": "19.50",
+            "imageSrc": "/img/ta8680n.jpg",
+            "category": "Adapterlər",
+            "brand": "Samsung",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER BT KOMPUTER 5.0",
+            "price": "3",
+            "imageSrc": "/img/receiver-bt-komp.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECEIVER WIFI ALFA WW07",
+            "price": "5",
+            "imageSrc": "/img/reciver-ww07.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MP3 PLAYER SADE",
+            "price": "3.50",
+            "imageSrc": "/img/mp3-sade.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MP3 PLAYER EKRANLI",
+            "price": "5",
+            "imageSrc": "/img/mp3-ekranli.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRELESS LOGITECH M330",
+            "price": "5.50",
+            "imageSrc": "/img/mouse-m330.jpg",
+            "category": "Mouse",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "[Şaftalı buz] EUROACS EU-V30 30 000 tüstü",
+            "price": "25",
+            "imageSrc": "/img/saftali-buz.png",
+            "category": "Vape (elektron siqaret)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "[Şaftalı manqo qarpız] EUROACS EU-V30 30 000 tüstü",
+            "price": "25",
+            "imageSrc": "/img/saftali-buz.png",
+            "category": "Vape (elektron siqaret)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "[Mavi moruq] EUROACS EU-V30 30 000 tüstü",
+            "price": "25",
+            "imageSrc": "/img/mavi-moruq.png",
+            "category": "Vape (elektron siqaret)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "[Çiyələk banan] EUROACS EU-V30 30 000 tüstü",
+            "price": "25",
+            "imageSrc": "/img/ciyelek-banan.png",
+            "category": "Vape (elektron siqaret)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "[Buzlu qarpız] EUROACS EU-V30 30 000 tüstü",
+            "price": "25",
+            "imageSrc": "/img/buzlu-qarpiz.png",
+            "category": "Vape (elektron siqaret)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "[Albalı] EUROACS EU-V30 30 000 tüstü",
+            "price": "25",
+            "imageSrc": "/img/albali.png",
+            "category": "Vape (elektron siqaret)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },        
+        {
             "name": "COOLER DL-A3 DISPLAY",
             "price": "17",
             "imageSrc": "/img/DL-A3.jpg",
@@ -7902,7 +8122,7 @@
         },
         {
             "name": "YADDAS MIKRO 4GB EUROACS",
-            "price": "4.20",
+            "price": "4",
             "imageSrc": "/img/yaddas-mikro-4gb.jpg",
             "category": "SD Card",
             "brand": "Euroacs",
@@ -7911,7 +8131,7 @@
         },
         {
             "name": "YADDAS MIKRO 8GB EUROACS",
-            "price": "5.20",
+            "price": "5",
             "imageSrc": "/img/yaddas-mikro-8gb.jpg",
             "category": "SD Card",
             "brand": "Euroacs",
@@ -7920,7 +8140,7 @@
         },
         {
             "name": "YADDAS MIKRO 16GB EUROACS",
-            "price": "6.50",
+            "price": "6",
             "imageSrc": "/img/yaddas-mikro-16gb.jpg",
             "category": "SD Card",
             "brand": "Euroacs",
@@ -7929,7 +8149,7 @@
         },
         {
             "name": "YADDAS MIKRO 32GB EUROACS",
-            "price": "7.50",
+            "price": "7",
             "imageSrc": "/img/yaddas-mikro-32gb.jpg",
             "category": "SD Card",
             "brand": "Euroacs",
@@ -7938,7 +8158,7 @@
         },
         {
             "name": "YADDAS MIKRO 64GB EUROACS",
-            "price": "10.50",
+            "price": "10",
             "imageSrc": "/img/yaddas-mikro-64gb.jpg",
             "category": "SD Card",
             "brand": "Euroacs",
@@ -7947,7 +8167,7 @@
         },
         {
             "name": "YADDAS MIKRO 128GB EUROACS",
-            "price": "19.50",
+            "price": "18",
             "imageSrc": "/img/yaddas-mikro-128gb.jpg",
             "category": "SD Card",
             "brand": "Euroacs",
