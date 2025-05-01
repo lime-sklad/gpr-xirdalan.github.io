@@ -1,6 +1,580 @@
 {
     "products": [
         {
+            "name": "FM FONI FN-M35 ",
+            "price": "7",
+            "imageSrc": "/img/FN-M35.jpg",
+            "category": "FM modulyator",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM FONI FN-M30 REMOTE ",
+            "price": "7",
+            "imageSrc": "/img/FN-M30.jpg",
+            "category": "FM modulyator",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAC QIRXAN FONI FN-TR5 GOLD",
+            "price": "6.50",
+            "imageSrc": "/img/FN-TR5.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S8250 80W 8'' X2 MIC+REM",
+            "price": "110",
+            "imageSrc": "/img/FN-S8250.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S811 20W 8'' MIC+REM",
+            "price": "33",
+            "imageSrc": "/img/FN-S811.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S6216 20W 6'' X2 MIC",
+            "price": "32",
+            "imageSrc": "/img/FN-S6216.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S33 BLACK",
+            "price": "9.80",
+            "imageSrc": "/img/fn-s33.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S1514 50W 15'' MIC+REM",
+            "price": "95",
+            "imageSrc": "/img/FN-S1514.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S1011 30W 10'' MIC+REM",
+            "price": "52",
+            "imageSrc": "/img/FN-S1011.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI BOOM MINI S45",
+            "price": "7.50",
+            "imageSrc": "/img/mini-s45.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 30000 FONI FN-PB35",
+            "price": "29",
+            "imageSrc": "/img/FN-PB35.jpg",
+            "category": "Powerbank",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 FONI FN-PB15 BLACK",
+            "price": "14",
+            "imageSrc": "/img/FN-PB15.jpg",
+            "category": "Powerbank",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 20000 FONI FN-PB25 BLACK",
+            "price": "22",
+            "imageSrc": "/img/FN-PB25.jpg",
+            "category": "Powerbank",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 20000 FONI FN-PB22 BLUE",
+            "price": "16",
+            "imageSrc": "/img/FN-PB22.jpg",
+            "category": "Powerbank",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 FONI FN-PW20 BLACK",
+            "price": "18",
+            "imageSrc": "/img/FN-PW20.jpg",
+            "category": "Powerbank",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 FONI FN-PB12 BLUE",
+            "price": "9",
+            "imageSrc": "/img/FN-PB12.jpg",
+            "category": "Powerbank",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP FONI FN-HW10 WIRELESS 3IN1",
+            "price": "15",
+            "imageSrc": "/img/FN-HW10.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER FONI FROST FN-Z05 BLACK",
+            "price": "5",
+            "imageSrc": "/img/FN-Z05.jpg",
+            "category": "Cooler",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER FONI FROST FN-Z07 METAL",
+            "price": "10",
+            "imageSrc": "/img/FN-Z07.jpg",
+            "category": "Cooler",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR CHARGER USB FONI FN-KC09 2USB TYPE-C",
+            "price": "5",
+            "imageSrc": "/img/FN-KC09.jpg",
+            "category": "Car charger",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR CHARGER USB FONI FN-KC09 2USB MIKRO",
+            "price": "4.50",
+            "imageSrc": "/img/FN-KC09.jpg",
+            "category": "Car charger",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 45W FONI FN-B418 SF YELLOW",
+            "price": "9",
+            "imageSrc": "/img/fn-b418.jpg",
+            "category": "Basliq",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS SD 16GB EUROACS EU-D27",
+            "price": "9.50",
+            "imageSrc": "/img/sd-eu-d27.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS SD 32GB EUROACS EU-D27",
+            "price": "11",
+            "imageSrc": "/img/sd-eu-d27.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS SD 64GB EUROACS EU-D27",
+            "price": "14.50",
+            "imageSrc": "/img/sd-eu-d27.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS SD 128GB EUROACS EU-D27",
+            "price": "26.50",
+            "imageSrc": "/img/sd-eu-d27.jpg",
+            "category": "SD Card",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 20000 EUROACS EU-PB202 22.5W",
+            "price": "32",
+            "imageSrc": "/img/eu-pb202.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT EUROACS EU-F226 PD 20W+QC",
+            "price": "13.50",
+            "imageSrc": "/img/eu-p226.jpg",
+            "category": "FM modulyator",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 16GB EUROACS EU-D135 USB 3.1",
+            "price": "11",
+            "imageSrc": "/img/EU-D135.jpg",
+            "group": "Fleşkalar",
+            "category": "Flash Euroacs 3.1",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 32GB EUROACS EU-D135 USB 3.1",
+            "price": "13",
+            "imageSrc": "/img/EU-D135.jpg",
+            "group": "Fleşkalar",
+            "category": "Flash Euroacs 3.1",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 64GB EUROACS EU-D135 USB 3.1",
+            "price": "16.50",
+            "imageSrc": "/img/EU-D135.jpg",
+            "group": "Fleşkalar",
+            "category": "Flash Euroacs 3.1",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 128GB EUROACS EU-D135 USB 3.1",
+            "price": "23.50",
+            "imageSrc": "/img/EU-D135.jpg",
+            "group": "Fleşkalar",
+            "category": "Flash Euroacs 3.1",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI EUROACS EU-S774",
+            "price": "13.50",
+            "imageSrc": "/img/EU-S774.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI 3'' EUROACS EU-S776 20W",
+            "price": "50",
+            "imageSrc": "/img/EU-S766.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "NECKBAND BT EUROACS EU-H302 ENC",
+            "price": "14.50",
+            "imageSrc": "/img/eu-h302.jpg",
+            "category": "Simli qulaqlıqlar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR WIRELESS EUROACS EU-CH802 VAC",
+            "price": "28",
+            "imageSrc": "/img/EU-CH802.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF TYPE-C EUROACS EU-H197",
+            "price": "4",
+            "imageSrc": "/img/H197.jpg",
+            "category": "Simli qulaqlıqlar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF TYPE-C EUROACS EU-H194",
+            "price": "4.50",
+            "imageSrc": "/img/H194.jpg",
+            "category": "Simli qulaqlıqlar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF 3.5MM EUROACS EU-H097",
+            "price": "2.80",
+            "imageSrc": "/img/eu-h097.jpg",
+            "category": "Simli qulaqlıqlar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF 3.5MM EUROACS EU-H094 BLK",
+            "price": "3",
+            "imageSrc": "/img/EU-H094.jpg",
+            "category": "Simli qulaqlıqlar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT EUROACS EU-F233 PD+USB",
+            "price": "9.50",
+            "imageSrc": "/img/EU-F233.jpg",
+            "category": "FM modulyator",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT EUROACS EU-F230 PD+USB",
+            "price": "11.50",
+            "imageSrc": "/img/eu-p230.jpg",
+            "category": "FM modulyator",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER ICE EUROACS EU-FC024",
+            "price": "18.50",
+            "imageSrc": "/img/eu-fc024.jpg",
+            "category": "Cooler",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "COOLER EUROACS EU-FC022",
+            "price": "13.50",
+            "imageSrc": "/img/EU-FC022.jpg",
+            "category": "Cooler",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC EUROACS EU-MQ330 MIKRO",
+            "price": "5.50",
+            "imageSrc": "/img/EU-MQ330.jpg",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB QC EUROACS EU-MQ330 TYPE-C",
+            "price": "5.50",
+            "imageSrc": "/img/EU-MQ330.jpg",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 45W EUROACS EU-MQ352 USB TRACK C",
+            "price": "19,50",
+            "imageSrc": "/img/eu-mq352.jpg",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR BASLIQ PD 60W EUROACS EU-MC249 SPRING",
+            "price": "13.50",
+            "imageSrc": "/img/EU-MC249.jpg",
+            "category": "Car charger",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE WATCH PD EUROACS EU-WZ104 WH",
+            "price": "6.50",
+            "imageSrc": "/img/EU-WZ104.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z207 INDICATOR L",
+            "price": "3.50",
+            "imageSrc": "/img/EU-Z097.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z207 INDICATOR C",
+            "price": "3.50",
+            "imageSrc": "/img/EU-Z097.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB QC EUROACS EU-MQ332 BLK",
+            "price": "4",
+            "imageSrc": "/img/MQ-332.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB QC EUROACS EU-MQ330 BLK",
+            "price": "4.50",
+            "imageSrc": "/img/MQ-330.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 3.4A EUROACS EU-MQ329 2USB WH",
+            "price": "4",
+            "imageSrc": "/img/MQ-329.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W EUROACS EU-MQ340 USB GRAY",
+            "price": "8.50",
+            "imageSrc": "/img/mq340.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W EUROACS EU-MQ338 USB WH",
+            "price": "7.50",
+            "imageSrc": "/img/MQ338.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W EUROACS EU-MQ335 MINI WH",
+            "price": "8",
+            "imageSrc": "/img/mq335-mini.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "TWS AIRPODS 4 A3054",
             "price": "14",
             "imageSrc": "/img/airpods-4-a3054.jpg",
@@ -219,7 +793,7 @@
             "discount": "",
             "pinned": false,
             "hasNew": false
-        },        
+        },
         {
             "name": "COOLER DL-A3 DISPLAY",
             "price": "17",
@@ -761,7 +1335,7 @@
         },
         {
             "name": "BASLIQ PD 45W SAMSUNG ORIGINAL",
-            "price": "20",
+            "price": "17",
             "imageSrc": "/img/samsung-original.jpg",
             "category": "Basliq",
             "brand": "",
@@ -841,7 +1415,7 @@
         },
         {
             "name": "TWS AIRPODS-2 A1938 ",
-            "price": "12",
+            "price": "11.50",
             "imageSrc": "/img/a1938.jpeg",
             "category": "Airpods",
             "brand": "Euroacs",
@@ -850,7 +1424,7 @@
         },
         {
             "name": "TWS AIRPODS-3 A2566",
-            "price": "13",
+            "price": "12.50",
             "imageSrc": "/img/a2566.jpg",
             "category": "Airpods",
             "brand": "",
@@ -860,7 +1434,7 @@
         },
         {
             "name": "TWS AIRPODS PRO2 A2699",
-            "price": "14.50",
+            "price": "14",
             "imageSrc": "/img/a2699.jpg",
             "category": "Airpods",
             "brand": "",
@@ -870,7 +1444,7 @@
         },
         {
             "name": "TWS PRO A10 ",
-            "price": "8",
+            "price": "7",
             "imageSrc": "/img/tws-a10.jpg",
             "category": "Airpods",
             "brand": "",
@@ -880,7 +1454,7 @@
         },
         {
             "name": "TWS PRO A20 ",
-            "price": "8.50",
+            "price": "7",
             "imageSrc": "/img/pro-a20.jpg",
             "category": "Airpods",
             "brand": "Ümumi",
@@ -889,7 +1463,7 @@
         },
         {
             "name": "TWS PRO A30",
-            "price": "8",
+            "price": "7",
             "imageSrc": "/img/tws-a30.jpg",
             "category": "Airpods",
             "brand": "",
@@ -7111,7 +7685,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
-            "price": "3.70",
+            "price": "3.50",
             "imageSrc": "/img/ta0771-white.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7120,7 +7694,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG TA0771 WHITE",
-            "price": "3.70",
+            "price": "3.50",
             "imageSrc": "/img/ta0771-black.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7147,7 +7721,7 @@
         },
         {
             "name": "BASLIQ PD 45W SAMSUNG TA7789",
-            "price": "14.50",
+            "price": "13.50",
             "imageSrc": "/img/ta7789.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -8689,7 +9263,7 @@
         },
         {
             "name": "BASLIQ USB 25W SAMSUNG A16",
-            "price": "4.80",
+            "price": "4.50",
             "imageSrc": "/img/basliq-sam-a16.jpeg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -8833,7 +9407,7 @@
         },
         {
             "name": "CHARGER PD 25W SAMSUNG A26 C",
-            "price": "6.50",
+            "price": "6",
             "imageSrc": "/img/charger-a26.jpeg",
             "category": "Adapterlər",
             "brand": "Samsung",
@@ -9382,7 +9956,7 @@
         },
         {
             "name": "POWERBANK 10000 KAKU KSC-1084",
-            "price": "9.50",
+            "price": "9",
             "imageSrc": "/img/ksc-1084.jpg",
             "category": "Powerbank",
             "brand": "Kaku",
