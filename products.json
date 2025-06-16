@@ -1,6 +1,856 @@
 {
     "products": [
         {
+            "name": "MIC WIRELESS YANMAI SF-777W WITH USB/TYPE-C",
+            "price": "45",
+            "imageSrc": "/img/SF-777W.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MIC WIRELESS 3IN1 F11-2",
+            "price": "28",
+            "imageSrc": "/img/MIC-3IN1.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRELESS EUROACS EU-M42 SILENT",
+            "price": "7.50",
+            "imageSrc": "/img/EU-M42.jpg",
+            "category": "Mouse",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE WIRELESS EUROACS EU-M40 SILENT",
+            "price": "6.80",
+            "imageSrc": "/img/EU-M40.jpg",
+            "category": "Mouse",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE RECHARGE EUROACS EU-M45 SILENT",
+            "price": "10",
+            "imageSrc": "/img/EU-M45.jpg",
+            "category": "Mouse",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE GAME EUROACS EU-GM8",
+            "price": "12",
+            "imageSrc": "/img/EU-GM8.jpg",
+            "category": "Mouse",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z023 L",
+            "price": "3",
+            "imageSrc": "/img/EU-Z023-L.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z023 C",
+            "price": "3",
+            "imageSrc": "/img/EU-Z023-C.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB EUROACS EU-Z023 M",
+            "price": "2.60",
+            "imageSrc": "/img/EU-Z023.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z023 L",
+            "price": "4",
+            "imageSrc": "/img/Z023-L.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD EUROACS EU-Z023 C",
+            "price": "3.50",
+            "imageSrc": "/img/Z023-C.jpg",
+            "category": "Cable",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 25W EUROACS EU-MQ342 WH",
+            "price": "7.50",
+            "imageSrc": "/img/eu-mq342.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK MW 10000 EUROACS EUROACS EU-PW146 15W",
+            "price": "28",
+            "imageSrc": "/img/EU-PW146.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART EUROACS S-VIBE 3 AMOLED",
+            "price": "48",
+            "imageSrc": "/img/S-VIBE-3.jpg",
+            "category": "Smart Saat",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART EUROACS S-VIBE 2 AMOLED",
+            "price": "52",
+            "imageSrc": "/img/S-VIBE.jpg",
+            "category": "Smart Saat",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI FONI FN-S6524 60W 6.5'' X2 MIC+REM",
+            "price": "75",
+            "imageSrc": "/img/FN-S6524.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS PRO 5",
+            "price": "5",
+            "imageSrc": "/img/PRO-5.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS I15 PODS WHITE",
+            "price": "5",
+            "imageSrc": "/img/I15.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS-4 A CLASS",
+            "price": "20",
+            "imageSrc": "/img/AIRPODS-4-A-CLASS.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS-3 A CLASS",
+            "price": "15.50",
+            "imageSrc": "/img/AIRPODS-3 A CLASS.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS-2 A CLASS",
+            "price": "15",
+            "imageSrc": "/img/AIRPODS-2-A-CLASS.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS PRO2 A CLASS",
+            "price": "17",
+            "imageSrc": "/img/PRO2-A-CLASS.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS AIRPODS PRO A1105",
+            "price": "12",
+            "imageSrc": "/img/A1105.jpg",
+            "category": "Airpods",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 35W APPLE MJ115 C",
+            "price": "5.50",
+            "imageSrc": "/img/MJ115.jpg",
+            "category": "Adapterlər",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 35W APPLE 15 PRO MAX C",
+            "price": "10",
+            "imageSrc": "/img/35W-APPLE-15-PRO-MAX.jpg",
+            "category": "Adapterlər",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 20W APPLE 14 PRO MAX PREMIUM",
+            "price": "11.50",
+            "imageSrc": "/img/CHARGER PD 20W APPLE 14 PRO MAX.jpg",
+            "category": "Adapterlər",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 15W SAMSUNG TA8602 C",
+            "price": "4",
+            "imageSrc": "/img/TA8602C.jpg",
+            "category": "Adapterlər",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD APPLE MM28 C",
+            "price": "4.50",
+            "imageSrc": "/img/MM28.jpg",
+            "category": "Cable",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD APPLE MM83 C",
+            "price": "7",
+            "imageSrc": "/img/MM83.jpg",
+            "category": "Cable",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W APPLE MH39",
+            "price": "10",
+            "imageSrc": "/img/MH-39.jpg",
+            "category": "Basliq",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS EA-X24",
+            "price": "13.50",
+            "imageSrc": "/img/EA-X24.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS EA-X22",
+            "price": "11.50",
+            "imageSrc": "/img/EA-X22.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KOMPUTER EUROACS EU-CS580",
+            "price": "22",
+            "imageSrc": "/img/EU-CS580.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "REZIN QAPI QORUYUCU AVTO",
+            "price": "1.70",
+            "imageSrc": "/img/REZIN-QAPI-QORUYU U-AVTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "PARFUME CAR ASILQAN AVTO ",
+            "price": "5.50",
+            "imageSrc": "/img/PARFUME-CAR-ASILQAN-AVTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "KUL QABI M FOR AVTO ",
+            "price": "4.50",
+            "imageSrc": "/img/KUL-QABI-M-FOR-AVTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "KUL QABI FOR AVTO",
+            "price": "1.70",
+            "imageSrc": "/img/KUL-QABI-FOR-AVTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "KABURA UNIVERSAL FOR AVTO KEY",
+            "price": "4.50",
+            "imageSrc": "/img/KABURA-UNIVERSAL-FOR-AVTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "GUN QORUYUCU AVTO",
+            "price": "4.50",
+            "imageSrc": "/img/GUN-QOYURUCU.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "DIRSEKLIK AVTO WITH SALFET",
+            "price": "10.50",
+            "imageSrc": "/img/DIRSEKLIK-AVTO-WITH-SALFET.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "DERMAN BOX FOR AVTO",
+            "price": "10",
+            "imageSrc": "/img/DERMAN-BOX-FOR-AVTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR PARFUME FLOWER",
+            "price": "10.50",
+            "imageSrc": "/img/CAR-PARFUME-FLOWWER.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR PARFUME BAYRAQ",
+            "price": "10.50",
+            "imageSrc": "/img/CAR-PARFUME-BAYRAQ.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BRELOK KEY FOR AVTO ",
+            "price": "2",
+            "imageSrc": "/img/BRELOK-FOR-KEY.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BELT SAFETY AVTO",
+            "price": "1.20",
+            "imageSrc": "/img/BELT-SAFETY.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "ASILQAN DINI GOLD AVTO",
+            "price": "4",
+            "imageSrc": "/img/BEZEK-AUTO-DINI.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "ASILQAN BEZEKLI FOR AVTO",
+            "price": "7",
+            "imageSrc": "/img/BEZEK-AUTO.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART HG500 STRAP 7IN1",
+            "price": "15.50",
+            "imageSrc": "/img/HG500.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART HD40 ULTRA LUXURY GOLD STRAP 2IN1",
+            "price": "14",
+            "imageSrc": "/img/HD40.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART WS-80 ULTRA 2 BLACK 7+2",
+            "price": "26",
+            "imageSrc": "/img/WS-80.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KW-25 MAX 3+1",
+            "price": "13",
+            "imageSrc": "/img/KW-25.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KW-23 ULTRA 3 3+1",
+            "price": "13",
+            "imageSrc": "/img/KW-23.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH FONI FN-HC8 B MAGNET ",
+            "price": "6.50",
+            "imageSrc": "/img/FN-HC8.jpg",
+            "category": "Car Holder",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 3A FONI FN-CH06 2USB ",
+            "price": "2",
+            "imageSrc": "/img/FN-CH06.jpg",
+            "category": "Basliq",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP FONI FN-HX11 PHONE",
+            "price": "2.50",
+            "imageSrc": "/img/FN-HX11.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM FONI FN-HC5 C MAGNET ",
+            "price": "8.50",
+            "imageSrc": "/img/FN-HC5C.jpg",
+            "category": "Car Holder",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR FONI FN-HC5 A MAGNET",
+            "price": "6.50",
+            "imageSrc": "/img/FN-HC5.jpg",
+            "category": "Car Holder",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 20W FONI FN-B420",
+            "price": "4",
+            "imageSrc": "/img/fn-b420.jpg",
+            "category": "Basliq",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W FONI FN-B422 BLACK",
+            "price": "3.50",
+            "imageSrc": "/img/FN-B422.jpg",
+            "category": "Basliq",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM LBT L-905B",
+            "price": "5.50",
+            "imageSrc": "/img/L-905B.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM LBT L-210612",
+            "price": "6.50",
+            "imageSrc": "/img/L-210612.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM LBT L-2106E2",
+            "price": "5.50",
+            "imageSrc": "/img/L-2106E2.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR LBT L-905A",
+            "price": "4",
+            "imageSrc": "/img/L-905A.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR LBT L-2106C6",
+            "price": "4.50",
+            "imageSrc": "/img/L-2106C6.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER BIKE LBT L-651B",
+            "price": "5",
+            "imageSrc": "/img/L651.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL HD CLEAR FOR TAB ",
+            "price": "4",
+            "imageSrc": "/img/V-7031.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "STIKER BZ-3025 AZERBAYCAN (METAL)",
+            "price": "1",
+            "imageSrc": "/img/BZ-3025.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "STIKER BZ-3026 DIN (METAL)",
+            "price": "2",
+            "imageSrc": "/img/BZ-3026.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "STIKER BZ-3024 GERB (METAL)",
+            "price": "1.50",
+            "imageSrc": "/img/BZ-3024.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH EUROACS EU-CH795 METAL ",
+            "price": "9.50",
+            "imageSrc": "/img/EU-CH795.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 30000 EUROACS EU-PB330 22.5W",
+            "price": "38",
+            "imageSrc": "/img/eu-pb330.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK MW 10000 EUROACS EU-PW145 22.5W",
+            "price": "34",
+            "imageSrc": "/img/EU-PW145.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 EUROACS EU-PB201 22.5W",
+            "price": "23",
+            "imageSrc": "/img/eu-pb201.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG BT MARSHALL MAJOR 4 MINI XY30 ",
+            "price": "13",
+            "imageSrc": "/img/xy30.jpg",
+            "category": "HF BIG BT",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART V59 4IN1 WITH GAMING GIFT BOX",
+            "price": "29.50",
+            "imageSrc": "/img/SAAT-V59.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI EUROACS EU-S772 MINIVIBE",
+            "price": "6.80",
+            "imageSrc": "/img/EU-S772.jpg",
+            "category": "Sesguclendirici",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MIKROFON EUROACS EU-ML02",
+            "price": "38",
+            "imageSrc": "/img/EU-ML02.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM FONI FN-HC7 C SPORT",
+            "price": "5.50",
+            "imageSrc": "/img/FN-HC7.jpg",
+            "category": "Car Holder",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH Q5 MAGNET",
+            "price": "3",
+            "imageSrc": "/img/Q5.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH D11 MAGNET",
+            "price": "3.50",
+            "imageSrc": "/img/DASH-D11.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR Q8 MAGNET",
+            "price": "3",
+            "imageSrc": "/img/air-q8.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT M46",
+            "price": "5.80",
+            "imageSrc": "/img/BT-M46.jpg",
+            "category": "FM modulyator",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR CHARGER PD 60W EUROACS EU-MC435 C",
+            "price": "8.50",
+            "imageSrc": "/img/MC435.jpg",
+            "category": "Car charger",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DASH EUROACS EU-CH796 METAL",
+            "price": "12.50",
+            "imageSrc": "/img/EU-CH796.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C1",
+            "price": "4.50",
+            "imageSrc": "/img/car bt c1.jpg",
+            "category": "FM modulyator",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "FM FONI FN-M35 ",
             "price": "7",
             "imageSrc": "/img/FN-M35.jpg",
@@ -595,46 +1445,6 @@
             "hasNew": false
         },
         {
-            "name": "CABLE USB KAKU KSC982 C",
-            "price": "0.70",
-            "imageSrc": "/img/ksc-982-c.jpg",
-            "category": "Cable",
-            "brand": "Kaku",
-            "discount": "",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "CABLE USB KAKU KSC982 M",
-            "price": "0.60",
-            "imageSrc": "/img/ksc-982-m.jpg",
-            "category": "Cable",
-            "brand": "Kaku",
-            "discount": "",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "CABLE PD KAKU KSC982 C WH ",
-            "price": "1",
-            "imageSrc": "/img/ksc982-pd-c.jpg",
-            "category": "Cable",
-            "brand": "Kaku",
-            "discount": "",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "CABLE PD KAKU KSC982 L WH ",
-            "price": "1.30",
-            "imageSrc": "/img/ksc982-pd-l.jpg",
-            "category": "Cable",
-            "brand": "Kaku",
-            "discount": "",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
             "name": "TWS SAMSUNG BUDS 3 PRO WHITE",
             "price": "19",
             "imageSrc": "/img/buds-3pro-w.jpg",
@@ -1215,16 +2025,6 @@
         },
         {
             "name": "CHARGER PD 25W SAMSUNG TA9202 C",
-            "price": "7",
-            "imageSrc": "/img/fn-129.jpg",
-            "category": "Adapterlər",
-            "brand": "",
-            "discount": "",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "CHARGER PD 25W SAMSUNG TA9202 L",
             "price": "7.50",
             "imageSrc": "/img/fn-129.jpg",
             "category": "Adapterlər",
@@ -1255,7 +2055,7 @@
         },
         {
             "name": "CHARGER PD 25W SAMSUNG TA8605 ",
-            "price": "6",
+            "price": "5.50",
             "imageSrc": "/img/ta8605.jpg",
             "category": "Adapterlər",
             "brand": "",
@@ -1335,7 +2135,7 @@
         },
         {
             "name": "BASLIQ PD 45W SAMSUNG ORIGINAL",
-            "price": "17",
+            "price": "16",
             "imageSrc": "/img/samsung-original.jpg",
             "category": "Basliq",
             "brand": "",
@@ -1415,7 +2215,7 @@
         },
         {
             "name": "TWS AIRPODS-2 A1938 ",
-            "price": "11.50",
+            "price": "11",
             "imageSrc": "/img/a1938.jpeg",
             "category": "Airpods",
             "brand": "",
@@ -1424,7 +2224,7 @@
         },
         {
             "name": "TWS AIRPODS-3 A2566",
-            "price": "12.50",
+            "price": "11.50",
             "imageSrc": "/img/a2566.jpg",
             "category": "Airpods",
             "brand": "",
@@ -1434,7 +2234,7 @@
         },
         {
             "name": "TWS AIRPODS PRO2 A2699",
-            "price": "14",
+            "price": "13",
             "imageSrc": "/img/a2699.jpg",
             "category": "Airpods",
             "brand": "",
@@ -3338,7 +4138,7 @@
             "hasNew": "false"
         },
         {
-            "name": "GLASS TIGER HD REALME C21Y/C25Y",
+            "name": "GLASS TIGER HD REALME C21Y/    C25Y",
             "price": "0.9",
             "imageSrc": "/img/tiger-hd.png",
             "category": "Şüşə Tiger HD",
@@ -6309,7 +7109,7 @@
         },
         {
             "name": "GLASS TIGER PRIVACY IPH 16",
-            "price": "2",
+            "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
             "group": "Şüşə",
@@ -6319,7 +7119,7 @@
         },
         {
             "name": "GLASS TIGER PRIVACY IPH 16 PLUS",
-            "price": "2",
+            "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
             "group": "Şüşə",
@@ -6329,7 +7129,7 @@
         },
         {
             "name": "GLASS TIGER PRIVACY IPH 16 PRO",
-            "price": "2",
+            "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
             "group": "Şüşə",
@@ -6339,7 +7139,7 @@
         },
         {
             "name": "GLASS TIGER PRIVACY IPH 16 PRO MAX",
-            "price": "2",
+            "price": "1.4",
             "imageSrc": "/img/tiger-privacy.png",
             "category": "Şüşə Tiger Privacy",
             "group": "Şüşə",
@@ -7721,7 +8521,7 @@
         },
         {
             "name": "BASLIQ PD 45W SAMSUNG TA7789",
-            "price": "13.50",
+            "price": "10",
             "imageSrc": "/img/ta7789.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7757,7 +8557,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG ORIGINAL NFC  ",
-            "price": "20",
+            "price": "16",
             "imageSrc": "/img/25w-org-nfc.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7766,7 +8566,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG ORG ",
-            "price": "15",
+            "price": "12",
             "imageSrc": "/img/25w-org.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7775,7 +8575,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG NOTE10 A CLASS",
-            "price": "9",
+            "price": "8",
             "imageSrc": "/img/note-10a.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7784,7 +8584,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG TA0079 WHITE",
-            "price": "7.50",
+            "price": "6",
             "imageSrc": "/img/ta079-white.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -7793,7 +8593,7 @@
         },
         {
             "name": "BASLIQ PD 25W SAMSUNG TA0079 BLACK",
-            "price": "7.50",
+            "price": "6",
             "imageSrc": "/img/ta079-black.jpg",
             "category": "Basliq",
             "brand": "Samsung",
@@ -8776,6 +9576,15 @@
             "hasNew": false
         },
         {
+            "name": "CABLE USB JOKADE JA043 L",
+            "price": "0.70",
+            "imageSrc": "/img/ja043-l.png",
+            "category": "Cable",
+            "brand": "Jokade",
+            "pinned": true,
+            "hasNew": false
+        },        
+        {
             "name": "CABLE USB EUROACS EU-Z008 LED C",
             "price": "3.50",
             "imageSrc": "/img/z008-t.png",
@@ -9146,7 +9955,7 @@
         },
         {
             "name": "BASLIQ PD 20W APPLE MH15",
-            "price": "4",
+            "price": "3.50",
             "imageSrc": "/img/mh15.jpg",
             "category": "Basliq",
             "brand": "Copy",
@@ -9173,7 +9982,7 @@
         },
         {
             "name": "BASLIQ PD 20W APPLE MH32",
-            "price": "9.50",
+            "price": "9",
             "imageSrc": "/img/mh32.jpg",
             "category": "Basliq",
             "brand": "Copy",
@@ -9191,7 +10000,7 @@
         },
         {
             "name": "BASLIQ PD 35W APPLE MH35",
-            "price": "22.50",
+            "price": "20",
             "imageSrc": "/img/mh35.jpg",
             "category": "Basliq",
             "brand": "Copy",
