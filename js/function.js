@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
     const urlParams = new URLSearchParams(window.location.search);
     const urlCategory = urlParams.get('category');
     let urlProductName = urlParams.get('product_name');
@@ -28,7 +27,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=130", function(data) {
+    $.getJSON("products.json?v=131", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -44,7 +43,7 @@ $(document).ready(function() {
         return selectCategory(urlCategory);
       }
 
-        loadProducts();
+      loadProducts();
     });
 
 

@@ -1,6 +1,286 @@
 {
     "products": [
         {
+            "name": "HOLDER CAR WIRELESS EUROACS EU-CH801 AIR",
+            "price": "18",
+            "imageSrc": "/img/EU-CH801.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH788",
+            "price": "6",
+            "imageSrc": "/img/EU-CH788.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },        
+        {
+            "name": "HOLDER CAR AIR EUROACS EU-CH791",
+            "price": "6.50",
+            "imageSrc": "/img/EU-CH791.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM EUROACS EU-CH792",
+            "price": "7.50",
+            "imageSrc": "/img/EU-CH792.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR EUROACS EU-CH787",
+            "price": "5",
+            "imageSrc": "/img/EU-CH787.jpg",
+            "category": "Car Holder",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },        
+        {
+            "name": "HOLDER CAR AIR FONI FN-HC7A SPORT",
+            "price": "5.50",
+            "imageSrc": "/img/FN-HC7A.jpg",
+            "category": "Car Holder",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD SILICON FONI FN-CC130 TYPE-C",
+            "price": "2.50",
+            "imageSrc": "/img/FN-CC130.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE PD SILICON FONI FN-CL130 IPH",
+            "price": "3",
+            "imageSrc": "/img/FN-CL130.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB SILICON FONI FN-AL130",
+            "price": "2",
+            "imageSrc": "/img/FN-AL130.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB SILICON FONI FN-AC130 TYPE-C",
+            "price": "2",
+            "imageSrc": "/img/FN-AC130.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB SILICON FONI FN-AL120 IPH",
+            "price": "2",
+            "imageSrc": "/img/FN-AL120.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB SILICON FONI FN-AC120 TYPE-C",
+            "price": "2",
+            "imageSrc": "/img/FN-AC120.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE USB SILICON FONI FN-MA120 M",
+            "price": "1.80",
+            "imageSrc": "/img/FN-MA120.jpg",
+            "category": "Cable",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS EA-X23",
+            "price": "12",
+            "imageSrc": "/img/EA-X23.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "STAND 2.1",
+            "price": "9",
+            "imageSrc": "/img/STAND2.1.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "LED 45SM RGB+HOLDER",
+            "price": "48",
+            "imageSrc": "/img/LED-45SM.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM RT666",
+            "price": "5.50",
+            "imageSrc": "/img/rt666.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM RT663 MAGNET",
+            "price": "4.90",
+            "imageSrc": "/img/rt663.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },        
+        {
+            "name": "LED 56SM RGB+HOLDER",
+            "price": "65",
+            "imageSrc": "/img/LED 56SM.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 45W EUROACS EU-MQ345 2PD BLK",
+            "price": "14.50",
+            "imageSrc": "/img/EU-MQ345.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR BASLIQ PD 55W T038 USB QC",
+            "price": "6",
+            "imageSrc": "/img/t038.jpg",
+            "category": "Car charger",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 4GB EUROACS EU-D131 MINI",
+            "price": "5.50",
+            "imageSrc": "/img/EU-D131.jpg",
+            "category": "MINI Flash Euroacs",
+            "group": "Fleşkalar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 8GB EUROACS EU-D131 MINI",
+            "price": "6.50",
+            "imageSrc": "/img/EU-D131.jpg",
+            "category": "MINI Flash Euroacs",
+            "group": "Fleşkalar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 16GB EUROACS EU-D131 MINI",
+            "price": "8",
+            "imageSrc": "/img/EU-D131.jpg",
+            "category": "MINI Flash Euroacs",
+            "group": "Fleşkalar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 32GB EUROACS EU-D131 MINI",
+            "price": "9",
+            "imageSrc": "/img/EU-D131.jpg",
+            "category": "MINI Flash Euroacs",
+            "group": "Fleşkalar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 64GB EUROACS EU-D131 MINI",
+            "price": "10.50",
+            "imageSrc": "/img/EU-D131.jpg",
+            "category": "MINI Flash Euroacs",
+            "group": "Fleşkalar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "YADDAS USB 128GB EUROACS EU-D131 MINI",
+            "price": "18.50",
+            "imageSrc": "/img/EU-D131.jpg",
+            "category": "MINI Flash Euroacs",
+            "group": "Fleşkalar",
+            "brand": "Euroacs",
+            "pinned": true,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP FONI FN-HX10 NOTEBOOK",
+            "price": "25",
+            "imageSrc": "/img/FN-HX10.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "MIC WIRELESS YANMAI SF-777W WITH USB/TYPE-C",
             "price": "45",
             "imageSrc": "/img/SF-777W.jpg",
@@ -9583,7 +9863,7 @@
             "brand": "Jokade",
             "pinned": true,
             "hasNew": false
-        },        
+        },
         {
             "name": "CABLE USB EUROACS EU-Z008 LED C",
             "price": "3.50",
