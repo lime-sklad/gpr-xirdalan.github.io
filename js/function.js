@@ -121,11 +121,15 @@ $(document).ready(function() {
         let productPrice = $this.find('.products-price').text();
         let id = $this.find('.id').val();
 
+        let productsBrand = $this.find('.product-brand').text() ?? '';
+
         $('.cart-product-image > img').attr('src', imageSrc);
         
         $('.card-product-name').html(productName);
         
         $('.cart-product-price').text(productPrice);
+
+        $('.cart-brand').html(productsBrand);
 
         $('.cart-id').val(id);
         
@@ -143,6 +147,8 @@ $(document).ready(function() {
         let productName = $this.find('.card-product-name').text();
         let productPrice = $this.find('.cart-product-price').text();
         let count = $this.find('.count').val();
+        let brand = $this.find('.cart-brand').text();
+
 
         if(!count || count <=0) {
           count = 1;
@@ -159,7 +165,8 @@ $(document).ready(function() {
             "productName": productName,
             "productPrice": productPrice,
             "count": count,
-            "getId": getId
+            "getId": getId,
+            "brand": brand
           };
 
         $('.count').val('');
@@ -218,7 +225,7 @@ $(document).ready(function() {
                     <span class="cart-label">Say:</span>
                     <input type="number" class="input cart-list-item-count" value="${row.count}">
 
-                    <p class="sum">
+                     <p class="sum">
                          <span class="sum-title">Toplam:</span> 
                         <span class="cart-list-item-total">${sumItemTotal(row.count, row.productPrice)}₼</span> 
                       </p>
@@ -375,14 +382,28 @@ $(document).ready(function() {
 
 
   function prepareProductCardTpl(product) {
+    const targetBrands = ['Foni', 'Euroacs', 'Joyroom'];
+
+    let cashbackChips = ''
+    
+    if(targetBrands.includes(product.brand)) {
+      cashbackChips = `<span class="product-brand cashback-chips">2% CASHBACK</span>`;
+    }
+
+
     // let urlParse = encodeURIComponent(product.name);
     return `
         <div class="products-card animate__animated animate__fadeIn">
           <a href="javascript:void(0)" class="share" data-name="${product.name}">
             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 0 512 512.001" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="M361.824 344.395c-24.531 0-46.633 10.593-61.972 27.445l-137.973-85.453A83.321 83.321 0 0 0 167.605 256a83.29 83.29 0 0 0-5.726-30.387l137.973-85.457c15.34 16.852 37.441 27.45 61.972 27.45 46.211 0 83.805-37.594 83.805-83.805C445.629 37.59 408.035 0 361.824 0c-46.21 0-83.804 37.594-83.804 83.805a83.403 83.403 0 0 0 5.726 30.386l-137.969 85.454c-15.34-16.852-37.441-27.45-61.972-27.45C37.594 172.195 0 209.793 0 256c0 46.21 37.594 83.805 83.805 83.805 24.53 0 46.633-10.594 61.972-27.45l137.97 85.454a83.408 83.408 0 0 0-5.727 30.39c0 46.207 37.593 83.801 83.804 83.801s83.805-37.594 83.805-83.8c0-46.212-37.594-83.805-83.805-83.805zm-53.246-260.59c0-29.36 23.887-53.246 53.246-53.246s53.246 23.886 53.246 53.246c0 29.36-23.886 53.246-53.246 53.246s-53.246-23.887-53.246-53.246zM83.805 309.246c-29.364 0-53.25-23.887-53.25-53.246s23.886-53.246 53.25-53.246c29.36 0 53.242 23.887 53.242 53.246s-23.883 53.246-53.242 53.246zm224.773 118.95c0-29.36 23.887-53.247 53.246-53.247s53.246 23.887 53.246 53.246c0 29.36-23.886 53.246-53.246 53.246s-53.246-23.886-53.246-53.246zm0 0" fill="#000000" opacity="1" data-original="#000000" class=""></path></g></svg>
           </a>
-          
+            
+          <div class="product-chips">
           ${product.brand ? `<span class="product-brand">${product.brand}</span>` : ''}   
+          ${cashbackChips}
+          </div>
+
+
 
           <div class="prodcuts-image">
             <img src="${product.imageSrc}" alt="">
@@ -531,13 +552,31 @@ function generateRandomId() {
 
 function sumCardTotal() {
   let sumCard = [];
+  let cashback = [];
+
+  const targetBrands = ['Foni', 'Euroacs', 'Joyroom'];
 
   Object.keys(card).map(function(objectKey) {
     var row = card[objectKey];
-    sumCard.push(parseFloat(row.productPrice) * row.count);
+    rowSum = parseFloat(row.productPrice) * row.count;
+
+    sumCard.push(rowSum);
+
+    if(targetBrands.includes(row.brand)) {
+      cashback.push(rowSum);
+    }
   });
 
+  const cashbackSum = cashback.reduce((partialSum, a) => partialSum + a, 0).toFixed(2);
+
   $('.sum-card').text(sumCard.reduce((partialSum, a) => partialSum + a, 0).toFixed(2)); 
+
+  if(cashbackSum >= 50) {
+    $('.sum-cashback').text((cashbackSum * (2 / 100)).toFixed(2)); 
+  } else {
+   $('.sum-cashback').text(0) 
+  }
+
 }
 
 
