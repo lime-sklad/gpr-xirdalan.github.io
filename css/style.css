@@ -393,7 +393,7 @@ button {
     margin-top: 14px;
 }
 
-.product-brand {
+.product-brand, .cashback-chips {
     /* position: absolute; */
     /* top: 7px; */
     /* left: 10px; */
