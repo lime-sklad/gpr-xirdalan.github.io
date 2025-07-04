@@ -213,13 +213,15 @@ $(document).ready(function() {
           
           let itemSum = sumItemTotal(row.count, row.productPrice);
 
-          if(targetBrands.includes(row.brand) && itemSum >= 50) {
+          if(targetBrands.includes(row.brand)) {
             card_cashback = `
                <p class="sum cashback-sum">
                    <span class="sum-title">Cashback:</span> 
-                  <span class="cart-list-item-cashback-sum">${itemSum * (2 / 100)}₼</span> 
+                  <span class="cart-list-item-cashback-sum">${itemSum * (2 / 100)}</span> 
                 </p>
             `;
+
+              console.log(itemSum * (2 / 100) );
           }
 
           $('.cart-list').prepend(`
@@ -347,9 +349,11 @@ $(document).ready(function() {
 
         let scashback = 0;
 
-       if(sumItemTotal(newCount, card[getId].productPrice) >= 50) {
+       if(sumItemTotal(newCount, card[getId].productPrice)) {
           scashback = (sumItemTotal(newCount, card[getId].productPrice) * (2 / 100)).toFixed(2);
        } 
+
+       console.log(scashback);
 
        $(this).closest('.cart-list-item').find('.cart-list-item-cashback-sum').html(`${scashback}`);
     });
@@ -599,8 +603,10 @@ function sumCardTotal() {
   $('.sum-card').text(sumCard.reduce((partialSum, a) => partialSum + a, 0).toFixed(2)); 
 
   if(cashbackSum >= 50) {
-    $('.sum-cashback').text((cashbackSum * (2 / 100)).toFixed(2)); 
+    $('.sum-cashback').text((cashbackSum * (2 / 100)).toFixed(2));
+    $('.cashback-sum').removeClass('hide');
   } else {
+    $('.cashback-sum').addClass('hide');
    $('.sum-cashback').text(0) 
   }
 
