@@ -387,7 +387,7 @@ $(document).ready(function() {
     let cashbackChips = ''
     
     if(targetBrands.includes(product.brand)) {
-      cashbackChips = `<span class="product-brand cashback-chips">2% CASHBACK</span>`;
+      cashbackChips = `<span class="cashback-chips">2% CASHBACK</span>`;
     }
 
 
@@ -566,6 +566,7 @@ function sumCardTotal() {
       cashback.push(rowSum);
     }
   });
+
 
   const cashbackSum = cashback.reduce((partialSum, a) => partialSum + a, 0).toFixed(2);
 
