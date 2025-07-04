@@ -902,3 +902,20 @@ font-size: 23px;
     color: #8419ed;
     font-size: 17px;    
 }
+
+.ssd > .sum { 
+ position: relative;
+}
+
+.cashback-sum {
+    color: green;
+    font-size: 14px;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.ssd {
+    position: absolute;
+    right: 0;
+    display: flex;
+    gap: 6px;
+}

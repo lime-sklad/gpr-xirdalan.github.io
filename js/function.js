@@ -27,7 +27,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=135", function(data) {
+    $.getJSON("products.json?v=136", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -204,10 +204,23 @@ $(document).ready(function() {
       $('.cart-list').html('');
       $('.cart-list-modal').addClass(['display-flex', 'active']);
 
+      let targetBrands = ['Foni', 'Euroacs', 'Joyroom'];
 
       // {imageSrc: '/img/3.jpg', productName: '3 Qulaqlıq BT Euroacs EU-HS30 Black', productPrice: '0.60₼', count: '23', getId: 'SSW3767'}
       Object.keys(savedOrder).map(function(objectKey, index) {
           var row = savedOrder[objectKey];
+          card_cashback = '';
+          
+          let itemSum = sumItemTotal(row.count, row.productPrice);
+
+          if(targetBrands.includes(row.brand) && itemSum >= 50) {
+            card_cashback = `
+               <p class="sum cashback-sum">
+                   <span class="sum-title">Cashback:</span> 
+                  <span class="cart-list-item-cashback-sum">${itemSum * (2 / 100)}₼</span> 
+                </p>
+            `;
+          }
 
           $('.cart-list').prepend(`
             <div class="cart-list-item">
@@ -225,10 +238,16 @@ $(document).ready(function() {
                     <span class="cart-label">Say:</span>
                     <input type="number" class="input cart-list-item-count" value="${row.count}">
 
-                     <p class="sum">
+                    <div class="ssd">
+                      ${card_cashback}
+
+                      <p class="sum">
                          <span class="sum-title">Toplam:</span> 
                         <span class="cart-list-item-total">${sumItemTotal(row.count, row.productPrice)}₼</span> 
                       </p>
+                    <div>
+
+
                   </div>
 
                   <input type="hidden" class="cart-list-item-id" value="${row.getId}">
@@ -325,7 +344,14 @@ $(document).ready(function() {
 
 
        $(this).closest('.cart-list-item').find('.cart-list-item-total').html(`${sumItemTotal(newCount, card[getId].productPrice)}`);
-      
+
+        let scashback = 0;
+
+       if(sumItemTotal(newCount, card[getId].productPrice) >= 50) {
+          scashback = (sumItemTotal(newCount, card[getId].productPrice) * (2 / 100)).toFixed(2);
+       } 
+
+       $(this).closest('.cart-list-item').find('.cart-list-item-cashback-sum').html(`${scashback}`);
     });
 
 
@@ -418,7 +444,7 @@ $(document).ready(function() {
             ${product.discount 
 
             ? `<span class="product-discount-price">
-                  30% endirimlə:
+                  ${product.discount} endirimlə:
                   <span class="products-price">${product.discount ? (product.price - ((product.price) * product.discount / 100)).toFixed(2) : product.price}₼</span>
               </span>` 
 
