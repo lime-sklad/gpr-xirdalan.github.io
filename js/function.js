@@ -27,7 +27,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=137", function(data) {
+    $.getJSON("products.json?v=138", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -426,7 +426,7 @@ $(document).ready(function() {
             ${product.discount 
 
             ? `<span class="product-discount-price">
-                  ${product.discount} endirimlə:
+                  ${product.discount}% endirimlə:
                   <span class="products-price">${product.discount ? (product.price - ((product.price) * product.discount / 100)).toFixed(2) : product.price}₼</span>
               </span>` 
 
