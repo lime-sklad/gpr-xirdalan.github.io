@@ -27,7 +27,7 @@ $(document).ready(function() {
     let isLoading = false;
     let customData = [];
 
-    $.getJSON("products.json?v=136", function(data) {
+    $.getJSON("products.json?v=137", function(data) {
       products = data.products;
       getCategoryList();
 
@@ -209,20 +209,8 @@ $(document).ready(function() {
       // {imageSrc: '/img/3.jpg', productName: '3 Qulaqlıq BT Euroacs EU-HS30 Black', productPrice: '0.60₼', count: '23', getId: 'SSW3767'}
       Object.keys(savedOrder).map(function(objectKey, index) {
           var row = savedOrder[objectKey];
-          card_cashback = '';
           
           let itemSum = sumItemTotal(row.count, row.productPrice);
-
-          if(targetBrands.includes(row.brand)) {
-            card_cashback = `
-               <p class="sum cashback-sum">
-                   <span class="sum-title">Cashback:</span> 
-                  <span class="cart-list-item-cashback-sum">${itemSum * (2 / 100)}</span> 
-                </p>
-            `;
-
-              console.log(itemSum * (2 / 100) );
-          }
 
           $('.cart-list').prepend(`
             <div class="cart-list-item">
@@ -241,7 +229,6 @@ $(document).ready(function() {
                     <input type="number" class="input cart-list-item-count" value="${row.count}">
 
                     <div class="ssd">
-                      ${card_cashback}
 
                       <p class="sum">
                          <span class="sum-title">Toplam:</span> 
@@ -347,15 +334,6 @@ $(document).ready(function() {
 
        $(this).closest('.cart-list-item').find('.cart-list-item-total').html(`${sumItemTotal(newCount, card[getId].productPrice)}`);
 
-        let scashback = 0;
-
-       if(sumItemTotal(newCount, card[getId].productPrice)) {
-          scashback = (sumItemTotal(newCount, card[getId].productPrice) * (2 / 100)).toFixed(2);
-       } 
-
-       console.log(scashback);
-
-       $(this).closest('.cart-list-item').find('.cart-list-item-cashback-sum').html(`${scashback}`);
     });
 
 
@@ -582,7 +560,6 @@ function generateRandomId() {
 
 function sumCardTotal() {
   let sumCard = [];
-  let cashback = [];
 
   const targetBrands = ['Foni', 'Euroacs', 'Joyroom'];
 
@@ -592,24 +569,10 @@ function sumCardTotal() {
 
     sumCard.push(rowSum);
 
-    if(targetBrands.includes(row.brand)) {
-      cashback.push(rowSum);
-    }
   });
 
 
-  const cashbackSum = cashback.reduce((partialSum, a) => partialSum + a, 0).toFixed(2);
-
   $('.sum-card').text(sumCard.reduce((partialSum, a) => partialSum + a, 0).toFixed(2)); 
-
-  if(cashbackSum >= 50) {
-    $('.sum-cashback').text((cashbackSum * (2 / 100)).toFixed(2));
-    $('.cashback-sum').removeClass('hide');
-  } else {
-    $('.cashback-sum').addClass('hide');
-   $('.sum-cashback').text(0) 
-  }
-
 }
 
 

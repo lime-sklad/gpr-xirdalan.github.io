@@ -1,6 +1,276 @@
 {
     "products": [
         {
+            "name": "SAAT SMART KARLER K14 COMBO TWS BLACK",
+            "price": "38",
+            "imageSrc": "/img/KARLER-K14.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KARLER K13 GAME BOX BLACK",
+            "price": "40",
+            "imageSrc": "/img/KARLER-K13.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KARLER KR-AMOR COMBO BLACK+PINK",
+            "price": "40",
+            "imageSrc": "/img/SAAT-KR-AMOR.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KARLER KR-718 KIDS COMBO MINI",
+            "price": "42",
+            "imageSrc": "/img/SAAT-KR-718.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KARLER K-27 COMBO MINI PINK",
+            "price": "35",
+            "imageSrc": "/img/SAAT-K27.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART KARLER K-27 COMBO MINI BLACK",
+            "price": "35",
+            "imageSrc": "/img/SAAT-K27.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU L TO AUX-IN EUROACS EU-P366",
+            "price": "6",
+            "imageSrc": "/img/EU-P366.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 33W EUROACS EU-MQ350 BLK",
+            "price": "9.50",
+            "imageSrc": "/img/EU-MQ350.jpg",
+            "category": "Car charger",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 50 000 EUROACS EU-PB15 22.5W",
+            "price": "60",
+            "imageSrc": "/img/EU-PB15.jpg",
+            "category": "Powerbank",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HUB C EUROACS EU-P407 LAN",
+            "price": "13.50",
+            "imageSrc": "/img/EU-P407.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER USB 25W EUROACS EU-MQ712 C",
+            "price": "7.50",
+            "imageSrc": "/img/EU-MQ712 CHARGER.jpg",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 30W EUROACS EU-MQ715 C",
+            "price": "10",
+            "imageSrc": "/img/CHARGER-MQ715.jpg",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CHARGER PD 25W EUROACS EU-MQ711 C BLK",
+            "price": "8.50",
+            "imageSrc": "/img/CHARGER-MQ711.jpg",
+            "category": "Adapterlər",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR BASLIQ PD 60W EUROACS EU-MC442 2PD",
+            "price": "8",
+            "imageSrc": "/img/eu-mc442.jpg",
+            "category": "Car charger",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CAR BASLIQ PD 60W EUROACS EU-MC427 USB",
+            "price": "9.50",
+            "imageSrc": "/img/EU-MC427.jpg",
+            "category": "Car charger",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CABLE AUX EUROACS EU-D017 SPRING",
+            "price": "2.80",
+            "imageSrc": "/img/EU-D017.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ USB 25W EUROACS EU-MQ712",
+            "price": "6",
+            "imageSrc": "/img/EU-MQ712.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 30W EUROACS EU-MQ715",
+            "price": "8.50",
+            "imageSrc": "/img/EU-MQ715.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W EUROACS EU-MQ711",
+            "price": "7",
+            "imageSrc": "/img/EU-MQ711.jpg",
+            "category": "Basliq",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7014 PRIVACY",
+            "price": "3.50",
+            "imageSrc": "/img/VINIL-V-7014.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7004",
+            "price": "1.50",
+            "imageSrc": "/img/V-7004.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG EUROACS EU-HS40",
+            "price": "23",
+            "imageSrc": "/img/EU-HS40.jpg",
+            "category": "HF BIG BT",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HF BIG EUROACS EU-HS38 BLK",
+            "price": "25",
+            "imageSrc": "/img/EU-HS38.jpg",
+            "category": "HF BIG BT",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KTS-1242",
+            "price": "95",
+            "imageSrc": "/img/KTS-2142.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI BTS-2175",
+            "price": "205",
+            "imageSrc": "/img/BTS-2175.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KTS-2168",
+            "price": "26",
+            "imageSrc": "/img/kts-2168.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS EUROACS EA-X25",
+            "price": "14.50",
+            "imageSrc": "/img/ea-x25.jpg",
+            "category": "Airpods",
+            "brand": "Euroacs",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "PARFUME CAR AVTO RUL AIR",
             "price": "15",
             "imageSrc": "/img/PARFUME CAR AVTO RUL.jpg",
@@ -94,7 +364,7 @@
             "discount": "",
             "pinned": false,
             "hasNew": false
-        },        
+        },
         {
             "name": "START BUTTON BMW",
             "price": "12",
@@ -2657,7 +2927,7 @@
         },
         {
             "name": "SESGUCLENDIRICI GTS-2065 10W 6.5 MIC",
-            "price": "",
+            "price": "20",
             "imageSrc": "/img/GTS-2065.jpg",
             "category": "Sesguclendirici",
             "brand": "",
@@ -2757,7 +3027,7 @@
         },
         {
             "name": "SESGUCLENDIRICI BULI ZQS88801 40W  21SM X3 MIC+REM",
-            "price": "105",
+            "price": "95",
             "imageSrc": "/img/ZQS88801.jpg",
             "category": "Sesguclendirici",
             "brand": "",
