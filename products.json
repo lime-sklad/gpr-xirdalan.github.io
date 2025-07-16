@@ -1,6 +1,306 @@
 {
     "products": [
         {
+            "name": "TWS JOYROOM JR-T03S PRO JIELI ",
+            "price": "30",
+            "imageSrc": "/img/jr-t03s-jieli-pro.png",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-T03S JIELI ",
+            "price": "26",
+            "imageSrc": "/img/jr-t03s-jieli.jpg",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "WS JOYROOM JR-T03S PLUS JIELI",
+            "price": "28",
+            "imageSrc": "/img/jr-t03s-plus-jieli.jpg",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },        
+        {
+            "name": "TWS JOYROOM JR-TS3 WH",
+            "price": "49",
+            "imageSrc": "/img/106402-76d6b4a014cfdb62e651d26b1c5e5669.webp",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-T03S PRO MAX JIELI",
+            "price": "33",
+            "imageSrc": "/img/851066-e2e9594d05e150e6c1c42cd5ddbe5c9c.webp",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-DB2 WHITE",
+            "price": "36",
+            "imageSrc": "/img/107559-622ed2dcc30cb67b6d3123ef15ee5fe5.webp",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-DB1 BLK",
+            "price": "28",
+            "imageSrc": "/img/105240-b323a92b2b505e2cc0fe30cae257504c.jpg",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS JOYROOM JR-BC1 ANC BLK",
+            "price": "37",
+            "imageSrc": "/img/105247-ff6a1243d0e634c188dd7e1c824763ba.jpg",
+            "category": "Airpods",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR WIRELESS VACUUM JOYROOM JR-ZS241",
+            "price": "27.50",
+            "imageSrc": "/img/101865-e6ceadf9244ec3c3439198d8e208a743.jpg",
+            "category": "Car Holder",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR JOYROOM JR-ZS202 MAGNET",
+            "price": "5",
+            "imageSrc": "/img/pad-101141-XgsIQjr2a3PfCxC5.jpg",
+            "category": "Car Holder",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH JOYROOM JR-ZS198",
+            "price": "8.50",
+            "imageSrc": "/img/pad-101139-UOFUd2GI6JyGTnMC.jpg",
+            "category": "Car Holder",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR JOYROOM JR-ZS283",
+            "price": "7.90",
+            "imageSrc": "/img/231321321-f6ccd6e7.webp",
+            "category": "Car Holder",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR JOYROOM JR-ZS205 MAGNET",
+            "price": "7.90",
+            "imageSrc": "/img/103152-203d331f662892396bee409288fd1361.jpg",
+            "category": "Car Holder",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR JOYROOM JR-ZS198",
+            "price": "7.50",
+            "imageSrc": "/img/pad-101138-f6rTWk2HmDuAAw1u.jpg",
+            "category": "Car Holder",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART JOYROOM JR-FV1 BLACK",
+            "price": "88",
+            "imageSrc": "/img/108590-6039a972a3f9c7efaaf5ca27e8e8a3fb.webp",
+            "category": "Smart Saat",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART JOYROOM JR-FT5 BLACK",
+            "price": "60",
+            "imageSrc": "/img/104875-6d91b21d8feb48440d2a328857c42209.jpg",
+            "category": "Smart Saat",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART JOYROOM JR-FT3S",
+            "price": "55",
+            "imageSrc": "/img/108945-288435c99c1e29b8bb8f07bb38ffd1df.webp",
+            "category": "Smart Saat",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART JOYROOM JR-FC2",
+            "price": "75",
+            "imageSrc": "/img/105093-ba3da179c5f869d78959c5b6d740842e.jpg",
+            "category": "Smart Saat",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART JOYROOM FT3 PRO",
+            "price": "55",
+            "imageSrc": "/img/104740-d3cd7223e61b374660bf033528820f46.jpg",
+            "category": "Smart Saat",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 20000 JOYROOM JR-PBF16 22.5W",
+            "price": "40",
+            "imageSrc": "/img/109987-6e2f558e59183e11e74803bac9da785c.webp",
+            "category": "Powerbank",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 20000 JOYROOM JR-PBF14",
+            "price": "30",
+            "imageSrc": "/img/110450-ded501d42bcd969c5911a748b08bf2dc.webp",
+            "category": "Powerbank",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 JOYROOM JR-PBF15 22.5W",
+            "price": "26.50",
+            "imageSrc": "/img/110119-c9a387f7d2d6c8049b5cb4cce687175b.webp",
+            "category": "Powerbank",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "POWERBANK 10000 JOYROOM JR-PBF12",
+            "price": "15",
+            "imageSrc": "/img/110122-8330987b600885f499da47be429a34f7.webp",
+            "category": "Powerbank",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 25W JOYROOM JR-TCF11",
+            "price": "12.50",
+            "imageSrc": "/img/joyroom-jr-tcf11-c-blk-25w_9DltDWl.webp",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W JOYROOM L-P201",
+            "price": "5",
+            "imageSrc": "/img/582673-94a8a34eed3251cd35fe1f7284fcdec5.jpg",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W JOYROOM JR-TCF20",
+            "price": "9",
+            "imageSrc": "/img/4_67cf5a5f-fce6-4772-b96f-168d41fcfb51_1080x.webp",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W JOYROOM JR-TCF14 QC",
+            "price": "13",
+            "imageSrc": "/img/JOYROOMJR-TCF1420WA_CSuperSlimChargerB2BEU_1.webp",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W JOYROOM JR-TCF06 ",
+            "price": "10.50",
+            "imageSrc": "/img/105308-970b0920a0a68218d861bdb22f434977.jpg",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W JOYROOM JR-TCF05 QC",
+            "price": "11.50",
+            "imageSrc": "/img/105901-dc55bd1d1a457385c39fc4b1dcc1fef7.webp",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "BASLIQ PD 20W JOYROOM JR-TCF02",
+            "price": "13.50",
+            "imageSrc": "/img/105899-39324d0c76d9a6ea5ef787a3323abb75.webp",
+            "category": "Basliq",
+            "brand": "Joyroom",
+            "discount": "30",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "SAAT SMART KARLER K14 COMBO TWS BLACK",
             "price": "38",
             "imageSrc": "/img/KARLER-K14.jpg",
@@ -3572,33 +3872,6 @@
             "category": "Parfume",
             "group": "Avtomobil aksesuarları",
             "brand": "Ümumi",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "TWS JOYROOM JR-T03S PRO JIELI ",
-            "price": "30",
-            "imageSrc": "/img/jr-t03s-jieli-pro.png",
-            "category": "Airpods",
-            "brand": "Joyroom",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "TWS JOYROOM JR-T03S JIELI ",
-            "price": "26",
-            "imageSrc": "/img/jr-t03s-jieli.jpg",
-            "category": "Airpods",
-            "brand": "Joyroom",
-            "pinned": false,
-            "hasNew": false
-        },
-        {
-            "name": "WS JOYROOM JR-T03S PLUS JIELI",
-            "price": "28",
-            "imageSrc": "/img/jr-t03s-plus-jieli.jpg",
-            "category": "Airpods",
-            "brand": "Joyroom",
             "pinned": false,
             "hasNew": false
         },
