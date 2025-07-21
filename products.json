@@ -1,6 +1,246 @@
 {
     "products": [
         {
+            "name": "CONTROLLER PS4 FIFA",
+            "price": "19",
+            "imageSrc": "/img/CONTROLLER-PS4-FIFA.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 GOD OF WAR",
+            "price": "19",
+            "imageSrc": "/img/CONTROLLER-PS4-GODOFWAR.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 MESSI",
+            "price": "19",
+            "imageSrc": "/img/CONTROLLER-PS4-MESSI.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 MILITARY BLUE",
+            "price": "19",
+            "imageSrc": "/img/CONTROLLER-PS4-MILITARY-BLUE.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 MILITARY GREEN",
+            "price": "19",
+            "imageSrc": "/img/CONTROLLER-PS4-MILITARY-GREENjpg.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 MINECRAFT",
+            "price": "19",
+            "imageSrc": "/img/CONTROLLER-PS4-MINECRAFT.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 BLACK",
+            "price": "16.50",
+            "imageSrc": "/img/CONTROLLER-PS4-BLACK.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "CONTROLLER PS4 (PS5 DESIGN) WHITE",
+            "price": "29",
+            "imageSrc": "/img/CONTROLLER-PS4.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "MOUSE FONI FN-MS30 BLACK",
+            "price": "2.20",
+            "imageSrc": "/img/FN-MS30.jpg",
+            "category": "Mouse",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "KLAVIATURA WIRED FONI FN-K55",
+            "price": "7",
+            "imageSrc": "/img/FN-K55.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KBROAD KTX-1477 5W 4\" SP+L",
+            "price": "14",
+            "imageSrc": "/img/KTX-1477.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-2116 5W 3\" MIC",
+            "price": "9.80",
+            "imageSrc": "/img/GTS-2116.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI GREATNICE GTS-2068 5W 3\" SP+L",
+            "price": "10.50",
+            "imageSrc": "/img/GTS-2068.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI BRODU BTS-2186 80W 12\" 2MIC",
+            "price": "145",
+            "imageSrc": "/img/BTS-2186.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SESGUCLENDIRICI KBROAD KTS-2030 5W 3\" SP+L",
+            "price": "25",
+            "imageSrc": "/img/KTS-2030.jpg",
+            "category": "Sesguclendirici",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART FN-W10 BLACK",
+            "price": "13.50",
+            "imageSrc": "/img/FN-W10S.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART Y100 ULTRA 10IN1 GIFT BOX RBH",
+            "price": "28",
+            "imageSrc": "/img/Y100.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART T900 MINI 3+1",
+            "price": "14.50",
+            "imageSrc": "/img/T900-MINI.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART ROCK-001 13IN1 GIFT BOX 2W+2H BLACK",
+            "price": "40",
+            "imageSrc": "/img/R0CK-001.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART OK-1 4IN5 GIFT BOX 2W+GAMING",
+            "price": "40",
+            "imageSrc": "/img/OK-1-4IN5.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART HR5 ULTRA3 3+2 BLACK",
+            "price": "17.50",
+            "imageSrc": "/img/HR5-ULTRA3.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART HK 10 PRO MAX",
+            "price": "55",
+            "imageSrc": "/img/HK-10-PROMAX.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART DT SERIES 10 AMOLED BLACK STRAP BLACK",
+            "price": "48",
+            "imageSrc": "/img/DT-SERIES.jpg",
+            "category": "Smart Saat",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "SAAT SMART FONI FN-W101 ULTRA 10IN1 BLACK",
+            "price": "19.50",
+            "imageSrc": "/img/fn-w101.jpg",
+            "category": "Smart Saat",
+            "brand": "Foni",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "TWS JOYROOM JR-T03S PRO JIELI ",
             "price": "30",
             "imageSrc": "/img/jr-t03s-jieli-pro.png",
@@ -29,7 +269,7 @@
             "discount": "30",
             "pinned": false,
             "hasNew": false
-        },        
+        },
         {
             "name": "TWS JOYROOM JR-TS3 WH",
             "price": "49",
