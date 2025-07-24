@@ -1,6 +1,246 @@
 {
     "products": [
         {
+            "name": "VINIL MACHINE E5-230GB",
+            "price": "800",
+            "imageSrc": "/img/E5-230GB.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "RECIVER BT CAR 960",
+            "price": "4.50",
+            "imageSrc": "/img/CART-960-N.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP S398 SILVER",
+            "price": "5",
+            "imageSrc": "/img/S398.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER DESKTOP L-018 NOTEBOOK",
+            "price": "26.50",
+            "imageSrc": "/img/L-018.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM RT91G",
+            "price": "6",
+            "imageSrc": "/img/RT91G.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM RT69F",
+            "price": "6.50",
+            "imageSrc": "/img/RT69F.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR VACUUM RT66R",
+            "price": "6.50",
+            "imageSrc": "/img/RT66R.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH MAGSAFE H800",
+            "price": "6.50",
+            "imageSrc": "/img/H800.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR DASH MAGSAFE G512",
+            "price": "12.50",
+            "imageSrc": "/img/EUROACS-G512.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "HOLDER CAR AIR RT60Q",
+            "price": "4.50",
+            "imageSrc": "/img/RT60Q.jpg",
+            "category": "Car Holder",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT HM138",
+            "price": "5",
+            "imageSrc": "/img/HM138.jpg",
+            "category": "FM modulyator",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT HM135",
+            "price": "5",
+            "imageSrc": "/img/HM135.jpg",
+            "category": "FM modulyator",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT HM105",
+            "price": "8",
+            "imageSrc": "/img/HM105.jpg",
+            "category": "FM modulyator",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "FM CAR BT C35",
+            "price": "5.50",
+            "imageSrc": "/img/FM-CAR-BT-C35.jpg",
+            "category": "FM modulyator",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS XIAOMI BUDS 6 LITE BLACK",
+            "price": "32",
+            "imageSrc": "/img/BUDS-6-LITE.jpg",
+            "category": "Airpods",
+            "brand": "MI",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS XIAOMI BUDS 6 ACTIVE BLACK",
+            "price": "25",
+            "imageSrc": "/img/BUDS-6-ACTIVE.jpg",
+            "category": "Airpods",
+            "brand": "MI",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS XIAOMI BUDS 4 BLACK",
+            "price": "30",
+            "imageSrc": "/img/BUDS-5.jpg",
+            "category": "Airpods",
+            "brand": "MI",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS XIAOMI BUDS 4 LITE WHITE",
+            "price": "20",
+            "imageSrc": "/img/BUDS-4-LITE-WHITE.jpg",
+            "category": "Airpods",
+            "brand": "MI",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS XIAOMI BUDS 4 LITE BLACK",
+            "price": "20",
+            "imageSrc": "/img/BUDS-4-LITE-BLACK.jpg",
+            "category": "Airpods",
+            "brand": "MI",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS XIAOMI BUDS 4 ACTIVE ",
+            "price": "25",
+            "imageSrc": "/img/BUDS-4.jpg",
+            "category": "Airpods",
+            "brand": "MI",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS HELMET K08",
+            "price": "30",
+            "imageSrc": "/img/HELMET-K08.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "TWS HELMET K06",
+            "price": "25",
+            "imageSrc": "/img/helmet-k06.jpg",
+            "category": "Qarışıq məhsullar",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO OTG JOKADE JC019",
+            "price": "1.50",
+            "imageSrc": "/img/jc019.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Jokade",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "OTURUCU C TO AUX JOKADE JA016",
+            "price": "3",
+            "imageSrc": "/img/ja016.jpg",
+            "category": "Oturucu (OTG, AUX)",
+            "brand": "Jokade",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
             "name": "CONTROLLER PS4 FIFA",
             "price": "19",
             "imageSrc": "/img/CONTROLLER-PS4-FIFA.jpg",
