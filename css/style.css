@@ -194,14 +194,17 @@ body {
 }
 
 select {
-    padding: 5px 5px;
+    padding: 6px 7px;
     min-width: 190px;
-    font-size: 14px;
-    font-weight: 500;
+    font-size: 15px;
+    font-weight: 700;
     border-radius: 3px;
     border: 0px;
     box-shadow: 0px 0px 0px 1.4px #a7a7a7;
     outline: none;
+    margin-top: 1px;
+    background: #fe001b;
+    color: #fff;
 }
 
 .add-to-card-modal {

@@ -53,7 +53,7 @@ $productPrice = $_POST['productPrice'];
 $productCategory = $_POST['productCategory'];
 $productBrand = $_POST['productBrand'];
 $discount = $_POST['productDsicount'];
-
+$productGroup = $_POST['productGroup'];
 
 if(!empty($_POST['productName'])) {
 
@@ -80,6 +80,7 @@ $newEntry = [
     'price' => $productPrice,
     'imageSrc' => '/img/'.$imageName,
     'category' => $productCategory,
+    'group' => $productGroup ?: false,
     'brand' => $productBrand,
     'discount' => $discount,
     'pinned' => false,
@@ -128,6 +129,9 @@ file_put_contents($file, $newJsonData);
 
   <label for="productCategory">Category</label>
   <input type="text" name="productCategory">
+
+  <label for="productDsicount">Group</label>
+  <input type="text" name="productGroup">  
 
   <label for="productBrand">Brand</label>
   <input type="text" name="productBrand">
