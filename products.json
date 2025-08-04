@@ -1,6 +1,156 @@
 {
     "products": [
         {
+            "name": "VINIL V-7032 RED LINE",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0049.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7032 PITAKA GREEN",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0050.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7032 PITAKA MOUNTAIN",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0051.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7032 PITAKA BMW",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0053.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7032 PITAKA SUNSET",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0054.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7048 GUESS 01",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0052.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7048 GUESS 02",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0055.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7032 PITAKA HERBI",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0056.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7046 LEATHER BLACK",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0057.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        },
+        {
+            "name": "VINIL V-7044 LEOPARD",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0059.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        }, 
+        {
+            "name": "VINIL V-7032 PITAKA LEATHER",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0060.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        }, 
+        {
+            "name": "VINIL V-7032 PITAKA ZIGZAG BLACK",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0061.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        }, 
+        {
+            "name": "VINIL V-7032 PITAKA GREEN",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0062.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        }, 
+        {
+            "name": "VINIL V-7042 RED FLOWER",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0063.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        }, 
+        {
+            "name": "VINIL V-7043 LILAC ROSE",
+            "price": "3",
+            "imageSrc": "/img/IMG-20250804-WA0064.jpg",
+            "category": "Vinil",
+            "brand": "",
+            "discount": "",
+            "pinned": false,
+            "hasNew": false
+        }, 
+        {
             "name": "[44-49MM] REMEN SAAT WA-1025 SILIKON DALGALI",
             "price": "2.50",
             "imageSrc": "/img/wa-1025-6.jpg",
@@ -1101,7 +1251,7 @@
             "name": "VINIL V-7014 PRIVACY",
             "price": "3.50",
             "imageSrc": "/img/VINIL-V-7014.jpg",
-            "category": "Qarışıq məhsullar",
+            "category": "Vinil",
             "brand": "",
             "discount": "",
             "pinned": false,
@@ -1111,7 +1261,7 @@
             "name": "VINIL V-7004",
             "price": "1.50",
             "imageSrc": "/img/V-7004.jpg",
-            "category": "Qarışıq məhsullar",
+            "category": "Vinil",
             "brand": "",
             "discount": "",
             "pinned": false,
@@ -1549,7 +1699,7 @@
         },
         {
             "name": "EYNEK QABI AVTO WIT VIP",
-            "price": "12",
+            "price": "7.50",
             "imageSrc": "/img/EYNEK-QABI-AVTO.jpg",
             "category": "Aksesuarlar",
             "group": "Avtomobil aksesuarları",
@@ -1838,7 +1988,7 @@
         },
         {
             "name": "LED 45SM RGB+HOLDER",
-            "price": "48",
+            "price": "42",
             "imageSrc": "/img/LED-45SM.jpg",
             "category": "Qarışıq məhsullar",
             "brand": "",
@@ -1870,7 +2020,7 @@
         },
         {
             "name": "LED 56SM RGB+HOLDER",
-            "price": "65",
+            "price": "57",
             "imageSrc": "/img/LED 56SM.jpg",
             "category": "Qarışıq məhsullar",
             "brand": "",
@@ -2377,7 +2527,7 @@
         },
         {
             "name": "DERMAN BOX FOR AVTO",
-            "price": "10",
+            "price": "11",
             "imageSrc": "/img/DERMAN-BOX-FOR-AVTO.jpg",
             "category": "Aksesuarlar",
             "group": "Avtomobil aksesuarları",
@@ -3754,7 +3904,7 @@
         },
         {
             "name": "LED 36SM RGB+HOLDER",
-            "price": "19",
+            "price": "15",
             "imageSrc": "/img/led36.jpg",
             "category": "Qarışıq məhsullar",
             "brand": "",
@@ -3764,7 +3914,7 @@
         },
         {
             "name": "LED 30SM RGB+HOLDER",
-            "price": "14",
+            "price": "12",
             "imageSrc": "/img/led30sm.jpg",
             "category": "Qarışıq məhsullar",
             "brand": "",
@@ -11640,7 +11790,7 @@
         },
         {
             "name": "CABLE USB EUROACS EU-Y11 C WH",
-            "price": "1.30",
+            "price": "1",
             "imageSrc": "/img/y11-t.png",
             "category": "Cable",
             "brand": "Euroacs",
@@ -11649,7 +11799,7 @@
         },
         {
             "name": "CABLE USB EUROACS EU-Y11 L WH",
-            "price": "1.30",
+            "price": "0.90",
             "imageSrc": "/img/y11-l.png",
             "category": "Cable",
             "brand": "Euroacs",
@@ -11802,7 +11952,7 @@
         },
         {
             "name": "CABLE USB EUROACS EU-Z115 M BLK",
-            "price": "2",
+            "price": "2.20",
             "imageSrc": "/img/z115-m.png",
             "category": "Cable",
             "brand": "Euroacs",
